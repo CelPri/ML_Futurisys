@@ -14,6 +14,11 @@ DB_NAME = os.getenv("DB_NAME")
 
 DATABASE_URL = f"postgresql+psycopg2://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}"
 
+# Use a fake SQLite DB during tests to avoid errors
+if os.getenv("ENV") == "test":
+    DATABASE_URL = "sqlite:///./test.db"
+
+
 engine = create_engine(DATABASE_URL)
 
 SessionLocal = sessionmaker(bind=engine, autoflush=False, autocommit=False)
