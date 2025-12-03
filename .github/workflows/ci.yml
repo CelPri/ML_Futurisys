@@ -9,6 +9,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      ENV: test
 
     steps:
       - name: Checkout du code
