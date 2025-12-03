@@ -1,0 +1,33 @@
+name: CI Pipeline
+
+on:                 # Définition des déclencheurs du pipeline
+  push:             # Lance le pipeline quand on fait un push
+    branches: [ master ]   # uniquement sur la branche master
+  pull_request:            # Lance aussi quand on ouvre une pull request
+    branches: [ master ]   # vers la branche master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest   # Machine virtuelle utilisée
+
+    steps:
+      - name: Checkout du code
+        uses: actions/checkout@v3
+
+      - name: Configuration de Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      
+      - name: Run tests
+        run: |
+          pytest
+
+      - name: Check Python syntax
+        run: |
+          python -m py_compile $(git ls-files '*.py')

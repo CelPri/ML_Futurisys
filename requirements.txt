@@ -1,0 +1,9 @@
+pytest
+pytest-cov
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+imbalanced-learn
+shap
