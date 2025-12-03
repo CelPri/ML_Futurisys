@@ -47,7 +47,7 @@ jobs:
 
       - name: Deploy to Hugging Face Space
         env:
-          HF_TOKEN: ${{ secrets.github-deployment }}
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
 
         run: |
           echo "Connexion à Hugging Face..."
