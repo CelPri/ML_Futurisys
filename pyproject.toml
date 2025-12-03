@@ -1,0 +1,22 @@
+[project]
+name = "ml-futurisys"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi",
+    "uvicorn",
+    "pydantic",
+    "joblib",
+    "scikit-learn",
+    "imbalanced-learn",
+    "pandas",
+    "numpy",
+    "matplotlib",
+    "seaborn",
+    "shap",
+    "pytest",
+    "pytest-cov"
+]
+
