@@ -1,14 +1,14 @@
 name: CI Pipeline
 
-on:                 # Définition des déclencheurs du pipeline
-  push:             # Lance le pipeline quand on fait un push
-    branches: [ master ]   # uniquement sur la branche master
-  pull_request:            # Lance aussi quand on ouvre une pull request
-    branches: [ master ]   # vers la branche master
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
 
 jobs:
   build:
-    runs-on: ubuntu-latest   # Machine virtuelle utilisée
+    runs-on: ubuntu-latest
 
     steps:
       - name: Checkout du code
@@ -21,13 +21,31 @@ jobs:
 
       - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
+          pip install --upgrade pip
           pip install -r requirements.txt
       
       - name: Run tests
-        run: |
-          pytest
+        run: pytest
 
       - name: Check Python syntax
+        run: python -m py_compile $(git ls-files '*.py')
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/master'
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Install Hugging Face CLI
+        run: pip install huggingface_hub
+
+      - name: Deploy to Hugging Face Space
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: |
-          python -m py_compile $(git ls-files '*.py')
+          echo "Connexion à Hugging Face..."
+          hf auth login --token $HF_TOKEN
+          echo "Déploiement du Space 🚀"
+          hf upload --repo-type space PCelia/futurisys-api .
