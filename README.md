@@ -1,3 +1,11 @@
+---
+title: Futurisys API
+emoji: 🚀
+sdk: docker
+pinned: false
+---
+
+
 # Futurisys - Déploiement d’un modèle de Machine Learning
 
 
