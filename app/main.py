@@ -63,8 +63,8 @@ app = FastAPI(title="API Futurisys")
 @app.get("/")
 def read_root():
     return {
-        "message": "Bienvenue dans l'API Futurisys",
-        "documentation": "/docs"
+        "message": "Bienvenue dans l'API Futurisys. Accedez au Swagger : https://huggingface.co/spaces/PCelia/futurisys-api",
+        
     }
 
 @app.get("/threshold")
