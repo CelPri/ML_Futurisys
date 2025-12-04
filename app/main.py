@@ -64,6 +64,7 @@ app = FastAPI(title="API Futurisys")
 def read_root():
     return {
         "message": "Bienvenue dans l'API Futurisys",
+        "documentation": "/docs",
         "info": "Accedez au Swagger : https://huggingface.co/spaces/PCelia/futurisys-api"
         
     }
