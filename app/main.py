@@ -112,7 +112,8 @@ def predict(data: PredictionRawData):
     new_output = Output(
         id_input = new_input.id_input,
         prediction = int(pred),
-        probability = float(proba)
+        probabilite = float(proba)
+
     )
     db.add(new_output)
     db.commit()
@@ -176,8 +177,9 @@ def predict_from_db_employe(
 
         return {
             "params": data,
-            "probabilite": round(float(proba), 3),
-            "prediction": bool(pred)
+            "probabilité": round(float(proba), 3),
+            "prédiction": bool(pred)
+
         }
 
     except Exception as e:
