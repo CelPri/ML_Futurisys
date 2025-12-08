@@ -123,66 +123,45 @@ def predict(data: PredictionRawData):
         "probabilité": round(float(proba), 3),
         "prédiction": pred
     }
-from sqlalchemy import text
-
-@app.get("/test_ids")
-def test_ids():
-    db = SessionLocal()
-    from sqlalchemy import text
-    result = db.execute(text("SELECT employee_id FROM employes LIMIT 20;")).fetchall()
-    return {"ids": result}
-
-
-
-import traceback
-
 
 @app.post("/predict_from_db_employe")
 def predict_from_db_employe(
     employee_id: int = Query(..., ge=1)
 ):
-    try:
-        db = SessionLocal()
+    db = SessionLocal()
 
-        employe = db.query(Employe).filter(Employe.employee_id == employee_id).first()
-        if not employe:
-            return {"message": f"Aucun employé trouvé avec l'id {employee_id}"}
+    employe = db.query(Employe).filter(Employe.employee_id == employee_id).first()
+    if not employe:
+        return {"message": f"Aucun employé trouvé avec l'id {employee_id}"}
 
-        data = employe.__dict__.copy()
-        data.pop("_sa_instance_state", None)
+    data = employe.__dict__.copy()
+    data.pop("_sa_instance_state", None)
 
-        df = pd.DataFrame([data])
-        df = transform_fe(df)
+    df = pd.DataFrame([data])
+    df = transform_fe(df)
 
-        proba = pipeline.predict_proba(df)[0][1]
-        pred = proba >= threshold
+    proba = pipeline.predict_proba(df)[0][1]
+    pred = proba >= threshold
 
-        new_input = Input(
-            timestamp_input=datetime.datetime.now(),
-            employee_id=employee_id,
-            age=employe.age
-        )
-        db.add(new_input)
-        db.commit()
-        db.refresh(new_input)
+    new_input = Input(
+        timestamp_input=datetime.datetime.now(),
+        employee_id=employee_id,
+        age=employe.age
+    )
+    db.add(new_input)
+    db.commit()
+    db.refresh(new_input)
 
-        new_output = Output(
-            id_input=new_input.id_input,
-            prediction=int(pred),
-            probabilite=float(proba)
+    new_output = Output(
+        id_input=new_input.id_input,
+        prediction=int(pred),
+        probabilite=float(proba)
+    )
+    db.add(new_output)
+    db.commit()
 
-        )
-        db.add(new_output)
-        db.commit()
-
-        return {
-            "params": data,
-            "probabilité": round(float(proba), 3),
-            "prédiction": bool(pred)
-
-        }
-
-    except Exception as e:
-        print("ERROR PREDICT_FROM_DB:", e)
-        traceback.print_exc()
-        return {"error": str(e)}
+    return {
+        "params": data,
+        "probabilité": round(float(proba), 3),
+        "prédiction": bool(pred)
+    }
