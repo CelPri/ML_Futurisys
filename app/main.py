@@ -85,7 +85,7 @@ def read_threshold():
 
 @app.post("/predict")
 def predict(data: PredictionRawData):
-
+#test
     # Convertir en DataFrame
     df = pd.DataFrame([data.dict()])
     df = transform_fe(df)

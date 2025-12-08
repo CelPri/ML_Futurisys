@@ -1,5 +1,3 @@
-
-
 import os
 from dotenv import load_dotenv
 from sqlalchemy import create_engine
@@ -11,10 +9,12 @@ load_dotenv()
 RUNNING_IN_HF = os.getenv("SPACE_ID") is not None
 RUNNING_TESTS = os.getenv("ENV") == "test"
 
-if RUNNING_IN_HF or RUNNING_TESTS:
+# if RUNNING_IN_HF or RUNNING_TESTS:
     # Use SQLite for HuggingFace and for tests
+if True:
+
     DATABASE_URL = "sqlite:///./futurisys.db"
-    print("DATABASE_URL =", DATABASE_URL)
+
 
 else:
     # Normal PostgreSQL configuration
