@@ -1,3 +1,5 @@
+
+
 import os
 from dotenv import load_dotenv
 from sqlalchemy import create_engine
@@ -12,6 +14,8 @@ RUNNING_TESTS = os.getenv("ENV") == "test"
 if RUNNING_IN_HF or RUNNING_TESTS:
     # Use SQLite for HuggingFace and for tests
     DATABASE_URL = "sqlite:///./futurisys.db"
+    print("DATABASE_URL =", DATABASE_URL)
+
 else:
     # Normal PostgreSQL configuration
     DB_USER = os.getenv("DB_USER")
@@ -31,3 +35,4 @@ engine = create_engine(
 
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 Base = declarative_base()
+

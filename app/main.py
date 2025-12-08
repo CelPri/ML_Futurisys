@@ -1,13 +1,17 @@
 # app/main.py
+
 from fastapi import FastAPI
 from pydantic import BaseModel
 from typing import Literal
 import pandas as pd
 from joblib import load
 from app.database import Base, engine, SessionLocal
-from app.models import Input, Output
+from app.models import Input, Output, Employe
 import datetime
 from app.feature_engineering import transform_fe
+from fastapi import Query
+
+from app.database import DATABASE_URL
 
 
 # Création automatique des tables
@@ -60,12 +64,14 @@ class PredictionRawData(BaseModel):
 
 app = FastAPI(title="API Futurisys")
 
+
+
 @app.get("/")
 def read_root():
     return {
         "message": "Bienvenue dans l'API Futurisys",
         "documentation": "/docs",
-        "info": "Accedez au Swagger : https://huggingface.co/spaces/PCelia/futurisys-api"
+        "info": "Accedez au Swagger : https://pcelia-futurisys-api.hf.space/docs"
         
     }
 
@@ -88,10 +94,10 @@ def predict(data: PredictionRawData):
     proba = pipeline.predict_proba(df)[0][1]
     pred = bool(proba >= threshold)
 
-    # --- Enregistrement dans la DB ---
+    # Enregistrement dans la DB 
     db = SessionLocal()
 
-    # 1) Input
+    # Input
 
     new_input = Input(
     timestamp_input=datetime.datetime.now(),
@@ -102,7 +108,7 @@ def predict(data: PredictionRawData):
     db.commit()
     db.refresh(new_input)
 
-    # 2) Output
+    # Output
     new_output = Output(
         id_input = new_input.id_input,
         prediction = int(pred),
@@ -110,10 +116,71 @@ def predict(data: PredictionRawData):
     )
     db.add(new_output)
     db.commit()
-    # --- FIN enregistrement ---
+    #  FIN enregistrement 
 
     return {
         "probabilité": round(float(proba), 3),
         "prédiction": pred
     }
+from sqlalchemy import text
 
+@app.get("/test_ids")
+def test_ids():
+    db = SessionLocal()
+    from sqlalchemy import text
+    result = db.execute(text("SELECT employee_id FROM employes LIMIT 20;")).fetchall()
+    return {"ids": result}
+
+
+
+import traceback
+
+
+@app.post("/predict_from_db_employe")
+def predict_from_db_employe(
+    employee_id: int = Query(..., ge=1)
+):
+    try:
+        db = SessionLocal()
+
+        employe = db.query(Employe).filter(Employe.employee_id == employee_id).first()
+        if not employe:
+            return {"message": f"Aucun employé trouvé avec l'id {employee_id}"}
+
+        data = employe.__dict__.copy()
+        data.pop("_sa_instance_state", None)
+
+        df = pd.DataFrame([data])
+        df = transform_fe(df)
+
+        proba = pipeline.predict_proba(df)[0][1]
+        pred = proba >= threshold
+
+        new_input = Input(
+            timestamp_input=datetime.datetime.now(),
+            employee_id=employee_id,
+            age=employe.age
+        )
+        db.add(new_input)
+        db.commit()
+        db.refresh(new_input)
+
+        new_output = Output(
+            id_input=new_input.id_input,
+            prediction=int(pred),
+            probabilite=float(proba)
+
+        )
+        db.add(new_output)
+        db.commit()
+
+        return {
+            "params": data,
+            "probabilite": round(float(proba), 3),
+            "prediction": bool(pred)
+        }
+
+    except Exception as e:
+        print("ERROR PREDICT_FROM_DB:", e)
+        traceback.print_exc()
+        return {"error": str(e)}
