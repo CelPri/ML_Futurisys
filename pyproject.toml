@@ -20,7 +20,7 @@ dependencies = [
     "pytest-cov",
     "httpx",
     "sqlalchemy",
-    "python-dotenv"
+    "python-dotenv",
 ]
 
 

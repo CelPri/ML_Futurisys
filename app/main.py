@@ -1,5 +1,3 @@
-# app/main.py
-
 from fastapi import FastAPI
 from pydantic import BaseModel
 from typing import Literal
@@ -10,7 +8,6 @@ from app.models import Input, Output, Employe
 import datetime
 from app.feature_engineering import transform_fe
 from fastapi import Query
-
 from app.database import DATABASE_URL
 
 
@@ -65,7 +62,6 @@ class PredictionRawData(BaseModel):
 app = FastAPI(title="API Futurisys")
 
 
-
 @app.get("/")
 def read_root():
     return {
@@ -85,7 +81,6 @@ def read_threshold():
 
 @app.post("/predict")
 def predict(data: PredictionRawData):
-#test
     # Convertir en DataFrame
     df = pd.DataFrame([data.dict()])
     df = transform_fe(df)

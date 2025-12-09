@@ -1,5 +1,6 @@
 from pydantic import ValidationError
 from app.main import PredictionRawData
+from app.main import get_db
 
 def test_schema_accepts_valid_age():
     data = {
@@ -35,6 +36,18 @@ def test_schema_rejects_invalid_age():
 
     try:
         PredictionRawData(**data)
-        assert False  # si ça ne plante pas, c'est mauvais
+        assert False  # si ça ne plante pas, erreur
     except ValidationError:
-        assert True   # si ça plante comme prévu, c'est bon
+        assert True   # si ça plante comme prévu, ok
+
+
+
+def test_get_db():
+    gen = get_db()          # on récupère le générateur
+    db = next(gen)          # exécute "db = SessionLocal()" et "yield db"
+    assert db is not None   # couvre la partie try / yield
+    try:
+        next(gen)           # va provoquer StopIteration
+    except StopIteration:
+        pass                # couvre le finally: db.close()
+

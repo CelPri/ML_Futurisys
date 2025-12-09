@@ -5,19 +5,19 @@ from sqlalchemy.orm import sessionmaker, declarative_base
 
 load_dotenv()
 
-# Detect HF Space or test environment
+# Détecter environnement HF Space ou de tests
 RUNNING_IN_HF = os.getenv("SPACE_ID") is not None
 RUNNING_TESTS = os.getenv("ENV") == "test"
 
-# if RUNNING_IN_HF or RUNNING_TESTS:
-    # Use SQLite for HuggingFace and for tests
+# Utiliser SQLite pour Hugging Face et pour les tests  
+    # Sinon : configuration PostgreSQL normale**
 if True:
 
     DATABASE_URL = "sqlite:///./futurisys.db"
 
 
 else:
-    # Normal PostgreSQL configuration
+    # PostgreSQL configuration normale
     DB_USER = os.getenv("DB_USER")
     DB_PASSWORD = os.getenv("DB_PASSWORD")
     DB_HOST = os.getenv("DB_HOST")

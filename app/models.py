@@ -26,9 +26,6 @@ class Employe(Base):
     __tablename__ = "employes"
 
     employee_id = Column(Integer, primary_key=True)
-
-
-
     age = Column(Integer)
     revenu_mensuel = Column(Float)
     statut_marital = Column(String)

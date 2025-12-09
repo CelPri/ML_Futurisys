@@ -1,0 +1,1471 @@
+employee_id,age,revenu_mensuel,statut_marital,departement,poste,annee_experience_totale,annees_dans_l_entreprise,annees_dans_le_poste_actuel,satisfaction_employee_environnement,note_evaluation_precedente,satisfaction_employee_nature_travail,satisfaction_employee_equipe,satisfaction_employee_equilibre_pro_perso,note_evaluation_actuelle,heure_supplementaires,augementation_salaire_precedente,nombre_participation_pee,frequence_deplacement,annes_sous_responsable_actuel
+1,41,5993,Célibataire,Commercial,Cadre Commercial,8,6,4,2,3,4,1,1,3,Oui,11.0,0,Occasionnel,5
+2,49,5130,Marié(e),Consulting,Assistant de Direction,10,10,7,3,2,2,4,3,4,Non,23.0,1,Frequent,7
+4,37,2090,Célibataire,Consulting,Consultant,7,0,0,4,2,3,2,3,3,Oui,15.0,0,Occasionnel,0
+5,33,2909,Marié(e),Consulting,Assistant de Direction,8,8,7,4,3,3,3,3,3,Oui,11.0,0,Frequent,0
+7,27,3468,Marié(e),Consulting,Consultant,6,2,2,1,3,2,4,3,3,Non,12.0,1,Occasionnel,2
+8,32,3068,Célibataire,Consulting,Consultant,8,7,7,4,3,4,3,2,3,Non,13.0,0,Frequent,6
+10,59,2670,Marié(e),Consulting,Consultant,12,1,0,3,4,1,1,2,4,Oui,20.0,3,Occasionnel,0
+11,30,2693,Divorcé(e),Consulting,Consultant,1,1,0,4,3,3,2,3,4,Non,22.0,1,Occasionnel,0
+12,38,9526,Célibataire,Consulting,Tech Lead,10,9,7,4,2,3,2,3,4,Non,21.0,0,Frequent,8
+13,36,5237,Marié(e),Consulting,Manager,17,7,7,3,3,3,2,2,3,Non,13.0,2,Occasionnel,7
+14,35,2426,Marié(e),Consulting,Consultant,6,5,4,1,4,2,3,3,3,Non,13.0,1,Occasionnel,3
+15,29,4193,Célibataire,Consulting,Consultant,10,9,5,4,2,3,4,3,3,Oui,12.0,0,Occasionnel,8
+16,31,2911,Divorcé(e),Consulting,Assistant de Direction,5,5,2,1,3,3,4,2,3,Non,17.0,1,Occasionnel,3
+18,34,2661,Divorcé(e),Consulting,Consultant,3,2,2,2,3,4,3,3,3,Non,11.0,1,Occasionnel,2
+19,28,2028,Célibataire,Consulting,Consultant,6,4,2,3,2,3,2,3,3,Oui,14.0,0,Occasionnel,3
+20,29,9980,Divorcé(e),Consulting,Tech Lead,10,10,9,2,4,1,3,3,3,Non,11.0,1,Occasionnel,8
+21,32,3298,Divorcé(e),Consulting,Assistant de Direction,7,6,2,1,4,2,4,2,3,Oui,12.0,2,Occasionnel,5
+22,22,2935,Divorcé(e),Consulting,Consultant,1,1,0,4,4,4,2,2,3,Oui,13.0,2,Aucun,0
+23,53,15427,Marié(e),Commercial,Senior Manager,31,25,8,1,2,4,3,3,3,Non,16.0,0,Occasionnel,7
+24,38,3944,Célibataire,Consulting,Assistant de Direction,6,3,2,4,3,4,3,3,3,Oui,11.0,0,Occasionnel,2
+26,24,4011,Divorcé(e),Consulting,Tech Lead,5,4,2,1,4,3,4,2,3,Non,18.0,1,Aucun,3
+27,36,3407,Célibataire,Commercial,Représentant Commercial,10,5,3,3,2,1,2,3,4,Non,23.0,0,Occasionnel,3
+28,34,11994,Célibataire,Consulting,Directeur Technique,13,12,6,1,3,2,3,3,3,Non,11.0,0,Occasionnel,11
+30,21,1232,Célibataire,Consulting,Assistant de Direction,0,0,0,3,3,4,4,3,3,Non,14.0,0,Occasionnel,0
+31,34,2960,Célibataire,Consulting,Assistant de Direction,8,4,2,2,3,1,3,3,3,Non,11.0,0,Occasionnel,3
+32,53,19094,Divorcé(e),Consulting,Senior Manager,26,14,13,3,3,3,4,2,3,Non,11.0,1,Occasionnel,8
+33,32,3919,Célibataire,Consulting,Assistant de Direction,10,10,2,2,1,1,2,3,4,Oui,22.0,0,Frequent,7
+35,42,6825,Marié(e),Commercial,Cadre Commercial,10,9,7,3,3,2,4,3,3,Non,11.0,1,Occasionnel,2
+36,44,10248,Marié(e),Consulting,Manager,24,22,6,1,2,4,4,3,3,Non,14.0,1,Occasionnel,17
+38,46,18947,Célibataire,Commercial,Senior Manager,22,2,2,2,3,1,4,2,3,Non,12.0,0,Occasionnel,1
+39,33,2496,Célibataire,Consulting,Consultant,7,1,1,3,3,4,4,3,3,Non,11.0,0,Occasionnel,0
+40,44,6465,Marié(e),Consulting,Manager,9,4,2,4,3,4,4,4,3,Oui,13.0,0,Occasionnel,3
+41,30,2206,Célibataire,Consulting,Consultant,10,10,0,4,2,3,1,3,3,Non,13.0,0,Occasionnel,8
+42,39,2086,Marié(e),Commercial,Représentant Commercial,19,1,0,4,3,4,3,4,3,Non,14.0,1,Occasionnel,0
+45,24,2293,Marié(e),Consulting,Assistant de Direction,6,2,0,2,3,4,1,2,3,Oui,16.0,1,Occasionnel,0
+46,43,2645,Divorcé(e),Consulting,Assistant de Direction,6,5,3,4,4,3,4,2,3,Non,12.0,2,Occasionnel,4
+47,50,2683,Marié(e),Commercial,Représentant Commercial,3,3,2,1,2,3,3,3,3,Oui,14.0,0,Occasionnel,2
+49,35,2014,Marié(e),Commercial,Représentant Commercial,2,2,2,4,3,4,1,3,3,Non,13.0,0,Occasionnel,2
+51,36,3419,Marié(e),Consulting,Assistant de Direction,6,1,1,2,2,1,4,4,3,Oui,14.0,1,Occasionnel,0
+52,33,5376,Marié(e),Commercial,Cadre Commercial,10,5,3,3,4,1,1,3,3,Non,19.0,2,Frequent,3
+53,35,1951,Divorcé(e),Consulting,Consultant,1,1,0,3,3,4,3,3,3,Non,12.0,1,Occasionnel,0
+54,27,2341,Divorcé(e),Consulting,Consultant,1,1,0,4,3,1,4,3,3,Non,13.0,1,Occasionnel,0
+55,26,2293,Célibataire,Consulting,Consultant,1,1,0,1,1,3,3,2,3,Non,12.0,0,Occasionnel,1
+56,27,8726,Célibataire,Commercial,Cadre Commercial,9,9,8,4,3,3,4,3,3,Non,15.0,0,Frequent,7
+57,30,4011,Célibataire,Consulting,Consultant,12,12,8,3,3,4,4,3,4,Non,23.0,0,Frequent,7
+58,41,19545,Marié(e),Consulting,Directeur Technique,23,22,15,2,3,3,4,3,3,Non,12.0,0,Occasionnel,8
+60,34,4568,Célibataire,Commercial,Cadre Commercial,10,9,5,2,3,3,3,3,4,Non,20.0,0,Aucun,7
+61,37,3022,Marié(e),Consulting,Assistant de Direction,8,1,0,2,3,2,1,3,4,Non,21.0,0,Occasionnel,0
+62,46,5772,Célibataire,Commercial,Cadre Commercial,14,9,6,1,3,4,3,3,4,Oui,21.0,0,Frequent,8
+63,35,2269,Marié(e),Consulting,Consultant,1,1,0,4,4,4,4,3,3,Non,19.0,0,Occasionnel,1
+64,48,5381,Célibataire,Consulting,Consultant,23,1,0,1,2,3,4,3,3,Oui,13.0,0,Occasionnel,0
+65,28,3441,Célibataire,Consulting,Consultant,2,2,2,3,3,3,3,2,3,Oui,13.0,0,Occasionnel,2
+68,44,5454,Divorcé(e),Commercial,Cadre Commercial,9,4,3,2,3,1,3,2,4,Oui,21.0,1,Occasionnel,3
+70,35,9884,Marié(e),Consulting,Manager,10,4,0,3,2,1,3,3,3,Oui,13.0,1,Aucun,3
+72,26,4157,Marié(e),Commercial,Cadre Commercial,5,2,2,3,2,4,3,2,3,Oui,19.0,1,Occasionnel,0
+73,33,13458,Célibataire,Consulting,Directeur Technique,15,15,14,1,3,4,3,3,3,Oui,12.0,0,Frequent,12
+74,35,9069,Marié(e),Commercial,Cadre Commercial,9,9,8,2,3,1,4,2,4,Non,22.0,1,Frequent,8
+75,35,4014,Marié(e),Consulting,Consultant,4,2,2,3,3,1,3,3,3,Oui,15.0,1,Occasionnel,2
+76,31,5915,Divorcé(e),Consulting,Consultant,10,7,7,4,3,4,4,2,4,Non,22.0,1,Occasionnel,7
+77,37,5993,Divorcé(e),Consulting,Tech Lead,7,7,5,1,2,3,3,4,3,Non,18.0,1,Occasionnel,7
+78,32,6162,Marié(e),Consulting,Tech Lead,9,9,8,1,3,4,2,3,4,Oui,22.0,1,Occasionnel,8
+79,38,2406,Célibataire,Consulting,Consultant,10,10,3,4,3,4,4,3,3,Non,11.0,0,Frequent,9
+80,50,18740,Divorcé(e),Consulting,Directeur Technique,29,27,3,2,2,3,4,2,3,Oui,12.0,1,Occasionnel,8
+81,59,7637,Célibataire,Commercial,Cadre Commercial,28,21,16,1,3,1,4,2,3,Non,11.0,0,Occasionnel,9
+83,36,10096,Divorcé(e),Consulting,Manager,17,17,14,3,3,3,2,3,3,Non,13.0,3,Occasionnel,8
+84,55,14756,Divorcé(e),Consulting,Senior Manager,21,5,0,4,3,3,3,3,3,Oui,14.0,3,Occasionnel,2
+85,36,6499,Célibataire,Consulting,Tech Lead,6,6,5,2,2,2,3,3,3,Non,13.0,0,Frequent,3
+86,45,9724,Divorcé(e),Consulting,Assistant de Direction,25,1,0,2,3,1,3,3,3,Non,17.0,1,Occasionnel,0
+88,35,2194,Marié(e),Consulting,Assistant de Direction,5,3,2,2,3,1,4,2,3,Non,13.0,1,Frequent,2
+90,36,3388,Marié(e),Consulting,Assistant de Direction,2,1,0,4,2,3,1,2,3,Oui,17.0,1,Occasionnel,0
+91,59,5473,Célibataire,Commercial,Cadre Commercial,20,4,3,1,2,3,4,2,3,Non,11.0,0,Frequent,3
+94,29,2703,Marié(e),Consulting,Assistant de Direction,6,5,4,3,3,2,4,3,4,Non,23.0,1,Occasionnel,4
+95,31,2501,Célibataire,Consulting,Assistant de Direction,1,1,1,3,3,2,2,3,3,Non,17.0,0,Occasionnel,0
+96,32,6220,Marié(e),Consulting,Assistant de Direction,10,10,4,2,3,2,2,3,3,Non,17.0,2,Occasionnel,9
+97,36,3038,Marié(e),Consulting,Consultant,5,1,0,2,4,4,2,3,3,Non,12.0,0,Occasionnel,0
+98,31,4424,Célibataire,Consulting,Tech Lead,11,11,7,3,3,4,4,3,4,Non,23.0,0,Occasionnel,8
+100,35,4312,Célibataire,Commercial,Cadre Commercial,16,15,13,3,2,1,2,3,3,Non,14.0,0,Occasionnel,8
+101,45,13245,Marié(e),Consulting,Directeur Technique,17,0,0,4,3,1,2,4,3,Oui,14.0,0,Occasionnel,0
+102,37,13664,Célibataire,Consulting,Directeur Technique,16,5,2,1,3,3,1,4,3,Non,13.0,0,Occasionnel,2
+103,46,5021,Divorcé(e),Ressources Humaines,Ressources Humaines,16,4,2,2,3,2,4,3,4,Oui,22.0,1,Occasionnel,2
+104,30,5126,Marié(e),Consulting,Consultant,10,10,8,4,2,4,3,2,3,Oui,12.0,2,Occasionnel,0
+105,35,2859,Célibataire,Consulting,Assistant de Direction,6,6,4,2,2,3,1,3,3,Non,18.0,0,Occasionnel,4
+106,55,10239,Marié(e),Commercial,Cadre Commercial,24,1,0,1,3,4,4,3,3,Non,14.0,1,Occasionnel,0
+107,38,5329,Divorcé(e),Consulting,Assistant de Direction,17,13,11,2,1,4,4,3,3,Oui,12.0,3,Aucun,9
+110,34,4325,Marié(e),Consulting,Tech Lead,5,5,2,1,3,2,3,3,3,Non,15.0,0,Occasionnel,3
+112,56,7260,Célibataire,Consulting,Tech Lead,37,6,4,4,1,4,1,2,3,Non,11.0,0,Occasionnel,2
+113,23,2322,Divorcé(e),Commercial,Représentant Commercial,3,0,0,3,3,1,3,3,3,Non,13.0,1,Occasionnel,0
+116,51,2075,Marié(e),Consulting,Consultant,10,4,2,4,3,4,2,3,4,Non,23.0,2,Occasionnel,3
+117,30,4152,Marié(e),Consulting,Manager,11,11,10,3,2,4,1,3,3,Non,19.0,3,Occasionnel,8
+118,46,9619,Célibataire,Commercial,Cadre Commercial,9,9,8,3,2,4,4,3,3,Non,16.0,0,Occasionnel,7
+119,40,13503,Marié(e),Consulting,Manager,22,22,3,3,2,2,4,2,4,Non,22.0,1,Frequent,11
+120,51,5441,Célibataire,Commercial,Cadre Commercial,11,10,7,3,3,4,4,1,4,Oui,22.0,0,Occasionnel,0
+121,30,5209,Divorcé(e),Commercial,Cadre Commercial,11,11,8,3,2,2,2,2,3,Oui,12.0,3,Occasionnel,7
+124,46,10673,Marié(e),Consulting,Manager,21,10,9,3,2,1,3,2,3,Oui,13.0,1,Frequent,5
+125,32,5010,Célibataire,Commercial,Cadre Commercial,12,11,8,2,3,3,1,3,3,Non,16.0,0,Occasionnel,7
+126,54,13549,Marié(e),Consulting,Directeur Technique,16,4,3,1,3,3,1,1,3,Non,12.0,1,Occasionnel,3
+128,24,4999,Marié(e),Commercial,Cadre Commercial,4,3,2,1,3,3,1,2,4,Non,21.0,1,Occasionnel,2
+129,28,4221,Marié(e),Commercial,Cadre Commercial,5,5,4,2,3,3,2,4,3,Non,15.0,0,Aucun,4
+131,58,13872,Célibataire,Commercial,Cadre Commercial,38,37,10,4,3,3,3,2,3,Non,13.0,0,Occasionnel,8
+132,44,2042,Marié(e),Consulting,Consultant,17,3,2,2,3,2,3,4,3,Non,12.0,1,Aucun,2
+133,37,2073,Divorcé(e),Ressources Humaines,Ressources Humaines,7,3,2,3,3,1,4,3,4,Oui,22.0,0,Occasionnel,2
+134,32,2956,Célibataire,Consulting,Assistant de Direction,1,1,0,4,3,1,4,3,3,Non,13.0,0,Occasionnel,0
+137,20,2926,Célibataire,Consulting,Consultant,1,1,0,4,2,4,2,3,3,Oui,18.0,0,Frequent,0
+138,34,4809,Célibataire,Consulting,Assistant de Direction,16,16,13,1,3,3,3,3,3,Non,14.0,0,Occasionnel,10
+139,37,5163,Divorcé(e),Consulting,Manager,17,1,0,3,2,4,4,4,3,Non,14.0,1,Aucun,0
+140,59,18844,Marié(e),Ressources Humaines,Senior Manager,30,3,2,3,2,4,4,3,4,Non,21.0,1,Aucun,2
+141,50,18172,Marié(e),Consulting,Directeur Technique,28,8,3,1,3,2,1,2,3,Oui,19.0,0,Frequent,7
+142,25,5744,Célibataire,Commercial,Cadre Commercial,6,6,4,3,2,3,4,3,3,Oui,11.0,0,Occasionnel,3
+143,25,2889,Marié(e),Consulting,Assistant de Direction,2,2,2,4,2,4,3,3,3,Non,11.0,2,Occasionnel,1
+144,22,2871,Célibataire,Consulting,Consultant,1,0,0,2,3,4,3,3,3,Non,15.0,0,Occasionnel,0
+145,51,7484,Célibataire,Consulting,Manager,23,13,12,1,2,1,3,2,4,Non,20.0,0,Frequent,8
+147,34,6074,Célibataire,Consulting,Consultant,9,9,7,1,1,3,4,3,4,Oui,24.0,0,Frequent,6
+148,54,17328,Célibataire,Ressources Humaines,Senior Manager,23,5,3,4,4,4,3,3,3,Oui,12.0,0,Aucun,4
+150,24,2774,Marié(e),Consulting,Consultant,6,5,3,2,3,3,3,3,3,Non,12.0,1,Occasionnel,2
+151,34,4505,Divorcé(e),Consulting,Assistant de Direction,12,1,0,3,2,2,3,3,3,Non,15.0,1,Occasionnel,0
+152,37,7428,Célibataire,Commercial,Cadre Commercial,12,5,3,3,3,4,1,3,3,Non,12.0,0,Occasionnel,3
+153,34,11631,Célibataire,Consulting,Senior Manager,14,11,10,3,2,1,4,3,3,Non,12.0,0,Occasionnel,8
+154,36,9738,Marié(e),Commercial,Cadre Commercial,10,9,7,2,3,4,3,3,3,Non,14.0,1,Frequent,8
+155,36,2835,Divorcé(e),Consulting,Consultant,7,1,0,1,3,4,1,3,4,Non,22.0,1,Occasionnel,0
+158,43,16959,Marié(e),Commercial,Senior Manager,25,25,12,3,3,4,4,4,3,Oui,12.0,2,Frequent,12
+159,30,2613,Divorcé(e),Consulting,Assistant de Direction,10,10,7,1,1,3,3,2,4,Non,25.0,3,Frequent,9
+160,33,6146,Marié(e),Commercial,Cadre Commercial,8,7,7,3,3,2,1,4,3,Non,13.0,1,Aucun,7
+161,56,4963,Marié(e),Consulting,Assistant de Direction,7,5,4,2,3,2,1,3,3,Oui,18.0,3,Occasionnel,3
+162,51,19537,Célibataire,Consulting,Directeur Technique,23,20,18,1,3,3,3,3,3,Non,13.0,0,Occasionnel,15
+163,31,6172,Marié(e),Commercial,Cadre Commercial,12,7,7,2,1,3,2,2,3,Oui,18.0,0,Occasionnel,7
+164,26,2368,Marié(e),Consulting,Assistant de Direction,5,5,4,3,2,2,3,2,3,Non,19.0,0,Occasionnel,3
+165,58,10312,Marié(e),Consulting,Manager,40,40,10,4,3,4,4,2,3,Non,12.0,1,Occasionnel,6
+167,19,1675,Célibataire,Commercial,Représentant Commercial,0,0,0,4,3,3,4,2,3,Oui,19.0,0,Occasionnel,0
+169,22,2523,Marié(e),Consulting,Consultant,3,2,1,3,3,4,3,3,3,Non,14.0,1,Occasionnel,1
+170,49,6567,Marié(e),Consulting,Tech Lead,16,15,11,3,3,1,3,2,3,Non,14.0,0,Occasionnel,11
+171,43,4739,Célibataire,Consulting,Assistant de Direction,18,3,2,2,4,3,4,3,3,Non,12.0,0,Frequent,2
+174,50,9208,Célibataire,Commercial,Cadre Commercial,16,2,2,3,3,4,4,3,3,Non,11.0,0,Frequent,1
+175,31,4559,Marié(e),Commercial,Cadre Commercial,4,2,2,2,1,3,3,3,3,Oui,11.0,1,Occasionnel,2
+176,41,8189,Divorcé(e),Commercial,Cadre Commercial,12,9,7,3,3,3,3,3,3,Oui,13.0,1,Occasionnel,7
+177,26,2942,Marié(e),Ressources Humaines,Ressources Humaines,8,8,7,3,3,3,4,3,4,Non,23.0,1,Occasionnel,7
+178,36,4941,Divorcé(e),Consulting,Tech Lead,7,3,2,2,3,2,4,3,4,Non,20.0,2,Occasionnel,1
+179,51,10650,Célibataire,Consulting,Tech Lead,18,4,2,1,1,4,4,3,3,Non,15.0,0,Frequent,3
+182,39,5902,Marié(e),Commercial,Cadre Commercial,17,15,11,4,2,3,3,4,3,Non,14.0,1,Occasionnel,9
+183,25,8639,Marié(e),Commercial,Cadre Commercial,6,2,2,1,2,3,4,3,3,Non,18.0,0,Occasionnel,2
+184,30,6347,Marié(e),Ressources Humaines,Ressources Humaines,12,11,9,3,3,4,4,1,3,Oui,19.0,0,Occasionnel,7
+190,32,4200,Célibataire,Consulting,Consultant,10,5,4,1,3,1,1,4,4,Non,22.0,0,Occasionnel,4
+192,45,3452,Célibataire,Consulting,Assistant de Direction,9,6,5,3,3,4,2,2,3,Non,13.0,0,Occasionnel,3
+193,38,4317,Célibataire,Consulting,Assistant de Direction,19,3,2,4,3,3,2,3,4,Oui,20.0,0,Occasionnel,2
+194,30,2632,Célibataire,Consulting,Assistant de Direction,5,5,4,1,3,3,3,2,3,Non,14.0,0,Occasionnel,4
+195,32,4668,Divorcé(e),Commercial,Cadre Commercial,9,8,7,4,1,4,4,4,3,Non,17.0,3,Frequent,7
+197,30,3204,Divorcé(e),Consulting,Assistant de Direction,8,3,2,4,3,1,4,3,3,Non,14.0,1,Occasionnel,2
+198,30,2720,Célibataire,Consulting,Consultant,6,5,3,2,2,4,4,3,3,Non,13.0,0,Occasionnel,2
+199,41,17181,Divorcé(e),Consulting,Senior Manager,21,7,6,4,2,1,2,2,3,Non,13.0,1,Frequent,7
+200,41,2238,Marié(e),Consulting,Consultant,7,5,0,3,3,1,4,3,4,Non,21.0,1,Occasionnel,4
+201,19,1483,Célibataire,Consulting,Consultant,1,1,0,2,3,2,4,3,3,Non,14.0,0,Occasionnel,0
+202,40,5605,Divorcé(e),Consulting,Assistant de Direction,20,20,7,2,3,2,1,3,3,Non,11.0,1,Frequent,13
+204,35,7295,Marié(e),Commercial,Cadre Commercial,10,10,8,3,3,2,1,3,3,Non,13.0,2,Occasionnel,6
+205,53,2306,Marié(e),Commercial,Représentant Commercial,13,7,7,2,3,3,4,1,4,Oui,20.0,1,Occasionnel,5
+206,45,2348,Divorcé(e),Consulting,Consultant,20,17,9,2,3,2,3,1,3,Non,18.0,1,Occasionnel,15
+207,32,8998,Célibataire,Commercial,Cadre Commercial,9,9,8,2,3,4,4,3,3,Non,14.0,0,Frequent,7
+208,29,4319,Marié(e),Consulting,Tech Lead,10,10,7,4,3,3,1,3,3,Non,13.0,1,Aucun,9
+211,51,6132,Marié(e),Consulting,Tech Lead,10,1,0,2,2,3,3,3,3,Non,17.0,0,Occasionnel,0
+214,58,3346,Marié(e),Consulting,Assistant de Direction,9,1,0,2,2,2,2,2,4,Oui,20.0,1,Occasionnel,0
+215,40,10855,Marié(e),Commercial,Cadre Commercial,15,12,11,3,2,4,1,2,3,Non,11.0,1,Occasionnel,11
+216,34,2231,Marié(e),Commercial,Représentant Commercial,6,4,3,3,3,3,4,3,3,Non,18.0,1,Frequent,2
+217,22,2323,Marié(e),Consulting,Assistant de Direction,2,2,2,3,3,4,1,3,4,Non,24.0,2,Occasionnel,2
+218,27,2024,Divorcé(e),Consulting,Assistant de Direction,6,2,2,4,3,2,4,1,3,Non,18.0,1,Aucun,2
+221,28,2713,Marié(e),Consulting,Assistant de Direction,5,5,2,3,3,4,3,1,3,Non,11.0,1,Occasionnel,2
+223,57,9439,Divorcé(e),Consulting,Manager,12,5,3,3,4,4,2,1,3,Oui,16.0,1,Occasionnel,4
+224,27,2566,Divorcé(e),Consulting,Assistant de Direction,1,1,1,3,2,3,4,2,3,Oui,15.0,1,Aucun,1
+226,50,19926,Célibataire,Consulting,Senior Manager,21,5,4,3,3,2,2,3,3,Non,15.0,0,Occasionnel,4
+227,41,2451,Divorcé(e),Consulting,Assistant de Direction,13,9,8,1,3,3,1,3,3,Non,12.0,1,Occasionnel,8
+228,30,9419,Marié(e),Commercial,Cadre Commercial,12,10,9,2,3,4,3,3,3,Non,12.0,1,Occasionnel,4
+230,38,8686,Célibataire,Commercial,Cadre Commercial,12,8,3,1,2,4,3,4,4,Non,22.0,0,Occasionnel,7
+231,32,3038,Célibataire,Consulting,Assistant de Direction,8,5,4,3,3,3,1,3,4,Non,20.0,0,Occasionnel,4
+233,27,3058,Marié(e),Consulting,Assistant de Direction,6,5,2,3,3,2,4,2,3,Oui,16.0,1,Occasionnel,1
+235,19,2325,Célibataire,Commercial,Représentant Commercial,1,0,0,3,1,1,1,4,4,Non,21.0,0,Frequent,0
+238,36,2088,Célibataire,Consulting,Consultant,13,8,7,4,3,2,3,2,3,Non,12.0,0,Frequent,2
+239,30,3072,Divorcé(e),Consulting,Consultant,12,12,9,3,3,1,3,3,3,Non,11.0,2,Aucun,10
+240,45,5006,Divorcé(e),Commercial,Cadre Commercial,9,5,4,3,3,1,1,4,3,Oui,11.0,1,Occasionnel,3
+241,56,4257,Divorcé(e),Consulting,Assistant de Direction,19,2,2,3,3,1,3,3,3,Oui,18.0,1,Occasionnel,2
+242,33,2500,Célibataire,Consulting,Assistant de Direction,4,3,1,3,3,4,1,4,3,Non,14.0,0,Occasionnel,2
+243,19,1102,Célibataire,Consulting,Consultant,1,1,0,2,2,4,3,2,4,Non,22.0,0,Occasionnel,0
+244,46,10453,Divorcé(e),Commercial,Cadre Commercial,24,24,13,2,3,1,3,3,4,Non,25.0,3,Occasionnel,7
+245,38,2288,Célibataire,Consulting,Consultant,2,2,2,3,3,4,3,3,3,Non,12.0,0,Occasionnel,1
+246,31,3929,Marié(e),Consulting,Assistant de Direction,7,4,2,3,3,4,3,3,4,Oui,23.0,1,Occasionnel,2
+247,34,2311,Célibataire,Consulting,Assistant de Direction,9,3,2,4,3,2,4,3,3,Non,15.0,0,Occasionnel,2
+248,41,3140,Célibataire,Commercial,Représentant Commercial,4,4,3,2,3,2,4,2,4,Oui,22.0,0,Occasionnel,2
+249,50,3690,Marié(e),Consulting,Consultant,5,3,2,3,2,3,4,2,3,Non,15.0,1,Occasionnel,2
+250,53,4450,Divorcé(e),Consulting,Tech Lead,5,4,2,4,4,1,3,3,3,Non,11.0,2,Occasionnel,3
+252,33,2756,Marié(e),Consulting,Assistant de Direction,8,8,7,4,3,2,4,3,3,Non,13.0,1,Occasionnel,6
+253,40,19033,Marié(e),Consulting,Senior Manager,21,20,8,4,3,3,2,3,3,Non,14.0,1,Occasionnel,9
+254,55,18722,Célibataire,Consulting,Directeur Technique,36,24,15,3,4,2,4,3,3,Non,11.0,0,Occasionnel,15
+256,34,9547,Marié(e),Consulting,Tech Lead,10,10,9,4,2,3,3,2,3,Non,17.0,0,Frequent,9
+258,51,13734,Célibataire,Consulting,Manager,21,7,7,4,3,2,3,3,3,Non,18.0,0,Occasionnel,0
+259,52,19999,Marié(e),Consulting,Senior Manager,34,33,18,3,2,3,1,3,3,Non,14.0,1,Occasionnel,9
+260,27,2279,Célibataire,Consulting,Assistant de Direction,7,7,7,4,3,2,4,2,3,Non,16.0,0,Occasionnel,3
+261,35,5916,Marié(e),Consulting,Tech Lead,8,1,0,2,2,3,1,3,3,Oui,13.0,0,Occasionnel,1
+262,43,2089,Divorcé(e),Consulting,Assistant de Direction,7,5,4,4,4,4,4,4,3,Non,14.0,3,Aucun,2
+264,45,16792,Marié(e),Consulting,Senior Manager,22,20,8,1,2,4,4,3,4,Non,23.0,1,Aucun,8
+267,37,3564,Marié(e),Consulting,Assistant de Direction,8,8,7,2,4,1,1,2,3,Oui,12.0,1,Occasionnel,7
+269,35,4425,Célibataire,Consulting,Consultant,10,6,2,2,3,2,4,3,3,Non,11.0,0,Frequent,2
+270,42,5265,Divorcé(e),Consulting,Tech Lead,11,5,3,3,3,3,2,3,3,Non,16.0,1,Aucun,2
+271,38,6553,Marié(e),Consulting,Tech Lead,14,1,0,4,3,3,2,3,3,Non,14.0,0,Occasionnel,0
+273,38,6261,Marié(e),Consulting,Tech Lead,9,7,7,4,3,4,1,1,3,Non,18.0,1,Occasionnel,7
+274,27,4298,Marié(e),Consulting,Tech Lead,6,2,2,3,2,1,3,3,3,Non,19.0,1,Frequent,0
+275,49,6804,Divorcé(e),Consulting,Tech Lead,7,7,7,4,3,4,1,3,3,Oui,15.0,2,Aucun,7
+277,34,3815,Divorcé(e),Consulting,Assistant de Direction,5,5,3,4,3,3,4,4,3,Oui,17.0,1,Frequent,0
+281,40,2741,Marié(e),Consulting,Consultant,15,7,2,3,3,4,3,4,3,Oui,15.0,1,Occasionnel,7
+282,38,6673,Marié(e),Consulting,Manager,17,1,0,2,3,1,2,3,3,Oui,19.0,0,Occasionnel,0
+283,29,7639,Marié(e),Commercial,Cadre Commercial,10,10,4,2,3,4,4,2,4,Non,22.0,3,Occasionnel,9
+284,22,2328,Divorcé(e),Consulting,Assistant de Direction,4,4,2,4,4,2,1,2,3,Oui,16.0,1,Occasionnel,2
+286,36,2153,Célibataire,Consulting,Consultant,8,8,1,2,3,4,1,3,3,Non,13.0,0,Frequent,7
+287,40,4876,Marié(e),Consulting,Manager,5,3,2,4,2,4,4,1,3,Non,14.0,1,Aucun,2
+288,46,9396,Divorcé(e),Consulting,Manager,17,4,2,4,3,1,3,3,3,Non,16.0,1,Occasionnel,3
+291,32,10400,Marié(e),Commercial,Cadre Commercial,14,14,8,4,1,4,3,2,3,Non,11.0,0,Occasionnel,8
+292,30,8474,Célibataire,Consulting,Tech Lead,12,11,8,3,2,3,3,3,4,Non,22.0,0,Aucun,8
+293,27,9981,Célibataire,Commercial,Cadre Commercial,7,7,7,4,3,3,4,3,3,Non,14.0,0,Frequent,7
+296,51,12490,Marié(e),Consulting,Directeur Technique,16,10,9,2,2,2,4,1,3,Non,16.0,2,Occasionnel,7
+297,30,2657,Célibataire,Consulting,Assistant de Direction,8,5,2,4,3,1,3,3,3,Oui,11.0,0,Occasionnel,4
+298,41,13591,Célibataire,Commercial,Senior Manager,16,1,0,4,3,4,3,3,3,Oui,18.0,0,Occasionnel,0
+299,30,6696,Célibataire,Commercial,Cadre Commercial,9,6,3,3,2,1,3,2,3,Non,15.0,0,Frequent,1
+300,29,2058,Célibataire,Consulting,Assistant de Direction,7,6,2,3,3,3,4,2,3,Non,14.0,0,Occasionnel,5
+302,45,8865,Célibataire,Commercial,Cadre Commercial,23,19,7,4,2,4,4,3,3,Non,12.0,0,Aucun,8
+303,54,5940,Marié(e),Commercial,Cadre Commercial,16,6,2,4,3,1,4,3,3,Non,14.0,1,Occasionnel,5
+304,36,5914,Célibataire,Consulting,Consultant,16,13,11,4,3,2,4,4,3,Non,16.0,0,Occasionnel,7
+305,33,2622,Marié(e),Consulting,Assistant de Direction,7,3,2,3,2,2,4,3,4,Non,21.0,0,Occasionnel,1
+306,37,12185,Divorcé(e),Consulting,Directeur Technique,10,10,8,2,3,4,3,3,3,Oui,14.0,3,Frequent,7
+307,38,10609,Divorcé(e),Commercial,Cadre Commercial,17,16,10,1,3,3,3,2,3,Non,12.0,2,Occasionnel,13
+308,31,4345,Marié(e),Consulting,Tech Lead,6,5,4,3,1,3,4,3,3,Non,12.0,1,Aucun,4
+309,59,2177,Marié(e),Consulting,Assistant de Direction,7,1,0,3,2,4,1,3,3,Non,17.0,1,Occasionnel,0
+311,37,2793,Divorcé(e),Commercial,Représentant Commercial,13,9,8,1,3,4,3,3,3,Non,17.0,1,Frequent,8
+312,29,7918,Marié(e),Commercial,Cadre Commercial,11,11,10,2,3,4,4,3,3,Non,14.0,1,Frequent,1
+314,35,8789,Célibataire,Commercial,Cadre Commercial,10,10,7,3,3,3,1,4,3,Non,14.0,0,Frequent,8
+315,29,2389,Célibataire,Consulting,Assistant de Direction,4,4,3,3,2,4,3,2,3,Oui,13.0,0,Occasionnel,1
+316,52,3212,Célibataire,Consulting,Consultant,6,2,2,3,2,4,2,2,3,Non,15.0,0,Occasionnel,2
+319,42,19232,Marié(e),Consulting,Senior Manager,22,22,17,3,3,4,4,3,3,Non,11.0,0,Occasionnel,15
+321,59,2267,Marié(e),Ressources Humaines,Ressources Humaines,7,2,2,2,3,3,4,2,3,Non,17.0,0,Occasionnel,2
+323,50,19517,Divorcé(e),Commercial,Senior Manager,32,7,0,4,3,4,3,2,3,Non,11.0,1,Occasionnel,6
+325,33,2436,Marié(e),Consulting,Consultant,8,5,4,3,3,4,3,1,3,Oui,13.0,1,Occasionnel,4
+327,43,16064,Marié(e),Commercial,Senior Manager,22,17,13,4,3,4,3,3,4,Oui,22.0,1,Occasionnel,9
+328,33,2707,Marié(e),Consulting,Consultant,13,9,7,1,3,1,1,4,4,Non,20.0,0,Occasionnel,7
+329,52,19068,Célibataire,Commercial,Senior Manager,33,33,7,1,2,3,4,4,3,Oui,18.0,0,Aucun,12
+330,32,3931,Marié(e),Commercial,Représentant Commercial,6,4,3,3,3,2,1,3,3,Non,11.0,1,Occasionnel,2
+331,32,3730,Célibataire,Consulting,Consultant,4,3,2,4,2,3,4,1,3,Oui,14.0,0,Occasionnel,2
+332,39,2232,Divorcé(e),Consulting,Consultant,7,3,2,3,3,3,3,3,3,Non,14.0,3,Occasionnel,2
+333,32,4465,Marié(e),Commercial,Cadre Commercial,4,3,2,3,3,4,1,3,3,Non,18.0,0,Aucun,2
+334,41,3072,Divorcé(e),Consulting,Assistant de Direction,17,1,0,3,3,1,1,2,3,Non,16.0,2,Occasionnel,0
+335,40,3319,Divorcé(e),Consulting,Assistant de Direction,9,9,8,1,3,4,1,3,3,Non,17.0,2,Occasionnel,7
+336,45,19202,Marié(e),Consulting,Senior Manager,25,24,0,3,4,4,3,3,3,Non,11.0,1,Occasionnel,7
+337,31,13675,Divorcé(e),Consulting,Directeur Technique,9,2,2,2,3,3,1,3,3,Non,12.0,1,Frequent,2
+338,33,2911,Marié(e),Consulting,Assistant de Direction,2,2,2,3,2,4,3,2,3,Non,13.0,1,Occasionnel,2
+339,34,5957,Marié(e),Consulting,Tech Lead,13,11,9,4,2,1,2,3,3,Non,13.0,1,Occasionnel,9
+340,37,3920,Marié(e),Consulting,Assistant de Direction,17,3,1,3,2,1,1,2,3,Non,14.0,1,Occasionnel,2
+341,45,6434,Marié(e),Consulting,Tech Lead,9,3,2,1,4,3,4,3,3,Non,17.0,1,Frequent,2
+342,37,10048,Divorcé(e),Consulting,Tech Lead,17,1,0,1,3,3,2,3,3,Non,11.0,2,Frequent,0
+343,39,10938,Célibataire,Consulting,Manager,20,19,6,3,3,3,4,3,4,Non,25.0,0,Frequent,8
+346,29,2340,Célibataire,Consulting,Assistant de Direction,6,6,5,3,3,4,1,3,3,Non,19.0,0,Occasionnel,5
+347,42,6545,Célibataire,Consulting,Assistant de Direction,10,3,2,4,4,1,3,3,3,Oui,13.0,0,Occasionnel,2
+349,29,6931,Divorcé(e),Commercial,Cadre Commercial,10,3,2,4,3,4,4,3,3,Non,14.0,1,Occasionnel,2
+350,25,4898,Marié(e),Consulting,Tech Lead,5,4,2,1,3,3,4,3,3,Non,12.0,2,Occasionnel,2
+351,42,2593,Divorcé(e),Consulting,Consultant,10,9,6,4,2,1,3,3,3,Oui,11.0,1,Occasionnel,8
+352,40,19436,Divorcé(e),Consulting,Directeur Technique,22,21,7,1,3,3,4,3,3,Non,19.0,1,Occasionnel,9
+353,51,2723,Marié(e),Consulting,Assistant de Direction,1,1,0,3,3,4,2,2,3,Non,11.0,0,Occasionnel,0
+355,31,3479,Célibataire,Consulting,Consultant,6,5,4,3,2,2,2,4,3,Non,11.0,0,Frequent,4
+359,32,2794,Marié(e),Consulting,Consultant,5,5,1,2,4,2,3,1,4,Non,20.0,0,Frequent,3
+361,38,5249,Marié(e),Commercial,Cadre Commercial,13,8,7,4,2,4,4,3,3,Non,18.0,1,Aucun,5
+362,32,2176,Célibataire,Consulting,Consultant,9,6,2,4,2,1,4,3,3,Non,13.0,0,Occasionnel,4
+363,46,16872,Marié(e),Commercial,Senior Manager,28,7,7,3,1,2,2,2,3,Oui,12.0,1,Occasionnel,7
+364,28,3485,Célibataire,Consulting,Consultant,5,0,0,1,3,3,3,1,3,Non,11.0,0,Occasionnel,0
+366,29,6644,Marié(e),Commercial,Cadre Commercial,10,0,0,1,2,2,2,3,3,Non,19.0,2,Occasionnel,0
+367,31,5582,Marié(e),Consulting,Manager,10,9,0,2,2,4,2,3,4,Non,21.0,1,Occasionnel,8
+369,25,4000,Divorcé(e),Consulting,Manager,6,6,3,2,4,1,4,3,3,Non,12.0,2,Aucun,5
+372,45,13496,Marié(e),Consulting,Manager,21,20,7,3,3,4,2,3,3,Oui,14.0,0,Occasionnel,10
+373,36,3210,Marié(e),Consulting,Consultant,16,15,13,4,3,4,3,3,3,Non,11.0,1,Occasionnel,11
+374,55,19045,Célibataire,Consulting,Senior Manager,37,36,10,4,3,1,3,3,3,Oui,14.0,0,Occasionnel,13
+376,47,11849,Marié(e),Consulting,Senior Manager,10,10,7,1,3,2,4,2,3,Oui,12.0,1,Aucun,9
+377,28,2070,Marié(e),Consulting,Assistant de Direction,5,5,2,4,3,4,4,2,4,Non,23.0,1,Occasionnel,4
+378,37,6502,Marié(e),Commercial,Cadre Commercial,7,5,4,3,3,4,2,4,3,Non,14.0,1,Occasionnel,1
+379,21,3230,Célibataire,Consulting,Assistant de Direction,3,3,2,4,2,3,1,4,3,Non,17.0,0,Occasionnel,0
+380,37,13603,Divorcé(e),Consulting,Directeur Technique,15,5,2,1,3,4,1,3,3,Oui,18.0,2,Aucun,2
+381,35,11996,Divorcé(e),Consulting,Senior Manager,10,7,7,2,4,2,2,2,3,Non,18.0,1,Occasionnel,2
+382,38,5605,Divorcé(e),Commercial,Cadre Commercial,8,8,0,1,4,1,3,3,4,Oui,24.0,1,Occasionnel,7
+384,26,6397,Divorcé(e),Consulting,Tech Lead,6,6,5,3,3,2,1,1,4,Non,20.0,1,Frequent,4
+385,50,19144,Divorcé(e),Consulting,Directeur Technique,28,10,4,1,3,2,1,2,3,Non,14.0,2,Occasionnel,6
+386,53,17584,Marié(e),Consulting,Directeur Technique,21,5,3,3,3,3,4,2,3,Oui,16.0,3,Occasionnel,3
+387,42,4907,Marié(e),Commercial,Cadre Commercial,20,20,16,2,3,3,3,3,4,Non,25.0,0,Occasionnel,6
+388,29,4554,Célibataire,Commercial,Cadre Commercial,10,10,7,2,3,4,1,2,3,Non,18.0,0,Frequent,9
+389,55,5415,Marié(e),Consulting,Consultant,12,10,7,2,3,4,4,3,3,Oui,19.0,1,Occasionnel,8
+390,26,4741,Marié(e),Consulting,Manager,5,5,3,1,3,1,3,3,3,Oui,13.0,1,Frequent,3
+391,37,2115,Célibataire,Consulting,Assistant de Direction,17,17,12,4,3,4,2,3,3,Non,12.0,0,Occasionnel,7
+392,44,3161,Divorcé(e),Consulting,Consultant,19,1,0,4,3,3,4,1,4,Oui,22.0,1,Frequent,0
+393,38,5745,Divorcé(e),Consulting,Manager,10,2,2,4,3,4,2,3,3,Non,14.0,1,Occasionnel,2
+394,26,2373,Divorcé(e),Consulting,Consultant,5,3,2,1,3,2,4,3,3,Oui,13.0,1,Occasionnel,2
+395,28,3310,Célibataire,Consulting,Assistant de Direction,5,5,3,4,3,4,4,3,4,Non,21.0,0,Occasionnel,2
+396,49,18665,Célibataire,Consulting,Directeur Technique,22,3,2,3,3,1,4,3,3,Oui,11.0,0,Frequent,2
+397,36,4485,Célibataire,Consulting,Assistant de Direction,10,8,0,3,3,2,4,3,3,Non,12.0,0,Occasionnel,7
+399,31,2789,Divorcé(e),Commercial,Représentant Commercial,2,2,2,4,3,2,3,2,3,Non,11.0,1,Frequent,2
+401,26,5828,Célibataire,Commercial,Cadre Commercial,8,8,7,4,2,4,2,3,3,Oui,12.0,0,Occasionnel,4
+403,37,2326,Marié(e),Consulting,Assistant de Direction,4,4,2,2,3,4,3,2,3,Oui,12.0,3,Frequent,2
+404,42,13525,Marié(e),Commercial,Cadre Commercial,23,20,4,3,3,2,4,4,3,Non,14.0,1,Frequent,8
+405,18,1420,Célibataire,Consulting,Consultant,0,0,0,3,3,3,3,3,3,Non,13.0,0,Occasionnel,0
+406,35,8020,Marié(e),Commercial,Cadre Commercial,12,11,9,3,3,2,3,2,3,Non,15.0,2,Occasionnel,9
+407,36,3688,Marié(e),Consulting,Consultant,4,1,0,3,4,4,4,3,3,Non,18.0,2,Frequent,0
+408,51,5482,Divorcé(e),Consulting,Tech Lead,13,4,1,4,1,2,4,3,3,Non,18.0,1,Occasionnel,2
+410,41,16015,Célibataire,Commercial,Senior Manager,22,22,10,4,3,2,2,3,3,Non,19.0,0,Occasionnel,4
+411,18,1200,Célibataire,Commercial,Représentant Commercial,0,0,0,4,2,3,1,3,3,Non,12.0,0,Occasionnel,0
+412,28,5661,Célibataire,Consulting,Manager,9,8,3,2,4,1,3,3,3,Non,19.0,0,Occasionnel,7
+416,31,6929,Marié(e),Commercial,Cadre Commercial,10,8,7,2,4,4,2,2,3,Non,11.0,1,Occasionnel,7
+417,39,9613,Divorcé(e),Consulting,Manager,19,18,10,3,4,4,1,2,3,Non,17.0,3,Occasionnel,7
+419,36,5674,Marié(e),Consulting,Consultant,11,9,8,2,3,2,3,3,3,Non,15.0,1,Aucun,8
+420,32,5484,Marié(e),Commercial,Cadre Commercial,13,13,8,4,2,3,3,2,3,Non,14.0,1,Occasionnel,8
+421,38,12061,Marié(e),Consulting,Directeur Technique,19,10,8,1,2,2,3,3,3,Non,17.0,1,Occasionnel,1
+422,58,5660,Divorcé(e),Consulting,Manager,12,5,3,4,1,3,4,3,3,Oui,13.0,1,Aucun,2
+423,31,4821,Marié(e),Consulting,Assistant de Direction,6,5,2,3,3,4,3,3,3,Oui,12.0,1,Occasionnel,3
+424,31,6410,Marié(e),Ressources Humaines,Ressources Humaines,9,2,2,1,2,1,4,3,3,Non,12.0,0,Occasionnel,0
+425,45,5210,Divorcé(e),Consulting,Consultant,24,24,9,1,3,1,1,3,3,Non,18.0,1,Frequent,11
+426,31,2695,Divorcé(e),Consulting,Assistant de Direction,3,2,2,3,3,4,2,1,3,Oui,18.0,1,Occasionnel,2
+428,33,11878,Marié(e),Consulting,Senior Manager,12,10,6,4,3,2,2,3,3,Non,11.0,2,Frequent,8
+429,39,17068,Marié(e),Consulting,Senior Manager,21,21,9,3,3,1,4,3,3,Oui,14.0,0,Occasionnel,10
+430,43,2455,Célibataire,Consulting,Consultant,9,8,7,3,3,4,1,3,3,Non,19.0,0,Frequent,7
+431,49,13964,Célibataire,Consulting,Manager,25,7,1,3,2,3,4,3,3,Oui,12.0,0,Occasionnel,7
+433,52,4941,Marié(e),Consulting,Assistant de Direction,11,8,2,3,2,2,1,2,3,Non,15.0,0,Occasionnel,7
+434,27,2478,Célibataire,Consulting,Assistant de Direction,4,4,3,3,3,2,2,2,3,Oui,12.0,0,Occasionnel,2
+436,32,5228,Marié(e),Commercial,Cadre Commercial,13,13,12,3,2,2,4,3,3,Oui,11.0,0,Occasionnel,9
+437,27,4478,Célibataire,Commercial,Cadre Commercial,5,5,4,4,3,3,1,3,3,Oui,11.0,0,Occasionnel,4
+438,31,7547,Divorcé(e),Commercial,Cadre Commercial,13,7,7,4,3,4,4,3,3,Non,12.0,3,Occasionnel,7
+439,32,5055,Célibataire,Consulting,Assistant de Direction,10,7,7,1,4,4,3,2,3,Non,16.0,0,Occasionnel,7
+440,28,3464,Marié(e),Consulting,Assistant de Direction,5,3,2,1,1,4,4,2,3,Oui,13.0,0,Occasionnel,2
+441,30,5775,Marié(e),Consulting,Assistant de Direction,11,10,8,4,3,4,4,3,3,Non,13.0,2,Occasionnel,9
+442,31,8943,Marié(e),Consulting,Tech Lead,10,10,9,3,2,3,1,3,4,Non,24.0,1,Frequent,9
+444,39,19272,Marié(e),Consulting,Senior Manager,21,21,9,3,2,4,1,3,3,Non,15.0,1,Frequent,3
+445,39,5238,Marié(e),Commercial,Cadre Commercial,12,1,0,4,3,3,1,2,3,Oui,18.0,0,Occasionnel,0
+446,33,4682,Célibataire,Commercial,Cadre Commercial,9,7,7,2,2,4,3,2,3,Non,14.0,0,Frequent,1
+447,47,18300,Marié(e),Consulting,Directeur Technique,21,3,2,4,3,3,2,3,3,Non,11.0,1,Occasionnel,1
+448,43,5257,Divorcé(e),Consulting,Consultant,9,9,7,3,2,3,2,4,3,Non,11.0,1,Frequent,0
+449,27,6349,Marié(e),Commercial,Cadre Commercial,6,5,4,3,3,2,4,3,3,Oui,13.0,1,Aucun,4
+450,54,4869,Célibataire,Consulting,Assistant de Direction,20,4,3,4,3,3,4,2,3,Non,12.0,0,Frequent,3
+451,43,9985,Marié(e),Consulting,Manager,10,1,0,3,3,1,1,2,3,Non,16.0,1,Occasionnel,0
+452,45,3697,Marié(e),Consulting,Assistant de Direction,12,10,9,4,3,4,1,3,3,Non,14.0,2,Occasionnel,8
+453,40,7457,Marié(e),Commercial,Cadre Commercial,6,4,3,2,1,4,3,2,4,Oui,22.0,3,Occasionnel,2
+454,29,2119,Marié(e),Consulting,Consultant,7,7,7,2,1,1,4,2,3,Oui,11.0,0,Occasionnel,7
+455,29,3983,Célibataire,Consulting,Consultant,4,3,2,2,2,4,3,3,3,Non,17.0,0,Occasionnel,2
+456,30,6118,Divorcé(e),Commercial,Cadre Commercial,10,10,9,4,2,3,3,3,3,Non,13.0,3,Occasionnel,2
+458,27,6214,Marié(e),Commercial,Cadre Commercial,8,8,7,2,3,2,1,3,3,Non,18.0,1,Occasionnel,7
+460,37,6347,Divorcé(e),Consulting,Tech Lead,8,6,2,4,3,4,3,2,3,Non,16.0,2,Occasionnel,4
+461,38,11510,Divorcé(e),Consulting,Directeur Technique,12,11,10,3,2,4,2,3,3,Oui,14.0,1,Occasionnel,9
+462,31,7143,Célibataire,Consulting,Tech Lead,11,11,9,3,3,4,3,2,3,Oui,14.0,0,Occasionnel,10
+463,29,8268,Divorcé(e),Commercial,Cadre Commercial,7,7,7,4,2,2,1,3,3,Oui,14.0,2,Occasionnel,7
+464,35,8095,Célibataire,Consulting,Tech Lead,17,16,6,3,3,2,4,3,3,Non,13.0,0,Occasionnel,13
+465,23,2904,Divorcé(e),Consulting,Assistant de Direction,4,4,2,3,3,4,3,2,3,Non,12.0,2,Occasionnel,2
+466,41,6032,Célibataire,Consulting,Tech Lead,8,5,4,4,2,2,4,3,3,Oui,15.0,0,Occasionnel,2
+467,47,2976,Célibataire,Commercial,Représentant Commercial,5,0,0,2,3,3,1,3,3,Non,19.0,0,Frequent,0
+468,42,15992,Célibataire,Consulting,Directeur Technique,16,1,0,1,3,4,2,3,3,Non,14.0,0,Occasionnel,0
+469,29,4649,Marié(e),Commercial,Cadre Commercial,4,4,3,4,3,3,1,2,3,Non,14.0,1,Aucun,2
+470,42,2696,Divorcé(e),Ressources Humaines,Ressources Humaines,4,3,2,3,3,3,3,3,3,Oui,11.0,1,Occasionnel,0
+471,32,2370,Marié(e),Consulting,Consultant,8,8,0,3,3,2,3,3,3,Non,13.0,1,Occasionnel,7
+473,48,12504,Marié(e),Commercial,Senior Manager,15,0,0,1,3,3,2,1,4,Non,21.0,1,Occasionnel,0
+474,37,5974,Divorcé(e),Consulting,Assistant de Direction,13,7,7,3,4,1,1,3,3,Oui,13.0,2,Occasionnel,7
+475,30,4736,Marié(e),Commercial,Cadre Commercial,4,2,2,4,3,3,2,4,3,Oui,12.0,1,Aucun,2
+476,26,5296,Marié(e),Commercial,Cadre Commercial,8,8,7,3,3,3,2,3,3,Non,17.0,1,Occasionnel,7
+477,42,6781,Célibataire,Consulting,Manager,14,1,0,1,2,4,2,3,4,Non,23.0,0,Occasionnel,0
+478,21,2174,Célibataire,Commercial,Représentant Commercial,3,3,2,1,2,2,3,3,3,Oui,11.0,0,Frequent,2
+479,36,6653,Célibataire,Commercial,Cadre Commercial,7,1,0,4,3,4,2,3,3,Non,15.0,0,Aucun,0
+481,36,9699,Marié(e),Commercial,Cadre Commercial,16,13,9,1,2,4,1,3,3,Non,11.0,1,Frequent,12
+482,57,6755,Marié(e),Consulting,Manager,15,3,2,4,3,3,3,3,3,Non,11.0,0,Occasionnel,2
+483,40,2213,Marié(e),Consulting,Consultant,10,7,7,4,4,3,3,3,3,Oui,13.0,1,Occasionnel,7
+484,21,2610,Célibataire,Commercial,Représentant Commercial,3,3,2,1,3,4,3,2,4,Non,24.0,0,Aucun,2
+485,33,2851,Célibataire,Commercial,Représentant Commercial,1,1,0,4,3,3,2,3,3,Oui,13.0,0,Occasionnel,0
+486,37,3452,Marié(e),Consulting,Consultant,17,5,4,3,3,1,2,3,4,Non,20.0,1,Occasionnel,3
+487,46,5258,Marié(e),Consulting,Tech Lead,7,1,0,3,3,3,3,4,3,Non,14.0,0,Aucun,0
+488,41,9355,Célibataire,Commercial,Cadre Commercial,8,8,7,1,3,2,3,3,3,Non,18.0,0,Frequent,7
+491,50,10496,Célibataire,Consulting,Manager,20,4,3,4,2,4,4,3,3,Non,15.0,0,Occasionnel,3
+492,40,6380,Marié(e),Commercial,Cadre Commercial,8,6,4,3,2,3,1,3,3,Oui,12.0,2,Occasionnel,0
+493,31,2657,Célibataire,Consulting,Assistant de Direction,3,2,2,3,2,2,4,3,3,Oui,16.0,0,Occasionnel,2
+494,21,2716,Célibataire,Commercial,Représentant Commercial,1,1,0,3,4,2,4,3,3,Non,15.0,0,Occasionnel,0
+495,29,2201,Célibataire,Consulting,Assistant de Direction,6,3,2,4,3,4,4,3,3,Non,16.0,0,Occasionnel,2
+496,35,6540,Célibataire,Consulting,Manager,10,1,1,3,2,2,3,3,3,Non,19.0,0,Occasionnel,0
+497,27,3816,Divorcé(e),Consulting,Consultant,5,5,2,4,3,2,2,3,3,Non,11.0,1,Occasionnel,4
+498,28,5253,Célibataire,Commercial,Cadre Commercial,7,7,5,2,3,4,4,3,3,Non,16.0,0,Occasionnel,7
+499,49,10965,Célibataire,Consulting,Manager,26,5,2,2,2,3,3,3,4,Non,24.0,0,Occasionnel,0
+500,51,4936,Marié(e),Commercial,Cadre Commercial,18,7,7,3,3,4,3,2,3,Non,11.0,1,Occasionnel,7
+501,36,2543,Marié(e),Consulting,Assistant de Direction,6,2,2,4,3,3,2,3,3,Non,13.0,1,Occasionnel,2
+502,34,5304,Célibataire,Commercial,Cadre Commercial,9,5,2,1,4,4,2,2,3,Oui,13.0,0,Aucun,4
+505,55,16659,Célibataire,Consulting,Senior Manager,30,5,4,3,3,4,3,3,3,Oui,13.0,0,Occasionnel,2
+507,24,4260,Divorcé(e),Commercial,Cadre Commercial,5,5,2,4,3,3,4,4,3,Oui,12.0,1,Occasionnel,3
+508,30,2476,Marié(e),Commercial,Représentant Commercial,1,1,0,3,3,2,1,3,3,Non,18.0,1,Occasionnel,0
+510,26,3102,Célibataire,Consulting,Assistant de Direction,7,6,4,3,3,1,3,3,4,Non,22.0,0,Frequent,4
+511,22,2244,Marié(e),Consulting,Assistant de Direction,2,2,1,1,3,2,4,3,3,Non,13.0,1,Occasionnel,2
+513,36,7596,Marié(e),Commercial,Cadre Commercial,10,10,9,2,2,3,2,3,3,Non,13.0,2,Occasionnel,0
+514,30,2285,Célibataire,Consulting,Assistant de Direction,3,1,0,3,3,4,3,3,4,Oui,23.0,0,Frequent,0
+515,37,3034,Divorcé(e),Consulting,Consultant,18,18,7,4,3,1,3,2,3,Non,12.0,1,Occasionnel,17
+516,40,5715,Divorcé(e),Commercial,Cadre Commercial,8,5,4,4,3,2,3,3,3,Non,12.0,2,Occasionnel,3
+517,42,2576,Divorcé(e),Consulting,Consultant,8,5,2,2,3,1,2,3,3,Non,16.0,1,Occasionnel,2
+518,37,4197,Célibataire,Consulting,Tech Lead,18,1,0,3,3,2,4,2,3,Oui,12.0,0,Occasionnel,1
+520,43,14336,Divorcé(e),Consulting,Directeur Technique,25,25,10,1,2,2,3,3,3,Non,11.0,1,Occasionnel,9
+521,40,3448,Marié(e),Consulting,Consultant,20,1,0,2,2,3,2,3,4,Non,22.0,1,Occasionnel,0
+522,54,19406,Marié(e),Consulting,Directeur Technique,24,4,2,1,3,1,3,2,3,Non,11.0,1,Occasionnel,2
+523,34,6538,Marié(e),Commercial,Cadre Commercial,6,3,2,3,3,3,1,3,3,Non,15.0,1,Aucun,2
+524,31,4306,Marié(e),Consulting,Tech Lead,13,13,10,2,3,1,2,1,3,Non,12.0,1,Occasionnel,12
+525,43,2258,Marié(e),Consulting,Consultant,8,3,2,4,3,4,1,3,4,Non,20.0,1,Frequent,2
+526,43,4522,Divorcé(e),Consulting,Manager,8,5,2,3,3,3,4,3,3,Oui,14.0,0,Occasionnel,2
+527,25,4487,Célibataire,Commercial,Cadre Commercial,5,5,4,2,2,4,2,3,3,Oui,11.0,0,Occasionnel,3
+529,37,4449,Marié(e),Consulting,Assistant de Direction,15,13,11,2,3,3,1,3,3,Oui,15.0,2,Aucun,7
+530,31,2218,Marié(e),Consulting,Consultant,4,4,2,4,2,1,3,3,3,Non,12.0,1,Occasionnel,2
+531,39,19197,Divorcé(e),Consulting,Senior Manager,21,21,8,2,3,3,3,3,3,Oui,14.0,1,Frequent,6
+532,56,13212,Marié(e),Commercial,Cadre Commercial,36,7,7,3,4,1,4,2,3,Non,11.0,3,Frequent,7
+533,30,6577,Célibataire,Commercial,Cadre Commercial,6,5,4,2,3,3,2,3,3,Non,11.0,0,Occasionnel,4
+534,41,8392,Marié(e),Commercial,Cadre Commercial,10,10,7,2,4,1,3,3,3,Non,16.0,1,Occasionnel,7
+536,28,4558,Divorcé(e),Consulting,Consultant,10,10,0,3,3,1,4,3,3,Non,12.0,1,Occasionnel,8
+538,25,4031,Marié(e),Consulting,Consultant,6,2,2,1,3,1,3,3,3,Non,13.0,1,Occasionnel,2
+543,52,7969,Marié(e),Consulting,Tech Lead,28,5,4,4,2,3,3,3,3,Oui,14.0,0,Occasionnel,4
+544,45,2654,Marié(e),Consulting,Assistant de Direction,8,2,2,1,3,4,4,2,4,Non,21.0,2,Occasionnel,2
+546,52,16555,Marié(e),Consulting,Senior Manager,31,5,2,4,3,4,4,1,3,Non,13.0,0,Occasionnel,4
+547,42,4556,Divorcé(e),Consulting,Assistant de Direction,19,5,4,1,3,3,2,3,3,Non,11.0,1,Frequent,2
+548,30,6091,Célibataire,Consulting,Tech Lead,11,5,4,3,1,4,3,3,4,Non,20.0,0,Occasionnel,2
+549,60,19566,Marié(e),Consulting,Senior Manager,33,29,8,1,3,1,4,1,3,Non,11.0,0,Occasionnel,10
+550,46,4810,Divorcé(e),Consulting,Tech Lead,19,10,7,3,3,3,3,2,3,Non,14.0,1,Occasionnel,8
+551,42,4523,Marié(e),Consulting,Manager,7,6,5,4,2,4,4,4,3,Non,11.0,3,Frequent,4
+554,24,3202,Célibataire,Commercial,Représentant Commercial,6,5,3,1,3,2,2,3,3,Oui,16.0,0,Occasionnel,4
+555,34,2351,Divorcé(e),Commercial,Représentant Commercial,3,2,2,4,1,3,4,2,3,Non,16.0,1,Frequent,0
+556,38,1702,Marié(e),Consulting,Consultant,1,1,0,4,3,4,3,3,4,Oui,23.0,1,Frequent,0
+558,40,18041,Marié(e),Commercial,Senior Manager,21,20,15,3,3,3,4,3,3,Non,14.0,0,Occasionnel,12
+560,26,2886,Divorcé(e),Consulting,Assistant de Direction,3,3,2,1,3,4,2,1,4,Non,22.0,2,Occasionnel,2
+562,30,2097,Marié(e),Consulting,Consultant,9,5,3,3,3,4,3,1,3,Non,15.0,1,Aucun,4
+564,29,11935,Marié(e),Consulting,Directeur Technique,10,10,2,2,2,3,3,3,3,Non,18.0,0,Occasionnel,7
+565,29,2546,Marié(e),Consulting,Assistant de Direction,6,2,2,3,2,2,2,4,3,Non,16.0,0,Occasionnel,1
+566,19,2564,Célibataire,Ressources Humaines,Ressources Humaines,1,1,0,1,2,4,3,4,3,Non,12.0,0,Occasionnel,0
+567,30,8412,Marié(e),Commercial,Cadre Commercial,10,9,8,3,3,1,3,3,3,Non,11.0,0,Aucun,8
+568,57,14118,Divorcé(e),Commercial,Senior Manager,32,1,0,1,2,4,3,2,3,Non,12.0,1,Occasionnel,0
+569,50,17046,Marié(e),Consulting,Senior Manager,28,27,10,2,2,3,2,3,3,Non,15.0,1,Occasionnel,7
+571,30,2564,Célibataire,Consulting,Consultant,12,11,7,3,3,4,3,2,3,Non,14.0,0,Aucun,7
+573,60,10266,Marié(e),Commercial,Cadre Commercial,22,18,13,3,2,1,4,4,3,Non,19.0,0,Frequent,11
+574,47,5070,Divorcé(e),Consulting,Tech Lead,20,5,0,1,3,4,3,3,3,Non,13.0,3,Occasionnel,4
+575,46,17861,Marié(e),Consulting,Directeur Technique,26,3,2,1,3,3,3,1,3,Non,13.0,0,Occasionnel,1
+577,35,4230,Célibataire,Consulting,Consultant,6,5,4,4,1,3,3,3,3,Non,15.0,0,Occasionnel,3
+578,54,3780,Célibataire,Consulting,Consultant,19,1,0,3,3,3,3,3,3,Non,11.0,0,Occasionnel,0
+579,34,2768,Divorcé(e),Consulting,Assistant de Direction,14,7,3,4,2,3,3,3,3,Non,12.0,1,Occasionnel,7
+580,46,9071,Marié(e),Commercial,Cadre Commercial,15,3,2,3,2,4,3,3,3,Oui,19.0,1,Occasionnel,2
+581,31,10648,Divorcé(e),Consulting,Tech Lead,13,13,8,3,3,2,4,4,4,Non,25.0,1,Occasionnel,8
+582,33,13610,Marié(e),Consulting,Senior Manager,15,7,6,2,3,3,4,4,3,Oui,12.0,0,Occasionnel,7
+584,33,3408,Divorcé(e),Consulting,Consultant,8,4,3,1,1,4,1,3,3,Non,13.0,3,Occasionnel,3
+585,30,2983,Célibataire,Commercial,Représentant Commercial,4,3,2,4,3,2,1,3,3,Non,14.0,0,Occasionnel,2
+586,35,7632,Marié(e),Consulting,Manager,10,8,7,4,3,3,3,3,3,Oui,12.0,0,Occasionnel,0
+587,31,9824,Marié(e),Consulting,Manager,12,1,0,1,3,3,1,3,3,Non,12.0,0,Frequent,0
+590,34,9950,Divorcé(e),Ressources Humaines,Ressources Humaines,11,3,2,2,3,1,3,3,3,Oui,15.0,3,Frequent,2
+591,42,2093,Marié(e),Consulting,Consultant,8,2,2,2,3,3,4,3,3,Non,17.0,1,Frequent,0
+592,36,9980,Célibataire,Commercial,Cadre Commercial,10,10,3,2,3,4,4,2,3,Non,14.0,0,Aucun,7
+593,22,3894,Célibataire,Consulting,Consultant,4,2,2,3,2,3,3,3,3,Non,16.0,0,Frequent,2
+595,48,4051,Marié(e),Commercial,Cadre Commercial,14,9,7,2,3,4,1,3,3,Non,14.0,1,Occasionnel,7
+597,55,16835,Célibataire,Commercial,Senior Manager,37,10,9,1,3,2,4,3,4,Non,23.0,0,Occasionnel,7
+599,41,6230,Célibataire,Commercial,Cadre Commercial,16,14,3,4,3,4,4,3,3,Non,14.0,0,Aucun,10
+600,35,4717,Marié(e),Commercial,Cadre Commercial,15,11,9,2,3,3,3,3,3,Non,11.0,0,Occasionnel,9
+601,40,13237,Célibataire,Consulting,Tech Lead,22,20,6,2,3,3,3,3,3,Non,15.0,0,Occasionnel,13
+602,39,3755,Marié(e),Consulting,Consultant,8,8,3,3,3,3,1,3,3,Non,11.0,1,Frequent,7
+604,31,6582,Célibataire,Commercial,Cadre Commercial,10,6,5,2,3,4,3,4,3,Oui,13.0,0,Occasionnel,5
+605,42,7406,Marié(e),Consulting,Tech Lead,10,10,9,4,3,1,4,2,4,Oui,21.0,1,Occasionnel,8
+606,45,4805,Marié(e),Commercial,Cadre Commercial,9,8,7,4,3,2,2,4,3,Non,19.0,1,Occasionnel,7
+608,26,2741,Divorcé(e),Ressources Humaines,Ressources Humaines,8,7,7,2,3,3,2,2,3,Oui,11.0,1,Frequent,0
+611,29,4262,Divorcé(e),Consulting,Tech Lead,8,3,2,4,3,4,2,4,3,Non,12.0,2,Occasionnel,2
+612,33,16184,Divorcé(e),Consulting,Directeur Technique,10,6,1,1,4,3,3,3,3,Non,19.0,1,Occasionnel,5
+613,31,11557,Divorcé(e),Commercial,Senior Manager,10,5,4,3,2,4,3,2,4,Non,21.0,1,Occasionnel,1
+614,18,1878,Célibataire,Commercial,Représentant Commercial,0,0,0,2,3,2,4,3,3,Oui,14.0,0,Frequent,0
+615,40,10932,Divorcé(e),Commercial,Cadre Commercial,20,1,0,3,1,1,3,3,3,Non,15.0,1,Aucun,1
+616,41,6811,Célibataire,Consulting,Manager,10,8,7,1,2,3,1,3,3,Oui,17.0,0,Aucun,7
+618,26,4306,Divorcé(e),Commercial,Cadre Commercial,8,0,0,1,3,3,1,3,3,Non,12.0,2,Occasionnel,0
+620,35,4859,Célibataire,Commercial,Cadre Commercial,5,5,4,1,3,3,4,3,3,Non,16.0,0,Occasionnel,3
+621,34,5337,Célibataire,Commercial,Cadre Commercial,10,10,7,4,4,4,4,3,3,Non,12.0,0,Occasionnel,7
+622,26,2340,Célibataire,Consulting,Consultant,1,1,0,3,1,4,2,1,3,Oui,18.0,0,Occasionnel,0
+623,37,7491,Célibataire,Consulting,Tech Lead,12,6,5,2,3,4,4,4,3,Non,17.0,0,Occasionnel,2
+624,46,10527,Marié(e),Consulting,Manager,28,2,2,1,3,3,4,2,3,Non,11.0,0,Frequent,2
+625,41,16595,Marié(e),Commercial,Senior Manager,22,18,16,2,3,1,2,3,3,Non,16.0,1,Occasionnel,8
+626,37,8834,Divorcé(e),Commercial,Cadre Commercial,9,9,5,1,3,2,4,3,3,Non,13.0,1,Aucun,7
+630,52,5577,Divorcé(e),Consulting,Assistant de Direction,18,10,9,4,3,1,2,3,3,Oui,12.0,2,Occasionnel,9
+631,32,4707,Marié(e),Commercial,Cadre Commercial,6,4,2,4,4,3,4,3,3,Non,12.0,0,Aucun,2
+632,24,2400,Marié(e),Commercial,Représentant Commercial,3,2,2,4,3,4,3,3,3,Non,13.0,2,Frequent,1
+634,38,9824,Marié(e),Consulting,Manager,18,1,0,3,3,3,3,3,3,Non,19.0,1,Occasionnel,0
+635,37,6447,Marié(e),Consulting,Tech Lead,8,6,5,2,3,2,2,2,3,Non,12.0,1,Occasionnel,3
+638,49,19502,Divorcé(e),Consulting,Directeur Technique,31,31,9,4,2,3,3,3,3,Oui,17.0,1,Occasionnel,9
+639,24,2725,Marié(e),Consulting,Assistant de Direction,6,6,5,2,4,4,2,3,3,Oui,11.0,2,Occasionnel,4
+641,26,6272,Marié(e),Commercial,Cadre Commercial,6,5,3,1,3,2,4,4,4,Non,20.0,2,Occasionnel,4
+643,24,2127,Marié(e),Consulting,Consultant,1,1,0,4,2,2,4,3,4,Non,21.0,1,Occasionnel,0
+644,50,18200,Marié(e),Ressources Humaines,Senior Manager,32,32,5,1,3,2,3,3,3,Non,11.0,1,Frequent,7
+645,25,2096,Marié(e),Commercial,Représentant Commercial,7,7,4,2,3,3,3,3,3,Non,11.0,0,Occasionnel,6
+647,24,2886,Marié(e),Consulting,Consultant,6,6,3,1,3,3,4,3,3,Oui,16.0,1,Frequent,2
+648,30,2033,Marié(e),Commercial,Représentant Commercial,1,1,0,2,2,1,3,4,3,Non,18.0,1,Frequent,0
+649,34,3622,Marié(e),Consulting,Assistant de Direction,6,6,5,2,2,4,4,3,3,Oui,13.0,1,Occasionnel,3
+650,31,4233,Divorcé(e),Commercial,Cadre Commercial,9,3,1,2,3,1,3,1,3,Non,17.0,0,Occasionnel,2
+652,35,3681,Célibataire,Consulting,Consultant,9,3,2,1,2,4,4,3,3,Non,14.0,0,Occasionnel,2
+653,31,5460,Divorcé(e),Commercial,Cadre Commercial,13,7,7,1,4,4,4,4,4,Non,22.0,2,Occasionnel,7
+655,27,2187,Divorcé(e),Consulting,Assistant de Direction,6,5,3,1,2,3,3,2,3,Non,12.0,2,Occasionnel,3
+656,37,9602,Marié(e),Commercial,Cadre Commercial,17,3,0,4,3,3,3,2,3,Oui,11.0,1,Occasionnel,0
+657,20,2836,Célibataire,Consulting,Assistant de Direction,1,1,0,4,2,2,4,4,3,Non,13.0,0,Occasionnel,0
+659,42,4089,Marié(e),Consulting,Manager,10,10,2,3,3,4,2,3,3,Non,13.0,2,Occasionnel,2
+661,43,16627,Divorcé(e),Consulting,Directeur Technique,21,1,0,2,2,4,3,2,3,Oui,14.0,1,Occasionnel,0
+662,38,2619,Célibataire,Consulting,Assistant de Direction,8,0,0,3,3,1,4,2,3,Non,17.0,0,Occasionnel,0
+663,43,5679,Divorcé(e),Consulting,Consultant,10,8,7,4,3,3,2,3,3,Oui,13.0,1,Frequent,7
+664,48,15402,Marié(e),Consulting,Senior Manager,21,3,2,4,2,1,1,1,3,Non,11.0,1,Occasionnel,2
+665,44,5985,Célibataire,Ressources Humaines,Ressources Humaines,10,2,2,1,2,3,2,4,3,Non,11.0,0,Occasionnel,2
+666,34,2579,Divorcé(e),Commercial,Représentant Commercial,8,8,2,3,3,3,4,3,3,Oui,18.0,2,Occasionnel,6
+667,27,3041,Divorcé(e),Commercial,Représentant Commercial,5,4,3,3,3,1,2,3,3,Non,11.0,1,Occasionnel,2
+669,21,3447,Célibataire,Commercial,Représentant Commercial,3,3,2,3,3,3,3,3,3,Non,11.0,0,Occasionnel,2
+671,44,19513,Marié(e),Consulting,Senior Manager,26,2,2,4,3,4,1,4,3,Oui,12.0,1,Occasionnel,1
+675,22,2773,Marié(e),Consulting,Assistant de Direction,3,2,2,1,3,3,4,3,4,Non,20.0,0,Occasionnel,2
+677,33,7104,Divorcé(e),Commercial,Cadre Commercial,6,5,0,3,3,3,4,3,3,Non,12.0,0,Occasionnel,2
+679,32,6322,Marié(e),Consulting,Assistant de Direction,6,6,4,1,3,4,4,2,3,Oui,12.0,1,Occasionnel,5
+680,30,2083,Divorcé(e),Consulting,Assistant de Direction,1,1,0,3,3,3,3,3,4,Non,20.0,1,Frequent,0
+682,53,8381,Célibataire,Commercial,Cadre Commercial,18,14,7,4,3,1,4,4,4,Non,20.0,0,Occasionnel,10
+683,34,2691,Marié(e),Consulting,Assistant de Direction,10,10,9,2,3,4,4,2,3,Non,12.0,1,Occasionnel,8
+684,45,4286,Marié(e),Commercial,Cadre Commercial,5,1,1,1,3,1,4,3,3,Non,14.0,2,Frequent,0
+686,26,2659,Marié(e),Consulting,Consultant,3,3,2,3,3,4,3,3,3,Oui,13.0,1,Occasionnel,2
+689,37,9434,Marié(e),Consulting,Tech Lead,10,10,7,3,3,3,3,3,3,Non,15.0,1,Occasionnel,8
+690,29,5561,Marié(e),Commercial,Cadre Commercial,6,6,0,2,3,3,1,2,3,Non,14.0,1,Occasionnel,2
+691,35,6646,Célibataire,Consulting,Assistant de Direction,17,17,11,2,1,4,2,3,3,Non,13.0,0,Occasionnel,8
+692,33,7725,Divorcé(e),Consulting,Manager,15,13,11,3,3,4,3,1,4,Non,23.0,1,Frequent,7
+698,54,10725,Marié(e),Ressources Humaines,Ressources Humaines,16,9,7,3,3,2,3,4,3,Non,15.0,1,Occasionnel,1
+699,36,8847,Divorcé(e),Consulting,Tech Lead,13,3,2,2,2,2,3,3,3,Oui,11.0,1,Occasionnel,2
+700,27,2045,Célibataire,Consulting,Assistant de Direction,5,4,2,1,2,4,4,3,3,Non,13.0,0,Occasionnel,1
+701,20,1009,Célibataire,Consulting,Assistant de Direction,1,1,0,4,3,3,4,3,3,Oui,11.0,0,Occasionnel,1
+702,33,3348,Célibataire,Consulting,Assistant de Direction,10,10,8,1,3,1,1,3,3,Oui,11.0,0,Frequent,7
+704,35,1281,Marié(e),Consulting,Consultant,1,1,0,3,2,3,3,3,3,Non,18.0,2,Aucun,0
+705,23,2819,Marié(e),Consulting,Assistant de Direction,5,3,2,1,4,1,1,4,3,Non,16.0,1,Occasionnel,2
+707,25,4851,Marié(e),Commercial,Cadre Commercial,4,3,2,4,4,2,3,3,4,Non,22.0,1,Occasionnel,2
+709,38,4028,Célibataire,Commercial,Cadre Commercial,8,7,7,4,2,4,1,3,4,Non,20.0,0,Occasionnel,5
+710,29,2720,Divorcé(e),Consulting,Assistant de Direction,10,10,7,2,1,4,4,3,3,Non,18.0,1,Frequent,8
+712,48,8120,Marié(e),Commercial,Cadre Commercial,12,2,2,2,4,2,4,3,3,Non,12.0,0,Occasionnel,2
+714,27,4647,Divorcé(e),Commercial,Cadre Commercial,6,6,5,4,4,4,2,3,4,Oui,20.0,2,Frequent,4
+715,37,4680,Célibataire,Consulting,Assistant de Direction,4,1,0,4,4,4,1,3,3,Non,17.0,0,Occasionnel,0
+716,50,3221,Marié(e),Consulting,Consultant,20,20,8,4,4,3,3,3,3,Oui,11.0,3,Occasionnel,8
+717,34,8621,Célibataire,Consulting,Manager,9,8,7,4,2,2,2,4,3,Non,14.0,0,Occasionnel,7
+720,24,4577,Célibataire,Commercial,Cadre Commercial,4,2,2,1,3,3,1,3,3,Non,14.0,0,Occasionnel,0
+721,39,4553,Célibataire,Consulting,Manager,20,20,7,4,2,3,1,3,3,Non,11.0,0,Occasionnel,10
+722,32,5396,Célibataire,Commercial,Cadre Commercial,10,10,7,4,3,4,4,2,3,Non,12.0,0,Occasionnel,8
+723,50,6796,Marié(e),Commercial,Cadre Commercial,18,4,3,2,3,3,1,3,3,Oui,14.0,1,Frequent,3
+724,38,7625,Célibataire,Consulting,Manager,10,9,7,2,4,4,3,2,3,Non,13.0,0,Occasionnel,8
+725,27,7412,Marié(e),Consulting,Tech Lead,9,9,7,3,3,1,4,3,3,Non,11.0,0,Occasionnel,7
+727,32,11159,Célibataire,Consulting,Directeur Technique,10,7,7,3,3,4,4,3,3,Non,15.0,0,Occasionnel,7
+728,47,4960,Célibataire,Commercial,Cadre Commercial,20,7,7,4,3,1,4,3,3,Non,12.0,0,Occasionnel,7
+729,40,10475,Marié(e),Commercial,Cadre Commercial,20,18,13,4,2,1,3,3,4,Oui,21.0,1,Frequent,12
+730,53,14814,Marié(e),Consulting,Directeur Technique,32,5,1,3,4,3,3,3,3,Non,19.0,0,Occasionnel,3
+731,41,19141,Divorcé(e),Ressources Humaines,Senior Manager,23,21,6,2,2,4,2,2,3,Non,15.0,3,Occasionnel,6
+732,60,5405,Célibataire,Commercial,Cadre Commercial,10,2,2,1,3,1,4,3,3,Non,14.0,0,Occasionnel,2
+733,27,8793,Divorcé(e),Consulting,Tech Lead,9,9,7,4,3,1,3,2,4,Non,21.0,2,Frequent,7
+734,41,19189,Marié(e),Ressources Humaines,Senior Manager,22,22,7,4,2,3,2,3,3,Non,12.0,1,Occasionnel,10
+738,50,3875,Marié(e),Commercial,Représentant Commercial,4,2,2,4,3,2,4,3,3,Non,15.0,1,Occasionnel,2
+741,28,2216,Célibataire,Consulting,Assistant de Direction,10,7,7,1,1,2,4,3,3,Oui,13.0,0,Occasionnel,7
+742,36,11713,Marié(e),Consulting,Directeur Technique,10,8,7,1,4,1,1,3,3,Non,14.0,1,Aucun,5
+743,38,7861,Célibataire,Consulting,Tech Lead,10,1,0,3,3,3,4,4,3,Oui,14.0,0,Occasionnel,0
+744,44,3708,Célibataire,Consulting,Consultant,9,5,2,1,1,3,3,3,3,Non,14.0,0,Aucun,4
+746,47,13770,Divorcé(e),Commercial,Cadre Commercial,28,22,2,4,3,3,4,2,3,Oui,12.0,2,Frequent,13
+747,30,5304,Divorcé(e),Commercial,Cadre Commercial,10,8,7,3,3,4,4,2,4,Non,23.0,1,Occasionnel,7
+749,29,2642,Célibataire,Commercial,Représentant Commercial,1,1,0,3,3,3,3,3,3,Non,11.0,0,Occasionnel,0
+752,42,2759,Divorcé(e),Consulting,Assistant de Direction,7,2,2,3,4,3,4,3,3,Oui,12.0,0,Frequent,2
+754,43,6804,Marié(e),Commercial,Cadre Commercial,7,2,2,4,2,4,3,3,3,Non,18.0,1,Frequent,2
+757,34,6142,Célibataire,Consulting,Manager,10,5,1,2,3,3,4,3,3,Non,11.0,0,Occasionnel,3
+758,23,2500,Marié(e),Consulting,Consultant,5,4,3,2,3,1,4,4,3,Non,14.0,1,Occasionnel,2
+760,39,6389,Marié(e),Ressources Humaines,Ressources Humaines,12,8,3,3,4,2,3,1,3,Non,15.0,1,Occasionnel,6
+762,56,11103,Marié(e),Consulting,Manager,30,10,7,3,3,4,3,2,3,Non,11.0,0,Occasionnel,1
+763,40,2342,Célibataire,Consulting,Assistant de Direction,5,4,2,4,2,4,4,2,4,Oui,20.0,0,Occasionnel,3
+764,27,6811,Célibataire,Consulting,Manager,9,7,6,4,2,1,1,1,3,Non,19.0,0,Occasionnel,7
+766,29,2297,Divorcé(e),Commercial,Représentant Commercial,2,2,2,4,3,2,4,3,3,Non,14.0,2,Occasionnel,2
+769,53,2450,Célibataire,Consulting,Consultant,19,2,2,4,3,4,4,3,3,Non,17.0,0,Occasionnel,2
+771,35,5093,Divorcé(e),Consulting,Manager,16,1,0,4,3,1,1,4,3,Non,11.0,1,Aucun,0
+772,32,5309,Marié(e),Consulting,Consultant,10,10,8,1,3,4,4,3,3,Non,15.0,2,Frequent,7
+773,38,3057,Marié(e),Consulting,Assistant de Direction,6,1,0,4,3,3,2,1,3,Oui,13.0,1,Occasionnel,1
+775,34,5121,Divorcé(e),Consulting,Tech Lead,7,0,0,2,3,1,3,3,3,Non,14.0,1,Occasionnel,0
+776,52,16856,Marié(e),Commercial,Senior Manager,34,34,6,3,2,1,1,4,3,Non,11.0,0,Occasionnel,16
+780,33,2686,Célibataire,Consulting,Assistant de Direction,10,10,9,4,3,4,3,2,3,Oui,13.0,0,Occasionnel,8
+781,25,6180,Célibataire,Commercial,Cadre Commercial,6,6,5,3,3,4,2,2,4,Non,23.0,0,Occasionnel,4
+783,45,6632,Célibataire,Commercial,Représentant Commercial,9,8,7,2,1,3,1,3,3,Non,13.0,0,Occasionnel,1
+784,23,3505,Célibataire,Consulting,Assistant de Direction,2,2,2,1,4,3,4,3,3,Non,18.0,0,Occasionnel,2
+785,47,6397,Célibataire,Commercial,Cadre Commercial,8,5,4,2,4,3,4,3,3,Oui,12.0,0,Frequent,3
+786,34,6274,Célibataire,Commercial,Cadre Commercial,6,6,5,4,3,4,3,3,4,Non,22.0,0,Occasionnel,4
+787,55,19859,Marié(e),Consulting,Senior Manager,24,5,2,4,3,1,4,3,3,Oui,13.0,1,Occasionnel,4
+789,36,7587,Célibataire,Commercial,Cadre Commercial,10,10,7,1,2,1,2,3,3,Non,15.0,0,Aucun,9
+791,52,4258,Marié(e),Consulting,Assistant de Direction,5,4,3,4,3,4,1,3,3,Non,18.0,1,Aucun,2
+792,26,4364,Divorcé(e),Consulting,Consultant,5,2,2,1,1,4,1,3,3,Non,14.0,1,Frequent,0
+793,29,4335,Marié(e),Consulting,Manager,11,8,7,2,3,3,1,2,3,Non,12.0,1,Occasionnel,1
+796,26,5326,Célibataire,Commercial,Cadre Commercial,6,4,3,4,2,1,3,2,3,Non,17.0,0,Occasionnel,2
+797,34,3280,Célibataire,Consulting,Assistant de Direction,10,4,2,2,4,4,3,3,3,Non,16.0,0,Occasionnel,3
+799,54,5485,Divorcé(e),Consulting,Tech Lead,9,5,3,4,3,1,2,3,3,Oui,11.0,2,Occasionnel,4
+800,27,4342,Marié(e),Commercial,Cadre Commercial,5,4,2,3,3,4,2,3,3,Non,19.0,1,Frequent,1
+802,37,2782,Divorcé(e),Consulting,Assistant de Direction,6,5,3,4,3,1,2,2,3,Oui,13.0,2,Occasionnel,3
+803,38,5980,Célibataire,Consulting,Tech Lead,17,15,7,1,4,1,4,3,3,Oui,12.0,0,Frequent,12
+804,34,4381,Célibataire,Consulting,Assistant de Direction,6,6,5,3,2,1,3,3,3,Non,11.0,0,Occasionnel,3
+805,35,2572,Marié(e),Commercial,Représentant Commercial,3,3,2,1,3,4,2,2,3,Non,16.0,1,Occasionnel,2
+806,30,3833,Marié(e),Consulting,Consultant,7,2,2,4,1,3,3,3,4,Non,21.0,2,Occasionnel,2
+807,40,4244,Marié(e),Consulting,Manager,8,8,7,3,4,2,4,3,4,Non,24.0,1,Frequent,7
+808,34,6500,Marié(e),Commercial,Cadre Commercial,6,3,2,3,3,1,2,3,3,Non,17.0,1,Occasionnel,2
+809,42,18430,Divorcé(e),Consulting,Senior Manager,24,24,7,2,3,4,2,2,3,Non,13.0,1,Frequent,9
+811,23,1601,Marié(e),Consulting,Consultant,1,0,0,3,4,1,3,3,4,Oui,21.0,2,Occasionnel,0
+812,24,2694,Divorcé(e),Consulting,Consultant,1,1,0,3,2,2,3,3,3,Non,11.0,3,Aucun,0
+813,52,3149,Marié(e),Consulting,Consultant,9,5,2,4,3,3,2,3,4,Non,20.0,1,Occasionnel,4
+815,50,17639,Marié(e),Consulting,Directeur Technique,30,4,3,3,3,3,4,3,3,Non,16.0,0,Occasionnel,3
+816,29,2319,Marié(e),Consulting,Consultant,1,1,0,2,2,1,4,3,3,Oui,11.0,1,Occasionnel,0
+817,33,11691,Marié(e),Consulting,Directeur Technique,14,13,9,3,3,3,4,4,3,Non,11.0,0,Occasionnel,7
+819,33,5324,Célibataire,Commercial,Cadre Commercial,6,3,2,1,3,1,3,3,3,Non,15.0,0,Occasionnel,2
+820,47,16752,Marié(e),Consulting,Senior Manager,26,26,14,3,3,4,3,2,3,Oui,11.0,1,Occasionnel,0
+823,36,5228,Marié(e),Consulting,Tech Lead,10,9,7,3,3,2,1,3,3,Non,15.0,1,Occasionnel,5
+824,29,2700,Marié(e),Consulting,Assistant de Direction,10,10,7,3,4,3,3,3,4,Non,24.0,1,Occasionnel,7
+825,58,19246,Célibataire,Consulting,Directeur Technique,40,31,15,4,3,2,4,3,3,Oui,12.0,0,Occasionnel,8
+826,35,2506,Célibataire,Consulting,Assistant de Direction,7,2,2,4,4,3,3,3,3,Non,13.0,0,Occasionnel,2
+827,42,6062,Marié(e),Consulting,Tech Lead,8,4,3,4,2,4,4,3,3,Oui,13.0,1,Occasionnel,2
+828,28,4382,Célibataire,Consulting,Assistant de Direction,5,2,2,3,3,3,4,2,3,Non,17.0,0,Occasionnel,1
+829,36,2143,Marié(e),Ressources Humaines,Ressources Humaines,8,5,2,3,3,2,2,3,3,Non,13.0,1,Occasionnel,4
+830,32,6162,Marié(e),Consulting,Tech Lead,14,14,13,3,2,3,3,3,3,Non,12.0,1,Occasionnel,8
+832,40,5094,Célibataire,Consulting,Consultant,10,1,0,1,2,3,4,3,3,Non,14.0,0,Frequent,0
+833,30,6877,Célibataire,Consulting,Tech Lead,12,0,0,3,2,4,2,2,4,Oui,24.0,0,Occasionnel,0
+834,45,2274,Célibataire,Consulting,Assistant de Direction,1,1,0,2,2,3,4,3,3,Non,14.0,0,Occasionnel,0
+836,42,4434,Marié(e),Consulting,Tech Lead,10,9,8,2,3,2,4,2,3,Non,13.0,1,Occasionnel,8
+837,38,6288,Divorcé(e),Consulting,Manager,13,4,3,1,2,1,3,2,3,Non,15.0,1,Frequent,2
+838,34,2553,Célibataire,Consulting,Assistant de Direction,6,5,2,3,2,4,3,3,3,Non,16.0,0,Frequent,3
+840,49,7654,Marié(e),Commercial,Cadre Commercial,9,9,8,3,3,4,1,4,3,Non,18.0,2,Occasionnel,7
+842,55,5160,Célibataire,Commercial,Cadre Commercial,12,9,7,3,3,4,3,2,3,Non,16.0,0,Occasionnel,3
+843,43,17159,Marié(e),Consulting,Directeur Technique,22,4,1,2,3,1,3,3,4,Non,24.0,1,Occasionnel,0
+844,27,12808,Divorcé(e),Consulting,Directeur Technique,9,9,8,3,2,4,2,3,3,Oui,16.0,1,Occasionnel,8
+845,35,10221,Célibataire,Consulting,Tech Lead,17,8,5,3,3,3,2,4,4,Non,21.0,0,Occasionnel,6
+846,28,4779,Marié(e),Commercial,Cadre Commercial,8,8,7,2,3,2,1,3,4,Oui,20.0,0,Occasionnel,5
+847,34,3737,Marié(e),Ressources Humaines,Ressources Humaines,4,3,2,3,3,4,3,1,3,Non,19.0,1,Occasionnel,2
+848,26,2366,Marié(e),Consulting,Assistant de Direction,8,8,7,3,2,3,1,3,3,Oui,14.0,1,Frequent,7
+850,27,1706,Marié(e),Consulting,Assistant de Direction,0,0,0,4,3,4,3,2,3,Non,11.0,3,Aucun,0
+851,51,16307,Marié(e),Commercial,Senior Manager,29,20,6,1,3,3,3,2,3,Non,14.0,1,Occasionnel,17
+852,44,5933,Célibataire,Consulting,Manager,10,5,2,4,3,2,4,2,3,Non,12.0,0,Occasionnel,3
+854,25,3424,Célibataire,Consulting,Assistant de Direction,6,4,3,1,4,1,3,2,3,Non,13.0,0,Occasionnel,1
+855,33,4037,Divorcé(e),Commercial,Cadre Commercial,9,9,8,1,4,1,1,3,4,Non,22.0,1,Occasionnel,8
+856,35,2559,Célibataire,Consulting,Assistant de Direction,6,6,5,3,2,1,4,2,3,Non,11.0,0,Occasionnel,1
+857,36,6201,Marié(e),Commercial,Cadre Commercial,18,18,14,2,3,4,4,2,3,Oui,14.0,1,Occasionnel,11
+859,32,4403,Divorcé(e),Commercial,Cadre Commercial,8,5,2,2,3,4,3,2,3,Non,11.0,1,Occasionnel,3
+861,30,3761,Divorcé(e),Consulting,Assistant de Direction,10,5,4,2,2,4,2,2,3,Non,12.0,1,Frequent,3
+862,53,10934,Marié(e),Commercial,Cadre Commercial,35,5,2,1,2,4,4,3,3,Oui,18.0,1,Occasionnel,4
+864,45,10761,Divorcé(e),Commercial,Cadre Commercial,18,5,4,4,3,1,3,3,3,Oui,12.0,1,Occasionnel,2
+865,32,5175,Marié(e),Consulting,Assistant de Direction,9,5,3,3,4,3,3,2,3,Non,12.0,1,Occasionnel,3
+867,52,13826,Marié(e),Consulting,Tech Lead,31,9,8,3,2,4,3,3,4,Non,22.0,0,Frequent,0
+868,37,6334,Divorcé(e),Commercial,Cadre Commercial,9,1,0,4,2,3,4,3,3,Non,19.0,2,Occasionnel,0
+869,28,4936,Divorcé(e),Ressources Humaines,Ressources Humaines,6,5,1,2,2,4,4,3,3,Non,13.0,1,Occasionnel,4
+872,22,4775,Marié(e),Consulting,Tech Lead,4,2,2,4,2,4,1,1,4,Non,22.0,2,Occasionnel,2
+874,44,2818,Marié(e),Consulting,Consultant,10,3,2,1,4,4,3,2,4,Oui,24.0,1,Occasionnel,2
+875,42,2515,Célibataire,Consulting,Assistant de Direction,8,2,1,2,3,4,4,3,3,Oui,14.0,0,Frequent,2
+878,36,2342,Marié(e),Ressources Humaines,Ressources Humaines,6,5,4,1,2,1,3,3,4,Non,21.0,0,Occasionnel,3
+879,25,4194,Marié(e),Commercial,Cadre Commercial,5,5,3,3,3,1,4,3,3,Oui,18.0,0,Occasionnel,3
+880,35,10685,Marié(e),Consulting,Tech Lead,17,17,14,4,2,3,2,3,4,Oui,20.0,1,Occasionnel,15
+881,35,2022,Divorcé(e),Consulting,Assistant de Direction,10,10,2,4,3,2,1,2,3,Oui,19.0,1,Frequent,8
+882,32,2314,Divorcé(e),Consulting,Consultant,4,3,0,4,3,4,2,3,3,Non,12.0,1,Aucun,2
+885,25,4256,Marié(e),Commercial,Cadre Commercial,5,5,2,3,2,1,1,4,3,Non,12.0,0,Occasionnel,3
+887,49,3580,Marié(e),Consulting,Assistant de Direction,7,4,2,3,3,1,2,3,3,Non,16.0,1,Occasionnel,2
+888,24,3162,Marié(e),Consulting,Consultant,6,5,2,1,2,4,4,2,3,Non,17.0,0,Aucun,4
+889,32,6524,Marié(e),Commercial,Cadre Commercial,10,10,8,2,3,2,4,3,3,Non,14.0,1,Frequent,3
+893,38,2899,Marié(e),Commercial,Représentant Commercial,3,2,2,2,2,2,4,3,3,Non,19.0,1,Occasionnel,2
+894,42,5231,Marié(e),Consulting,Consultant,17,5,3,3,4,4,2,2,3,Oui,13.0,1,Occasionnel,3
+895,31,2356,Marié(e),Consulting,Assistant de Direction,8,6,4,4,3,4,2,3,3,Oui,19.0,1,Occasionnel,2
+896,29,2800,Divorcé(e),Commercial,Représentant Commercial,5,3,2,2,2,3,3,3,3,Oui,19.0,3,Occasionnel,2
+897,53,11836,Marié(e),Commercial,Cadre Commercial,28,2,0,1,3,4,3,3,3,Non,14.0,1,Occasionnel,2
+899,35,10903,Marié(e),Consulting,Tech Lead,16,13,10,4,2,2,1,3,3,Non,16.0,0,Occasionnel,8
+900,37,2973,Marié(e),Commercial,Représentant Commercial,10,5,4,3,3,4,2,3,3,Non,15.0,1,Frequent,0
+901,53,14275,Célibataire,Consulting,Directeur Technique,33,12,9,4,3,4,3,3,3,Non,18.0,0,Occasionnel,8
+902,43,5562,Marié(e),Consulting,Manager,12,5,2,4,3,4,2,2,3,Non,13.0,1,Frequent,2
+903,47,4537,Marié(e),Commercial,Cadre Commercial,8,7,6,3,3,4,1,3,4,Oui,22.0,1,Occasionnel,7
+904,37,7642,Célibataire,Commercial,Cadre Commercial,10,10,0,1,3,2,4,3,3,Oui,13.0,0,Aucun,9
+905,50,17924,Divorcé(e),Consulting,Senior Manager,31,31,6,1,3,1,4,3,3,Non,11.0,1,Aucun,7
+909,39,5204,Marié(e),Ressources Humaines,Ressources Humaines,13,5,4,4,2,4,3,3,3,Non,11.0,2,Occasionnel,4
+910,33,2277,Divorcé(e),Ressources Humaines,Ressources Humaines,7,4,3,4,3,2,3,4,3,Oui,11.0,1,Occasionnel,3
+911,32,2795,Célibataire,Consulting,Consultant,1,1,0,1,3,4,3,1,4,Oui,24.0,0,Occasionnel,1
+912,29,2532,Divorcé(e),Consulting,Consultant,8,4,3,1,2,4,3,3,3,Non,14.0,3,Occasionnel,3
+913,44,2559,Marié(e),Consulting,Assistant de Direction,8,8,7,2,3,1,4,3,3,Oui,13.0,0,Occasionnel,1
+916,28,4908,Célibataire,Commercial,Cadre Commercial,4,4,2,1,3,4,2,3,3,Non,14.0,0,Occasionnel,2
+918,58,2380,Divorcé(e),Consulting,Consultant,3,1,0,4,2,4,4,2,3,Oui,14.0,1,Frequent,0
+920,43,4765,Divorcé(e),Consulting,Tech Lead,4,1,0,1,3,2,3,4,4,Non,21.0,1,Occasionnel,0
+922,20,2044,Célibataire,Commercial,Représentant Commercial,2,2,2,3,2,3,4,2,3,Non,13.0,0,Occasionnel,2
+923,21,2693,Célibataire,Consulting,Assistant de Direction,1,1,0,4,3,4,1,2,3,Non,19.0,0,Occasionnel,0
+924,36,6586,Marié(e),Consulting,Manager,17,16,8,3,3,4,1,2,3,Oui,17.0,1,Occasionnel,11
+925,47,3294,Célibataire,Commercial,Représentant Commercial,3,3,2,4,2,4,1,2,3,Oui,18.0,0,Occasionnel,2
+926,22,4171,Marié(e),Consulting,Tech Lead,4,3,2,2,3,3,1,4,3,Oui,19.0,1,Occasionnel,2
+927,41,2778,Divorcé(e),Consulting,Consultant,10,7,7,2,1,4,3,2,3,Oui,13.0,1,Occasionnel,0
+930,28,2377,Divorcé(e),Consulting,Assistant de Direction,6,2,2,3,3,3,2,3,3,Non,18.0,1,Occasionnel,2
+932,39,2404,Marié(e),Consulting,Consultant,8,2,2,4,3,1,4,1,4,Oui,21.0,0,Occasionnel,2
+933,27,2318,Célibataire,Consulting,Assistant de Direction,1,1,1,2,3,3,3,3,3,Non,19.0,0,Occasionnel,0
+934,34,2008,Divorcé(e),Consulting,Consultant,1,1,0,2,3,2,2,3,3,Non,14.0,2,Occasionnel,0
+936,42,6244,Célibataire,Commercial,Cadre Commercial,10,5,4,3,2,3,1,3,3,Non,17.0,0,Occasionnel,3
+939,33,2799,Célibataire,Consulting,Assistant de Direction,6,3,2,3,2,1,2,3,3,Oui,11.0,0,Occasionnel,2
+940,58,10552,Divorcé(e),Consulting,Manager,24,6,0,3,2,2,4,3,3,Oui,13.0,1,Occasionnel,4
+941,31,2329,Marié(e),Commercial,Représentant Commercial,13,7,7,2,2,3,2,4,3,Non,15.0,0,Occasionnel,2
+942,35,4014,Marié(e),Consulting,Manager,10,10,6,4,3,4,4,1,4,Oui,25.0,1,Occasionnel,7
+944,49,7403,Marié(e),Consulting,Consultant,29,26,9,1,3,2,3,2,3,Non,11.0,1,Occasionnel,7
+945,48,2259,Marié(e),Consulting,Assistant de Direction,13,0,0,4,3,3,1,2,3,Non,17.0,2,Occasionnel,0
+947,31,6932,Marié(e),Commercial,Cadre Commercial,9,9,8,4,3,3,4,2,3,Non,13.0,1,Aucun,0
+949,36,4678,Célibataire,Consulting,Assistant de Direction,8,6,2,2,3,4,3,3,3,Non,18.0,0,Occasionnel,1
+950,38,13582,Marié(e),Consulting,Directeur Technique,15,15,12,4,3,1,2,3,3,Non,13.0,1,Occasionnel,11
+951,32,2332,Marié(e),Consulting,Consultant,5,3,0,3,2,2,3,3,4,Non,20.0,0,Aucun,2
+952,25,2413,Marié(e),Commercial,Représentant Commercial,1,1,0,3,2,2,3,3,3,Oui,18.0,3,Occasionnel,0
+954,40,9705,Divorcé(e),Commercial,Cadre Commercial,11,1,0,1,2,2,2,2,3,Non,12.0,1,Occasionnel,0
+956,26,4294,Célibataire,Commercial,Cadre Commercial,7,7,7,3,2,1,2,3,3,Non,12.0,0,Frequent,7
+957,41,4721,Célibataire,Consulting,Consultant,20,18,13,4,3,1,3,3,3,Oui,13.0,0,Occasionnel,17
+958,36,2519,Célibataire,Consulting,Consultant,16,11,8,3,3,3,3,3,4,Non,21.0,0,Occasionnel,9
+959,19,2121,Célibataire,Commercial,Représentant Commercial,1,1,0,4,2,2,2,4,3,Oui,13.0,0,Occasionnel,0
+960,20,2973,Célibataire,Consulting,Consultant,1,1,0,1,3,1,2,3,3,Non,19.0,0,Occasionnel,0
+961,31,5855,Marié(e),Consulting,Manager,10,9,7,4,3,4,3,1,3,Oui,11.0,2,Occasionnel,5
+964,40,3617,Divorcé(e),Consulting,Assistant de Direction,3,1,1,4,3,2,4,3,3,Oui,14.0,1,Frequent,0
+966,32,6725,Marié(e),Consulting,Tech Lead,8,8,7,3,3,1,3,4,3,Non,12.0,1,Occasionnel,3
+967,36,10325,Marié(e),Commercial,Cadre Commercial,16,16,7,3,2,4,1,3,3,Oui,11.0,1,Occasionnel,7
+969,33,6949,Célibataire,Consulting,Manager,6,5,0,2,2,4,1,3,3,Non,14.0,0,Occasionnel,4
+970,37,10609,Marié(e),Commercial,Cadre Commercial,17,14,1,1,2,3,3,1,3,Non,11.0,0,Occasionnel,7
+972,45,4447,Marié(e),Consulting,Consultant,9,9,7,3,3,2,2,2,3,Non,12.0,0,Aucun,8
+974,29,2157,Marié(e),Commercial,Représentant Commercial,3,3,1,3,3,4,2,3,3,Non,15.0,1,Frequent,2
+975,35,4601,Marié(e),Commercial,Cadre Commercial,5,5,2,3,3,3,2,3,3,Non,16.0,0,Occasionnel,0
+976,52,17099,Marié(e),Consulting,Senior Manager,26,9,8,4,3,4,2,2,3,Non,15.0,1,Occasionnel,8
+977,58,2479,Célibataire,Consulting,Assistant de Direction,7,1,0,4,3,3,1,3,4,Non,24.0,0,Occasionnel,0
+981,53,14852,Divorcé(e),Commercial,Senior Manager,22,17,13,3,3,3,3,4,3,Non,13.0,1,Occasionnel,2
+982,30,7264,Divorcé(e),Commercial,Cadre Commercial,10,8,4,3,3,3,1,4,3,Non,11.0,1,Occasionnel,7
+983,38,5666,Célibataire,Commercial,Cadre Commercial,6,5,3,3,3,4,2,3,3,Oui,13.0,0,Aucun,3
+984,35,7823,Divorcé(e),Commercial,Cadre Commercial,12,10,9,4,3,4,2,3,3,Non,13.0,1,Occasionnel,8
+985,39,7880,Célibataire,Commercial,Cadre Commercial,9,8,7,1,4,3,4,3,3,Non,18.0,0,Occasionnel,7
+986,40,13194,Célibataire,Commercial,Cadre Commercial,22,1,0,2,4,2,4,2,3,Oui,16.0,0,Aucun,0
+987,47,5067,Divorcé(e),Consulting,Tech Lead,20,19,10,3,4,3,3,4,3,Oui,19.0,0,Frequent,7
+990,36,5079,Divorcé(e),Commercial,Cadre Commercial,12,7,7,1,3,4,4,3,3,Non,13.0,2,Aucun,7
+991,31,2321,Célibataire,Consulting,Assistant de Direction,4,3,2,3,2,1,1,3,4,Oui,22.0,0,Aucun,2
+992,33,17444,Célibataire,Commercial,Senior Manager,10,10,8,4,3,3,4,3,3,Non,11.0,0,Aucun,0
+994,29,2404,Célibataire,Consulting,Assistant de Direction,3,0,0,4,2,1,3,3,4,Oui,20.0,0,Occasionnel,0
+995,33,3452,Célibataire,Consulting,Assistant de Direction,5,3,2,2,3,4,1,3,3,Non,18.0,0,Occasionnel,2
+996,45,2270,Divorcé(e),Consulting,Consultant,8,5,3,4,3,4,4,3,3,Non,14.0,2,Occasionnel,2
+997,50,17399,Divorcé(e),Consulting,Directeur Technique,32,5,4,4,3,4,3,2,4,Non,22.0,1,Occasionnel,3
+998,33,5488,Marié(e),Consulting,Manager,6,6,5,3,4,2,1,3,3,Oui,13.0,1,Frequent,2
+999,41,19419,Divorcé(e),Consulting,Directeur Technique,21,18,16,1,3,3,2,4,3,Non,17.0,1,Frequent,11
+1001,27,2811,Marié(e),Consulting,Consultant,4,2,2,3,3,2,2,3,3,Non,14.0,1,Occasionnel,2
+1002,45,3633,Marié(e),Consulting,Consultant,9,9,8,4,3,1,3,3,3,Oui,15.0,1,Aucun,8
+1003,47,4163,Célibataire,Commercial,Cadre Commercial,9,9,0,4,3,4,3,3,3,Oui,17.0,0,Occasionnel,7
+1004,30,2132,Marié(e),Consulting,Assistant de Direction,7,5,2,1,3,3,2,3,3,Oui,11.0,0,Occasionnel,1
+1005,50,13973,Marié(e),Consulting,Tech Lead,22,12,11,4,3,3,4,3,3,Oui,18.0,1,Occasionnel,5
+1006,38,2684,Marié(e),Consulting,Assistant de Direction,3,2,1,3,3,3,2,2,3,Non,17.0,1,Frequent,2
+1007,46,10845,Divorcé(e),Consulting,Tech Lead,13,8,7,4,3,3,2,3,3,Non,13.0,1,Occasionnel,7
+1009,24,4377,Divorcé(e),Consulting,Tech Lead,5,4,2,4,2,3,2,3,3,Non,15.0,2,Occasionnel,2
+1010,35,3743,Divorcé(e),Consulting,Consultant,5,4,2,3,2,2,4,1,4,Oui,24.0,1,Occasionnel,2
+1011,31,4148,Marié(e),Consulting,Tech Lead,4,4,3,3,3,1,3,3,3,Non,12.0,1,Frequent,3
+1012,18,1051,Célibataire,Consulting,Assistant de Direction,0,0,0,2,3,4,4,3,3,Non,15.0,0,Aucun,0
+1013,54,10739,Marié(e),Consulting,Tech Lead,22,10,7,3,3,3,3,3,3,Non,11.0,1,Occasionnel,8
+1014,35,10388,Divorcé(e),Consulting,Manager,16,16,10,3,3,3,3,2,3,Oui,11.0,1,Occasionnel,1
+1015,30,11416,Marié(e),Consulting,Directeur Technique,9,8,7,2,4,1,3,2,3,Oui,12.0,3,Occasionnel,7
+1016,20,2600,Célibataire,Consulting,Assistant de Direction,1,1,0,4,2,1,1,3,3,Oui,15.0,0,Occasionnel,0
+1017,30,2422,Célibataire,Consulting,Consultant,4,3,2,2,3,2,1,3,3,Non,17.0,0,Frequent,2
+1018,26,5472,Marié(e),Consulting,Tech Lead,8,8,7,4,4,4,2,3,3,Non,12.0,0,Occasionnel,3
+1019,22,2451,Marié(e),Consulting,Consultant,4,4,3,2,1,1,1,2,3,Non,15.0,1,Occasionnel,1
+1022,48,4240,Célibataire,Consulting,Manager,19,2,2,1,2,3,4,3,3,Non,13.0,0,Occasionnel,2
+1024,48,10999,Célibataire,Consulting,Manager,27,15,11,3,2,3,2,3,3,Non,14.0,0,Occasionnel,8
+1025,41,5003,Célibataire,Consulting,Tech Lead,8,2,2,4,3,3,2,3,3,Non,14.0,0,Occasionnel,1
+1026,39,12742,Marié(e),Consulting,Tech Lead,21,21,6,4,2,4,3,3,3,Non,16.0,1,Occasionnel,8
+1027,27,4227,Marié(e),Consulting,Tech Lead,4,3,2,1,3,4,2,3,3,Non,18.0,1,Occasionnel,2
+1028,35,3917,Divorcé(e),Consulting,Consultant,3,3,2,2,3,4,1,2,4,Non,20.0,1,Occasionnel,2
+1029,42,18303,Marié(e),Commercial,Senior Manager,21,1,0,4,3,3,2,4,3,Non,13.0,0,Occasionnel,0
+1030,50,2380,Marié(e),Consulting,Consultant,8,1,0,1,3,4,2,3,3,Non,18.0,0,Occasionnel,0
+1032,59,13726,Célibataire,Consulting,Tech Lead,30,5,3,3,2,4,1,3,3,Oui,13.0,0,Occasionnel,3
+1033,37,4777,Marié(e),Consulting,Manager,15,1,0,1,1,2,1,1,3,Non,15.0,0,Occasionnel,0
+1034,55,6385,Marié(e),Consulting,Manager,17,8,7,3,3,2,4,3,3,Oui,14.0,2,Frequent,7
+1035,41,19973,Divorcé(e),Consulting,Directeur Technique,21,21,16,2,1,3,2,3,4,Non,22.0,2,Aucun,10
+1036,38,6861,Célibataire,Commercial,Cadre Commercial,19,1,0,2,3,4,3,3,3,Oui,12.0,0,Occasionnel,0
+1037,26,4969,Célibataire,Commercial,Cadre Commercial,7,2,2,2,1,1,4,3,3,Non,18.0,0,Aucun,2
+1038,52,19845,Marié(e),Commercial,Senior Manager,33,32,14,1,1,4,4,3,3,Non,15.0,1,Occasionnel,9
+1039,44,13320,Marié(e),Commercial,Cadre Commercial,23,12,11,4,4,4,3,3,3,Oui,18.0,1,Occasionnel,11
+1040,50,6347,Marié(e),Commercial,Cadre Commercial,19,18,7,4,3,3,1,3,3,Non,12.0,1,Aucun,13
+1042,36,2743,Célibataire,Consulting,Consultant,18,17,13,3,4,1,3,3,3,Non,16.0,0,Occasionnel,14
+1043,39,10880,Célibataire,Consulting,Tech Lead,21,21,6,4,3,1,3,3,3,Oui,13.0,0,Frequent,8
+1044,33,2342,Célibataire,Commercial,Représentant Commercial,3,2,2,2,2,4,4,2,3,Non,19.0,0,Aucun,2
+1045,45,17650,Marié(e),Commercial,Senior Manager,26,9,3,4,3,4,2,4,3,Non,13.0,1,Occasionnel,1
+1046,32,4025,Célibataire,Consulting,Consultant,10,8,7,4,3,3,2,3,3,Non,12.0,0,Aucun,7
+1047,34,9725,Divorcé(e),Commercial,Cadre Commercial,16,15,1,2,4,4,4,2,3,Non,11.0,1,Occasionnel,9
+1048,59,11904,Marié(e),Commercial,Senior Manager,14,6,4,2,3,4,3,1,3,Oui,14.0,1,Occasionnel,4
+1049,45,2177,Célibataire,Ressources Humaines,Ressources Humaines,6,6,3,2,3,2,1,3,3,Non,16.0,0,Occasionnel,4
+1050,53,7525,Marié(e),Commercial,Cadre Commercial,30,15,7,3,2,2,1,3,3,Non,12.0,1,Frequent,12
+1052,36,4834,Divorcé(e),Consulting,Consultant,9,1,0,1,3,3,2,2,3,Non,14.0,1,Occasionnel,0
+1053,26,2042,Marié(e),Consulting,Assistant de Direction,6,3,2,1,3,1,2,3,3,Oui,14.0,1,Frequent,2
+1055,34,2220,Marié(e),Commercial,Représentant Commercial,1,1,1,3,3,3,4,3,3,Oui,19.0,1,Occasionnel,0
+1056,28,1052,Marié(e),Commercial,Représentant Commercial,1,1,0,4,3,2,2,3,4,Non,22.0,0,Occasionnel,0
+1060,38,2821,Marié(e),Consulting,Assistant de Direction,8,2,2,3,3,3,1,3,3,Non,16.0,1,Frequent,2
+1061,50,19237,Marié(e),Consulting,Directeur Technique,29,8,1,2,3,3,4,2,3,Oui,11.0,1,Occasionnel,7
+1062,37,4107,Célibataire,Consulting,Manager,8,4,3,4,3,2,1,2,3,Non,15.0,0,Occasionnel,1
+1066,40,8396,Marié(e),Commercial,Cadre Commercial,8,7,7,3,3,1,2,2,3,Non,14.0,1,Occasionnel,5
+1068,26,2007,Divorcé(e),Consulting,Assistant de Direction,5,5,3,1,2,3,3,3,3,Non,13.0,2,Frequent,3
+1069,46,19627,Divorcé(e),Consulting,Directeur Technique,23,2,2,4,3,4,4,3,3,Non,17.0,2,Occasionnel,2
+1070,54,10686,Marié(e),Commercial,Cadre Commercial,13,9,4,3,2,3,2,3,3,Non,11.0,1,Occasionnel,0
+1071,56,2942,Marié(e),Consulting,Assistant de Direction,18,5,4,1,3,3,2,3,3,Non,19.0,1,Frequent,3
+1073,36,8858,Célibataire,Consulting,Tech Lead,15,14,8,4,2,4,2,2,3,Non,11.0,0,Occasionnel,8
+1074,55,16756,Célibataire,Consulting,Senior Manager,31,9,7,3,2,1,2,4,3,Non,15.0,0,Aucun,2
+1076,43,10798,Divorcé(e),Commercial,Cadre Commercial,18,1,0,3,2,4,3,3,3,Non,13.0,1,Occasionnel,0
+1077,20,2323,Célibataire,Commercial,Représentant Commercial,2,2,2,4,3,4,2,3,3,Oui,14.0,0,Frequent,2
+1079,21,1416,Célibataire,Consulting,Consultant,1,1,0,3,2,1,1,2,3,Non,13.0,0,Occasionnel,0
+1080,46,4615,Divorcé(e),Consulting,Assistant de Direction,19,16,13,4,2,1,1,3,4,Oui,23.0,3,Occasionnel,7
+1081,51,2461,Marié(e),Consulting,Assistant de Direction,18,10,0,1,3,3,3,4,3,Oui,12.0,3,Occasionnel,7
+1082,28,8722,Célibataire,Consulting,Manager,10,10,7,2,2,1,1,2,3,Non,12.0,0,Aucun,9
+1083,26,3955,Marié(e),Consulting,Consultant,6,5,3,1,2,1,1,3,3,Non,16.0,2,Occasionnel,3
+1084,30,9957,Marié(e),Consulting,Tech Lead,7,6,2,3,3,1,3,2,3,Non,15.0,1,Occasionnel,2
+1085,41,3376,Marié(e),Consulting,Assistant de Direction,10,10,6,2,4,3,3,3,3,Non,13.0,0,Occasionnel,8
+1088,38,8823,Marié(e),Consulting,Manager,20,19,9,3,2,3,1,2,3,Non,18.0,1,Occasionnel,9
+1092,40,10322,Marié(e),Consulting,Manager,14,11,10,1,3,4,4,3,4,Non,20.0,1,Occasionnel,1
+1094,27,4621,Marié(e),Consulting,Consultant,3,3,2,1,1,3,4,3,3,Non,19.0,3,Aucun,2
+1096,55,10976,Marié(e),Consulting,Tech Lead,23,3,2,4,3,2,2,3,3,Non,18.0,1,Frequent,2
+1097,28,3660,Célibataire,Consulting,Assistant de Direction,10,8,7,3,3,3,4,4,3,Non,13.0,0,Occasionnel,7
+1098,44,10482,Marié(e),Ressources Humaines,Ressources Humaines,24,20,6,2,2,1,4,3,3,Non,14.0,1,Occasionnel,6
+1099,33,7119,Divorcé(e),Consulting,Manager,9,3,2,4,2,4,3,3,3,Non,15.0,1,Occasionnel,2
+1100,35,9582,Célibataire,Commercial,Cadre Commercial,9,8,7,4,3,1,1,3,4,Oui,22.0,0,Occasionnel,7
+1101,33,4508,Célibataire,Consulting,Assistant de Direction,14,13,7,1,2,3,2,3,4,Non,22.0,0,Frequent,8
+1102,28,2207,Divorcé(e),Consulting,Consultant,4,4,2,1,3,3,4,2,3,Non,16.0,1,Occasionnel,2
+1103,34,7756,Célibataire,Consulting,Manager,7,6,2,1,3,4,3,2,3,Non,17.0,0,Frequent,4
+1105,37,6694,Divorcé(e),Commercial,Cadre Commercial,8,1,0,4,2,4,3,3,3,Oui,14.0,3,Occasionnel,0
+1106,25,3691,Marié(e),Consulting,Consultant,7,7,7,4,3,4,2,4,3,Oui,15.0,1,Occasionnel,6
+1107,26,2377,Divorcé(e),Consulting,Consultant,1,1,1,1,3,3,3,2,4,Non,20.0,1,Occasionnel,0
+1108,33,2313,Célibataire,Consulting,Assistant de Direction,5,2,2,1,2,2,2,3,4,Oui,20.0,0,Occasionnel,2
+1109,42,17665,Marié(e),Consulting,Senior Manager,23,22,6,4,3,1,4,3,3,Non,17.0,1,Occasionnel,7
+1111,28,2596,Divorcé(e),Consulting,Consultant,1,1,0,1,2,2,1,3,3,Non,15.0,2,Frequent,0
+1113,50,4728,Célibataire,Commercial,Cadre Commercial,5,0,0,4,3,3,4,3,3,Oui,14.0,0,Frequent,0
+1114,33,4302,Marié(e),Commercial,Cadre Commercial,4,3,2,4,3,2,3,3,3,Non,17.0,1,Frequent,2
+1115,34,2979,Marié(e),Consulting,Assistant de Direction,6,0,0,3,2,4,4,3,3,Non,17.0,3,Aucun,0
+1116,48,16885,Célibataire,Consulting,Senior Manager,27,5,4,1,4,4,3,2,4,Non,22.0,0,Aucun,1
+1117,45,5593,Marié(e),Commercial,Cadre Commercial,15,15,10,2,2,3,4,3,3,Non,13.0,1,Aucun,12
+1118,52,10445,Célibataire,Consulting,Manager,18,8,6,2,3,2,4,3,3,Non,19.0,0,Occasionnel,0
+1119,38,8740,Divorcé(e),Commercial,Cadre Commercial,9,8,7,3,2,3,2,3,3,Oui,14.0,2,Occasionnel,7
+1120,29,2514,Divorcé(e),Consulting,Assistant de Direction,11,7,5,3,3,4,1,3,4,Non,22.0,1,Occasionnel,7
+1121,28,7655,Divorcé(e),Consulting,Tech Lead,10,9,7,4,3,2,2,2,3,Non,17.0,3,Occasionnel,7
+1124,46,17465,Marié(e),Commercial,Senior Manager,23,12,9,1,3,3,4,3,3,Non,12.0,1,Occasionnel,9
+1125,38,7351,Célibataire,Commercial,Cadre Commercial,10,1,0,4,3,2,3,3,3,Non,16.0,0,Occasionnel,0
+1126,43,10820,Marié(e),Consulting,Tech Lead,18,8,7,3,3,1,3,3,3,Non,11.0,1,Frequent,1
+1127,39,12169,Divorcé(e),Consulting,Manager,21,18,7,1,3,4,4,3,3,Non,11.0,3,Frequent,5
+1128,40,19626,Célibataire,Consulting,Directeur Technique,21,20,7,3,2,3,1,4,3,Non,14.0,0,Occasionnel,9
+1131,21,2070,Célibataire,Consulting,Assistant de Direction,2,2,2,4,2,2,3,4,3,Oui,11.0,0,Occasionnel,2
+1132,39,6782,Célibataire,Consulting,Consultant,9,5,4,3,3,2,3,2,3,Non,15.0,0,Aucun,3
+1133,36,7779,Célibataire,Consulting,Tech Lead,18,11,9,1,3,4,1,3,4,Non,20.0,0,Aucun,9
+1135,31,2791,Marié(e),Commercial,Représentant Commercial,3,2,2,3,4,4,1,3,3,Non,12.0,1,Frequent,2
+1136,28,3201,Marié(e),Consulting,Assistant de Direction,6,5,3,1,2,2,1,1,3,Non,17.0,0,Occasionnel,4
+1137,35,4968,Divorcé(e),Commercial,Cadre Commercial,5,5,2,4,3,4,4,3,3,Non,11.0,1,Frequent,2
+1138,49,13120,Marié(e),Commercial,Cadre Commercial,22,9,8,4,2,2,2,3,3,Non,17.0,1,Occasionnel,3
+1140,34,4033,Célibataire,Consulting,Tech Lead,5,3,2,4,3,3,4,2,3,Non,11.0,0,Frequent,2
+1143,29,3291,Divorcé(e),Consulting,Assistant de Direction,8,7,5,4,3,2,4,2,3,Non,14.0,2,Frequent,1
+1148,42,4272,Célibataire,Consulting,Consultant,16,1,0,2,1,4,1,3,3,Non,19.0,0,Occasionnel,0
+1150,29,5056,Marié(e),Consulting,Tech Lead,10,10,7,2,2,4,3,2,3,Oui,15.0,1,Occasionnel,2
+1152,38,2844,Marié(e),Ressources Humaines,Ressources Humaines,7,7,6,3,4,3,4,4,3,Non,13.0,1,Occasionnel,0
+1154,28,2703,Divorcé(e),Consulting,Assistant de Direction,3,3,1,3,2,3,4,3,3,Oui,14.0,1,Frequent,2
+1156,18,1904,Célibataire,Consulting,Consultant,0,0,0,3,3,3,4,3,3,Non,12.0,0,Aucun,0
+1157,33,8224,Célibataire,Commercial,Cadre Commercial,6,5,2,1,3,1,1,3,3,Oui,17.0,0,Occasionnel,3
+1158,41,4766,Marié(e),Consulting,Consultant,6,1,0,2,3,4,1,3,3,Oui,11.0,1,Occasionnel,0
+1160,31,2610,Marié(e),Consulting,Consultant,2,2,2,3,3,3,3,2,3,Non,12.0,1,Frequent,2
+1161,37,5731,Divorcé(e),Consulting,Manager,9,6,2,3,2,4,3,3,3,Non,13.0,2,Occasionnel,3
+1162,27,2539,Marié(e),Consulting,Assistant de Direction,4,4,2,4,2,3,3,3,3,Non,13.0,1,Occasionnel,2
+1163,34,5714,Marié(e),Commercial,Cadre Commercial,6,6,5,2,3,3,1,2,4,Non,20.0,0,Occasionnel,3
+1164,35,4323,Célibataire,Ressources Humaines,Ressources Humaines,6,5,4,3,3,3,2,1,3,Non,17.0,0,Occasionnel,4
+1165,29,7336,Marié(e),Commercial,Cadre Commercial,11,11,8,4,2,1,1,1,3,Non,13.0,1,Occasionnel,10
+1166,40,13499,Célibataire,Consulting,Directeur Technique,20,18,7,2,3,3,3,2,3,Non,17.0,0,Frequent,13
+1167,42,13758,Célibataire,Commercial,Cadre Commercial,22,21,9,3,3,1,2,2,3,Oui,12.0,0,Frequent,14
+1171,42,5155,Célibataire,Commercial,Cadre Commercial,9,6,4,2,3,1,4,4,3,Non,13.0,0,Occasionnel,5
+1172,35,2258,Marié(e),Consulting,Consultant,10,8,0,4,2,3,2,3,3,Non,12.0,1,Occasionnel,7
+1173,24,3597,Célibataire,Consulting,Consultant,6,4,3,4,3,2,4,3,4,Non,22.0,0,Occasionnel,2
+1175,28,2515,Marié(e),Consulting,Consultant,1,1,1,3,3,4,4,2,3,Oui,11.0,0,Occasionnel,0
+1177,26,4420,Marié(e),Consulting,Consultant,8,8,7,1,4,4,2,3,4,Non,22.0,1,Occasionnel,7
+1179,30,6578,Marié(e),Commercial,Cadre Commercial,10,10,3,3,2,3,1,3,3,Non,18.0,1,Occasionnel,4
+1180,40,4422,Marié(e),Consulting,Assistant de Direction,16,1,1,3,2,4,4,1,3,Oui,13.0,1,Frequent,0
+1182,35,10274,Divorcé(e),Consulting,Tech Lead,15,7,7,3,2,2,2,4,3,Non,18.0,1,Occasionnel,4
+1184,34,5343,Célibataire,Consulting,Manager,14,13,9,4,2,1,3,3,4,Non,20.0,0,Frequent,9
+1185,35,2376,Marié(e),Consulting,Consultant,2,2,2,4,2,4,2,4,3,Non,13.0,1,Frequent,2
+1188,43,5346,Célibataire,Commercial,Cadre Commercial,7,4,3,1,1,3,2,2,3,Non,13.0,0,Occasionnel,3
+1190,32,2827,Divorcé(e),Commercial,Représentant Commercial,1,1,0,3,3,1,3,3,3,Non,12.0,3,Aucun,0
+1191,56,19943,Divorcé(e),Consulting,Senior Manager,28,5,2,4,3,1,4,3,3,Non,13.0,1,Occasionnel,2
+1192,29,3131,Marié(e),Consulting,Consultant,10,10,8,2,3,4,1,3,3,Non,13.0,1,Occasionnel,8
+1193,19,2552,Célibataire,Consulting,Assistant de Direction,1,1,1,3,3,1,3,3,4,Non,25.0,0,Occasionnel,0
+1195,45,4477,Marié(e),Consulting,Assistant de Direction,7,3,2,1,3,3,3,2,3,Oui,19.0,1,Occasionnel,2
+1196,37,6474,Marié(e),Consulting,Tech Lead,14,14,8,4,2,4,2,2,3,Non,13.0,1,Occasionnel,11
+1198,20,3033,Célibataire,Consulting,Consultant,2,2,2,1,2,3,1,2,3,Non,12.0,0,Occasionnel,2
+1200,44,2936,Célibataire,Consulting,Assistant de Direction,6,6,4,3,3,3,3,3,3,Oui,11.0,0,Occasionnel,2
+1201,53,18606,Divorcé(e),Consulting,Senior Manager,26,7,7,4,3,3,2,3,3,Non,18.0,1,Occasionnel,7
+1202,29,2168,Marié(e),Consulting,Assistant de Direction,6,5,4,2,1,4,1,2,3,Oui,18.0,1,Occasionnel,3
+1203,22,2853,Marié(e),Consulting,Assistant de Direction,1,0,0,3,2,4,2,3,3,Oui,11.0,1,Frequent,0
+1204,46,17048,Marié(e),Commercial,Senior Manager,28,26,15,3,3,1,1,3,4,Non,23.0,0,Occasionnel,9
+1206,44,2290,Célibataire,Consulting,Assistant de Direction,6,0,0,4,1,3,4,3,3,Non,13.0,0,Aucun,0
+1207,33,3600,Marié(e),Ressources Humaines,Ressources Humaines,5,5,4,2,3,3,4,3,3,Non,13.0,1,Occasionnel,4
+1210,41,2107,Divorcé(e),Consulting,Assistant de Direction,5,1,0,1,2,1,1,1,3,Non,17.0,1,Aucun,0
+1211,30,4115,Divorcé(e),Commercial,Cadre Commercial,8,4,3,3,3,1,3,3,3,Non,19.0,3,Occasionnel,3
+1212,40,4327,Marié(e),Commercial,Cadre Commercial,5,0,0,2,3,2,4,3,3,Non,12.0,3,Frequent,0
+1215,50,17856,Marié(e),Consulting,Senior Manager,32,2,2,4,3,1,3,3,4,Non,22.0,1,Frequent,2
+1216,28,3196,Marié(e),Consulting,Consultant,6,6,5,4,2,1,3,3,3,Non,12.0,3,Occasionnel,3
+1217,46,19081,Marié(e),Consulting,Directeur Technique,25,4,2,4,3,2,1,3,3,Non,11.0,1,Occasionnel,3
+1218,35,8966,Marié(e),Commercial,Cadre Commercial,15,7,7,3,3,1,4,3,3,Oui,15.0,3,Occasionnel,7
+1219,24,2210,Marié(e),Consulting,Consultant,1,1,0,4,3,2,1,1,3,Non,13.0,1,Occasionnel,0
+1220,33,4539,Marié(e),Commercial,Cadre Commercial,10,10,7,2,3,3,1,2,3,Non,12.0,1,Frequent,1
+1221,36,2741,Divorcé(e),Consulting,Consultant,7,7,7,3,1,3,3,3,3,Non,14.0,1,Occasionnel,7
+1224,30,3491,Divorcé(e),Consulting,Consultant,10,10,7,3,3,3,1,2,3,Non,13.0,3,Occasionnel,9
+1225,44,4541,Célibataire,Consulting,Assistant de Direction,20,20,11,4,3,4,2,3,4,Non,25.0,0,Occasionnel,17
+1226,20,2678,Célibataire,Commercial,Représentant Commercial,2,2,1,3,4,4,4,3,3,Non,17.0,0,Occasionnel,2
+1228,46,7379,Divorcé(e),Consulting,Tech Lead,12,6,3,4,3,4,3,2,3,Non,11.0,1,Occasionnel,4
+1231,42,6272,Marié(e),Ressources Humaines,Ressources Humaines,10,4,3,4,4,1,1,4,3,Non,16.0,1,Aucun,3
+1233,60,5220,Divorcé(e),Commercial,Cadre Commercial,12,11,7,2,4,4,2,3,3,Oui,18.0,1,Occasionnel,9
+1234,32,2743,Marié(e),Consulting,Consultant,2,2,2,3,2,2,3,3,4,Non,20.0,1,Frequent,2
+1235,32,4998,Célibataire,Consulting,Assistant de Direction,10,8,7,4,3,3,4,3,3,Oui,14.0,0,Frequent,7
+1237,36,10252,Divorcé(e),Consulting,Tech Lead,17,7,7,3,1,1,3,3,4,Oui,21.0,1,Occasionnel,7
+1238,33,2781,Marié(e),Consulting,Assistant de Direction,15,14,10,1,3,4,2,3,3,Non,13.0,1,Occasionnel,10
+1239,40,6852,Divorcé(e),Commercial,Cadre Commercial,7,5,1,2,2,2,2,4,3,Non,12.0,1,Occasionnel,3
+1240,25,4950,Célibataire,Commercial,Cadre Commercial,5,4,3,3,3,4,2,3,3,Non,14.0,0,Occasionnel,1
+1241,30,3579,Marié(e),Consulting,Assistant de Direction,12,11,9,4,3,2,1,3,4,Oui,21.0,1,Occasionnel,7
+1242,42,13191,Marié(e),Consulting,Directeur Technique,20,1,0,1,3,1,3,3,3,Oui,17.0,0,Frequent,0
+1243,35,10377,Marié(e),Commercial,Cadre Commercial,16,13,2,3,2,4,2,2,3,Oui,11.0,1,Aucun,12
+1244,27,2235,Marié(e),Consulting,Assistant de Direction,9,9,7,1,3,1,4,2,3,Oui,14.0,2,Occasionnel,8
+1245,54,10502,Divorcé(e),Consulting,Tech Lead,33,5,4,4,3,3,1,1,3,Non,17.0,1,Frequent,4
+1246,44,2011,Marié(e),Consulting,Assistant de Direction,10,10,5,1,4,4,4,3,3,Non,13.0,1,Occasionnel,7
+1248,19,1859,Célibataire,Consulting,Assistant de Direction,1,1,1,1,2,2,2,4,4,Oui,25.0,0,Aucun,0
+1249,29,3760,Divorcé(e),Consulting,Assistant de Direction,3,3,2,1,3,4,1,3,3,Non,15.0,3,Occasionnel,2
+1250,54,17779,Marié(e),Consulting,Directeur Technique,36,10,9,4,3,4,1,3,3,Non,14.0,0,Occasionnel,9
+1251,31,6833,Marié(e),Consulting,Manager,6,6,5,3,3,1,4,2,3,Oui,12.0,0,Occasionnel,1
+1252,31,6812,Célibataire,Consulting,Manager,10,10,9,3,2,1,2,3,3,Non,19.0,0,Occasionnel,8
+1254,59,5171,Célibataire,Commercial,Cadre Commercial,13,6,1,3,2,4,4,3,3,Non,17.0,0,Occasionnel,5
+1255,43,19740,Marié(e),Consulting,Directeur Technique,25,8,7,3,1,4,2,3,3,Non,14.0,1,Occasionnel,7
+1256,49,18711,Marié(e),Consulting,Senior Manager,23,1,0,1,2,3,3,4,3,Non,13.0,1,Occasionnel,0
+1257,36,3692,Marié(e),Consulting,Assistant de Direction,12,11,10,3,3,2,3,2,3,Non,12.0,0,Frequent,7
+1258,48,2559,Célibataire,Consulting,Consultant,7,1,0,4,4,2,3,2,3,Non,11.0,0,Occasionnel,0
+1259,27,2517,Divorcé(e),Consulting,Assistant de Direction,5,5,3,1,3,3,2,3,3,Non,11.0,3,Occasionnel,3
+1260,29,6623,Divorcé(e),Consulting,Manager,6,6,0,3,3,4,2,3,3,Oui,11.0,2,Occasionnel,0
+1263,48,18265,Célibataire,Consulting,Directeur Technique,25,1,0,4,2,4,3,4,3,Non,12.0,0,Occasionnel,0
+1264,29,16124,Divorcé(e),Consulting,Directeur Technique,9,7,7,4,2,4,2,2,3,Non,14.0,2,Occasionnel,7
+1265,34,2585,Marié(e),Consulting,Assistant de Direction,2,1,0,3,4,3,4,2,3,Non,17.0,0,Occasionnel,0
+1267,44,18213,Marié(e),Commercial,Senior Manager,26,22,9,2,3,2,3,3,3,Non,11.0,1,Occasionnel,10
+1268,33,8380,Divorcé(e),Commercial,Cadre Commercial,10,9,8,4,4,3,4,3,3,Oui,14.0,2,Occasionnel,8
+1269,19,2994,Célibataire,Consulting,Assistant de Direction,1,1,0,2,4,4,4,3,3,Oui,12.0,0,Occasionnel,1
+1270,23,1223,Marié(e),Consulting,Assistant de Direction,1,1,0,4,3,3,4,3,4,Non,22.0,1,Occasionnel,1
+1273,25,1118,Célibataire,Commercial,Représentant Commercial,1,1,0,3,1,4,4,3,3,Oui,14.0,0,Frequent,0
+1275,26,2875,Célibataire,Consulting,Assistant de Direction,8,8,5,3,3,4,2,2,4,Oui,20.0,0,Occasionnel,2
+1277,45,18824,Célibataire,Commercial,Senior Manager,26,24,10,1,1,2,1,3,3,Oui,16.0,0,Occasionnel,11
+1278,55,13577,Divorcé(e),Consulting,Manager,34,33,9,4,2,2,4,3,3,Oui,15.0,1,Aucun,0
+1279,21,2625,Célibataire,Consulting,Consultant,2,2,2,1,2,3,3,1,4,Non,20.0,0,Frequent,2
+1280,46,18789,Marié(e),Commercial,Senior Manager,26,11,4,4,2,2,3,3,3,Non,14.0,1,Occasionnel,8
+1281,34,4538,Célibataire,Commercial,Cadre Commercial,4,3,2,3,3,1,4,3,3,Oui,12.0,0,Occasionnel,2
+1282,51,19847,Divorcé(e),Commercial,Senior Manager,31,29,10,4,3,2,1,2,4,Oui,24.0,1,Frequent,10
+1283,59,10512,Célibataire,Consulting,Tech Lead,25,9,7,4,3,4,4,2,3,Non,12.0,0,Occasionnel,4
+1285,34,4444,Divorcé(e),Consulting,Consultant,15,11,8,3,3,2,3,4,3,Non,13.0,2,Frequent,10
+1286,28,2154,Célibataire,Consulting,Consultant,5,4,2,4,3,3,3,2,3,Oui,11.0,0,Frequent,2
+1288,44,19190,Divorcé(e),Consulting,Senior Manager,26,25,9,3,4,1,4,2,3,Non,14.0,2,Occasionnel,13
+1289,34,4490,Marié(e),Ressources Humaines,Ressources Humaines,14,10,9,3,2,2,4,4,3,Non,11.0,2,Frequent,8
+1291,35,3506,Marié(e),Consulting,Assistant de Direction,4,3,2,3,3,3,4,3,3,Oui,14.0,0,Occasionnel,2
+1292,42,2372,Marié(e),Consulting,Assistant de Direction,18,1,0,2,4,2,4,3,3,Oui,16.0,0,Occasionnel,0
+1293,43,10231,Célibataire,Commercial,Cadre Commercial,23,21,7,4,2,4,4,4,3,Non,14.0,0,Occasionnel,17
+1294,36,5410,Célibataire,Consulting,Tech Lead,18,16,14,3,3,2,4,3,3,Oui,11.0,0,Occasionnel,12
+1295,44,7978,Marié(e),Consulting,Manager,10,10,7,1,3,4,4,3,3,Non,11.0,1,Occasionnel,5
+1296,28,3867,Marié(e),Consulting,Consultant,2,2,2,4,2,4,2,3,3,Oui,12.0,1,Frequent,2
+1297,51,2838,Célibataire,Consulting,Consultant,8,7,0,2,2,3,2,2,3,Non,14.0,0,Frequent,7
+1298,30,4695,Célibataire,Consulting,Tech Lead,10,8,4,3,3,3,3,3,3,Oui,18.0,0,Aucun,7
+1299,29,3339,Divorcé(e),Consulting,Consultant,10,7,7,2,3,3,1,3,3,Oui,13.0,2,Occasionnel,7
+1301,28,2080,Célibataire,Consulting,Assistant de Direction,5,3,2,4,3,1,2,2,3,Non,11.0,0,Occasionnel,2
+1303,25,2096,Célibataire,Consulting,Assistant de Direction,2,2,2,4,3,2,4,2,3,Non,18.0,0,Occasionnel,1
+1304,32,6209,Marié(e),Commercial,Cadre Commercial,10,10,7,3,4,4,3,4,3,Non,15.0,2,Occasionnel,8
+1306,45,18061,Célibataire,Consulting,Senior Manager,22,0,0,2,3,2,3,3,4,Non,22.0,0,Frequent,0
+1307,39,17123,Divorcé(e),Consulting,Senior Manager,21,19,9,3,2,2,4,3,3,Oui,13.0,2,Occasionnel,2
+1308,58,2372,Divorcé(e),Consulting,Assistant de Direction,2,2,2,1,3,3,4,3,3,Non,12.0,2,Occasionnel,2
+1309,32,4883,Marié(e),Consulting,Consultant,10,10,4,4,3,3,1,3,3,Non,18.0,1,Occasionnel,1
+1310,39,3904,Célibataire,Consulting,Assistant de Direction,6,5,2,3,3,1,1,3,3,Non,13.0,0,Occasionnel,3
+1311,30,4627,Marié(e),Consulting,Consultant,10,9,2,1,2,4,1,3,3,Non,12.0,1,Occasionnel,7
+1312,36,7094,Marié(e),Consulting,Manager,10,7,7,4,3,3,1,3,3,Non,12.0,0,Occasionnel,7
+1314,46,3423,Célibataire,Ressources Humaines,Ressources Humaines,10,7,6,4,3,1,3,4,3,Non,12.0,0,Occasionnel,7
+1315,28,6674,Marié(e),Consulting,Consultant,10,9,8,3,1,4,1,3,3,Non,11.0,3,Aucun,5
+1317,50,16880,Marié(e),Consulting,Directeur Technique,25,3,2,4,3,1,2,3,3,Oui,11.0,0,Occasionnel,2
+1318,40,9094,Célibataire,Commercial,Cadre Commercial,9,5,4,4,2,2,3,3,3,Oui,12.0,0,Occasionnel,0
+1319,52,8446,Célibataire,Commercial,Cadre Commercial,10,8,7,2,3,2,3,2,3,Oui,19.0,0,Occasionnel,7
+1321,30,11916,Marié(e),Consulting,Senior Manager,9,9,1,2,3,1,4,3,4,Oui,23.0,2,Occasionnel,8
+1322,39,4534,Célibataire,Consulting,Tech Lead,9,8,7,1,3,3,1,3,3,Non,11.0,0,Occasionnel,7
+1324,31,9852,Divorcé(e),Commercial,Cadre Commercial,10,10,8,4,3,3,1,2,3,Oui,19.0,1,Aucun,6
+1329,41,6151,Célibataire,Commercial,Cadre Commercial,19,19,2,3,1,2,1,3,3,Non,13.0,0,Aucun,9
+1331,31,2302,Célibataire,Commercial,Représentant Commercial,3,3,2,4,3,2,1,4,3,Oui,11.0,0,Frequent,2
+1333,44,2362,Marié(e),Consulting,Consultant,10,3,2,1,3,1,3,4,3,Non,12.0,0,Occasionnel,2
+1334,42,17861,Marié(e),Consulting,Senior Manager,21,20,8,3,3,3,4,2,3,Oui,13.0,0,Aucun,10
+1336,55,19187,Marié(e),Consulting,Senior Manager,23,19,9,4,1,3,4,3,3,Non,14.0,1,Occasionnel,11
+1338,56,19717,Célibataire,Ressources Humaines,Senior Manager,36,7,3,4,3,2,1,3,3,Non,14.0,0,Occasionnel,7
+1340,40,3544,Divorcé(e),Consulting,Assistant de Direction,6,4,2,3,3,3,2,3,3,Non,16.0,1,Aucun,0
+1344,34,8500,Divorcé(e),Consulting,Manager,10,9,7,4,3,4,4,2,3,Non,11.0,1,Occasionnel,6
+1346,40,4661,Célibataire,Consulting,Assistant de Direction,9,9,8,3,3,4,3,3,3,Non,13.0,0,Occasionnel,8
+1349,41,4103,Divorcé(e),Commercial,Cadre Commercial,10,9,3,3,3,1,4,3,3,Non,17.0,1,Frequent,7
+1350,35,4249,Célibataire,Consulting,Assistant de Direction,9,9,6,3,3,3,2,3,3,Oui,11.0,0,Frequent,1
+1352,51,14026,Divorcé(e),Ressources Humaines,Senior Manager,33,33,9,3,3,2,2,3,3,Oui,11.0,1,Occasionnel,10
+1355,38,6893,Divorcé(e),Commercial,Cadre Commercial,11,7,7,2,3,1,4,3,3,Non,15.0,1,Occasionnel,7
+1356,34,6125,Célibataire,Commercial,Cadre Commercial,10,10,8,3,3,1,4,4,3,Non,12.0,0,Occasionnel,6
+1358,25,3669,Marié(e),Consulting,Consultant,7,3,2,4,3,4,3,2,3,Non,11.0,3,Occasionnel,2
+1360,58,10008,Marié(e),Consulting,Tech Lead,31,10,9,3,2,1,4,2,3,Oui,14.0,0,Occasionnel,9
+1361,40,2387,Marié(e),Consulting,Consultant,7,4,2,2,3,2,3,3,4,Non,22.0,1,Occasionnel,3
+1362,36,4639,Marié(e),Commercial,Cadre Commercial,17,15,7,1,4,1,4,2,3,Non,16.0,1,Frequent,13
+1363,48,7898,Célibataire,Consulting,Tech Lead,11,10,9,4,3,4,3,3,3,Non,11.0,0,Occasionnel,8
+1364,27,2534,Marié(e),Commercial,Représentant Commercial,5,1,0,3,4,4,2,3,3,Non,14.0,1,Occasionnel,0
+1367,51,13142,Célibataire,Consulting,Tech Lead,29,5,2,4,2,2,2,2,3,Non,16.0,0,Occasionnel,3
+1368,18,1611,Célibataire,Consulting,Consultant,0,0,0,4,3,4,3,4,3,Non,15.0,0,Aucun,0
+1369,35,5363,Marié(e),Consulting,Consultant,10,9,7,4,2,4,2,3,3,Non,12.0,1,Occasionnel,0
+1371,27,5071,Célibataire,Commercial,Cadre Commercial,8,6,2,4,1,4,2,3,4,Non,20.0,0,Frequent,0
+1372,55,13695,Célibataire,Commercial,Cadre Commercial,24,19,7,1,4,3,3,2,3,Oui,17.0,0,Occasionnel,8
+1373,56,13402,Marié(e),Consulting,Tech Lead,33,19,16,4,3,2,1,3,3,Oui,12.0,1,Occasionnel,9
+1374,34,2029,Divorcé(e),Consulting,Assistant de Direction,5,5,4,1,2,3,3,3,4,Non,20.0,3,Aucun,0
+1375,40,6377,Divorcé(e),Consulting,Manager,15,12,11,2,4,3,2,3,4,Non,20.0,3,Occasionnel,8
+1377,34,5429,Marié(e),Consulting,Consultant,10,8,7,2,3,3,1,3,3,Non,13.0,2,Occasionnel,7
+1379,31,2785,Célibataire,Commercial,Représentant Commercial,3,1,0,3,2,4,3,4,3,Non,14.0,0,Frequent,0
+1380,35,4614,Marié(e),Commercial,Cadre Commercial,5,4,2,4,3,3,3,2,3,Oui,18.0,1,Frequent,2
+1382,38,2610,Divorcé(e),Consulting,Assistant de Direction,4,4,2,4,4,3,4,3,3,Non,11.0,3,Frequent,3
+1383,34,6687,Célibataire,Consulting,Manager,14,14,11,3,3,4,4,4,3,Non,11.0,0,Occasionnel,11
+1387,28,4724,Marié(e),Commercial,Cadre Commercial,5,5,3,3,2,1,3,3,3,Non,11.0,1,Occasionnel,4
+1389,31,6179,Marié(e),Consulting,Tech Lead,10,10,2,4,3,3,4,2,3,Oui,15.0,2,Occasionnel,7
+1390,39,6120,Marié(e),Commercial,Cadre Commercial,8,5,4,1,2,4,4,4,3,Oui,12.0,2,Occasionnel,4
+1391,51,10596,Marié(e),Commercial,Cadre Commercial,14,4,2,2,3,2,2,3,3,Non,11.0,0,Frequent,2
+1392,41,5467,Divorcé(e),Consulting,Assistant de Direction,12,6,2,4,3,4,1,2,3,Oui,14.0,2,Frequent,3
+1394,37,2996,Marié(e),Consulting,Assistant de Direction,8,6,4,3,3,3,4,3,3,Oui,15.0,0,Occasionnel,3
+1395,33,9998,Marié(e),Commercial,Cadre Commercial,8,5,4,2,3,4,1,4,3,Non,13.0,0,Frequent,2
+1396,32,4078,Marié(e),Commercial,Cadre Commercial,4,3,2,3,3,2,1,2,3,Oui,13.0,3,Occasionnel,2
+1397,39,10920,Marié(e),Consulting,Manager,13,6,4,3,3,3,2,3,4,Non,21.0,1,Aucun,5
+1399,25,6232,Marié(e),Commercial,Cadre Commercial,6,3,2,1,4,3,2,2,3,Non,11.0,0,Occasionnel,2
+1401,52,13247,Marié(e),Consulting,Tech Lead,24,5,3,4,4,3,2,2,3,Oui,11.0,1,Frequent,2
+1402,43,4081,Célibataire,Consulting,Assistant de Direction,20,20,7,1,2,3,1,1,3,Oui,14.0,0,Occasionnel,8
+1403,27,5769,Marié(e),Commercial,Cadre Commercial,6,6,2,4,2,4,4,3,3,Oui,11.0,0,Occasionnel,4
+1405,27,2394,Célibataire,Consulting,Assistant de Direction,8,8,2,4,3,3,4,3,3,Oui,13.0,0,Occasionnel,7
+1407,26,3904,Célibataire,Consulting,Assistant de Direction,5,4,3,1,2,4,4,3,3,Non,12.0,0,Occasionnel,1
+1408,42,16799,Marié(e),Ressources Humaines,Senior Manager,21,20,7,3,3,1,3,3,3,Non,14.0,1,Occasionnel,9
+1409,52,2950,Marié(e),Consulting,Consultant,12,5,4,3,3,1,3,1,3,Non,13.0,0,Occasionnel,4
+1411,37,3629,Célibataire,Consulting,Consultant,8,3,2,1,3,3,1,3,3,Non,18.0,0,Occasionnel,2
+1412,35,9362,Célibataire,Consulting,Tech Lead,10,2,2,3,3,4,3,3,3,Non,11.0,0,Frequent,2
+1415,25,3229,Marié(e),Consulting,Consultant,7,3,2,1,3,4,2,2,3,Non,11.0,1,Occasionnel,2
+1417,26,3578,Célibataire,Consulting,Consultant,8,7,7,3,4,1,4,3,3,Non,12.0,0,Occasionnel,7
+1419,29,7988,Célibataire,Ressources Humaines,Ressources Humaines,10,10,9,2,2,1,1,2,3,Non,13.0,0,Occasionnel,9
+1420,49,4284,Célibataire,Consulting,Consultant,20,4,3,1,2,1,1,3,4,Non,20.0,0,Frequent,3
+1421,29,7553,Célibataire,Consulting,Manager,9,8,7,3,3,4,1,3,3,Oui,12.0,0,Frequent,7
+1422,54,17328,Célibataire,Consulting,Directeur Technique,29,20,7,4,3,4,4,2,3,Non,19.0,0,Occasionnel,7
+1423,58,19701,Marié(e),Consulting,Directeur Technique,32,9,8,4,3,1,3,3,4,Oui,21.0,1,Occasionnel,5
+1424,55,14732,Divorcé(e),Consulting,Directeur Technique,31,7,7,2,4,4,4,4,3,Non,13.0,2,Occasionnel,0
+1425,36,9278,Célibataire,Commercial,Cadre Commercial,15,5,4,1,3,2,4,3,3,Oui,16.0,0,Occasionnel,1
+1427,31,1359,Célibataire,Commercial,Représentant Commercial,1,1,0,2,1,3,2,3,3,Non,12.0,0,Frequent,0
+1428,30,4779,Divorcé(e),Commercial,Cadre Commercial,8,3,2,4,3,1,2,3,3,Non,14.0,2,Occasionnel,2
+1430,31,16422,Célibataire,Consulting,Directeur Technique,9,3,2,1,3,2,3,4,3,Non,11.0,0,Occasionnel,0
+1431,34,2996,Divorcé(e),Consulting,Assistant de Direction,10,4,3,4,3,1,3,3,3,Non,14.0,2,Frequent,3
+1433,31,1261,Célibataire,Consulting,Assistant de Direction,1,1,0,1,2,2,3,4,3,Non,12.0,0,Occasionnel,0
+1434,27,2099,Marié(e),Consulting,Consultant,6,5,0,2,3,1,2,4,3,Non,14.0,0,Occasionnel,4
+1435,36,5810,Célibataire,Consulting,Consultant,10,10,4,1,2,4,3,2,3,Non,16.0,0,Occasionnel,8
+1436,36,5647,Marié(e),Commercial,Cadre Commercial,11,3,2,3,2,1,1,2,3,Non,13.0,2,Occasionnel,2
+1438,47,3420,Marié(e),Consulting,Assistant de Direction,17,6,5,1,3,4,3,2,3,Non,12.0,1,Occasionnel,2
+1439,25,4400,Marié(e),Commercial,Représentant Commercial,6,3,2,1,2,1,1,3,3,Non,12.0,0,Occasionnel,2
+1440,37,3500,Célibataire,Consulting,Consultant,7,6,5,3,4,3,1,1,3,Non,14.0,0,Aucun,3
+1441,56,2066,Marié(e),Consulting,Assistant de Direction,5,3,2,1,3,1,4,4,4,Non,22.0,1,Occasionnel,0
+1443,47,17169,Marié(e),Consulting,Directeur Technique,26,20,17,1,3,3,2,4,3,Non,19.0,2,Occasionnel,6
+1445,24,4162,Marié(e),Commercial,Cadre Commercial,5,5,4,4,3,3,3,3,3,Oui,12.0,2,Occasionnel,3
+1446,32,9204,Marié(e),Commercial,Cadre Commercial,7,4,3,4,3,4,3,2,3,Non,12.0,1,Occasionnel,3
+1447,34,3294,Marié(e),Consulting,Consultant,7,5,4,4,2,2,1,2,3,Non,17.0,1,Occasionnel,2
+1448,41,2127,Marié(e),Consulting,Assistant de Direction,7,4,2,2,4,3,1,2,3,Oui,12.0,0,Occasionnel,3
+1449,40,3975,Divorcé(e),Consulting,Consultant,11,8,7,3,3,3,3,4,3,Non,11.0,2,Aucun,7
+1453,31,10793,Divorcé(e),Commercial,Cadre Commercial,13,13,7,1,3,4,1,3,3,Non,18.0,1,Occasionnel,9
+1457,46,10096,Divorcé(e),Commercial,Cadre Commercial,28,7,7,1,3,4,1,4,3,Non,11.0,1,Occasionnel,3
+1458,39,3646,Célibataire,Consulting,Consultant,11,1,0,1,2,1,2,4,4,Oui,23.0,0,Aucun,0
+1459,31,7446,Célibataire,Consulting,Tech Lead,10,10,8,3,4,2,1,3,3,Non,11.0,0,Frequent,7
+1460,45,10851,Divorcé(e),Consulting,Manager,24,7,7,2,1,1,2,3,3,Oui,18.0,1,Occasionnel,7
+1461,31,2109,Célibataire,Ressources Humaines,Ressources Humaines,8,3,2,4,4,2,4,3,3,Non,18.0,0,Occasionnel,2
+1464,31,3722,Marié(e),Consulting,Consultant,7,2,2,2,3,4,3,1,3,Oui,13.0,1,Frequent,2
+1465,45,9380,Marié(e),Consulting,Tech Lead,10,3,1,2,3,4,4,4,3,Oui,18.0,2,Occasionnel,2
+1466,48,5486,Divorcé(e),Commercial,Cadre Commercial,15,2,2,3,3,1,1,3,3,Non,11.0,3,Occasionnel,2
+1467,34,2742,Marié(e),Ressources Humaines,Ressources Humaines,2,2,2,1,3,3,4,3,3,Non,15.0,0,Occasionnel,2
+1468,40,13757,Divorcé(e),Consulting,Directeur Technique,16,9,8,4,2,2,3,3,3,Non,11.0,1,Aucun,8
+1469,28,8463,Célibataire,Commercial,Cadre Commercial,6,5,4,4,3,1,4,3,3,Non,18.0,0,Occasionnel,3
+1471,44,3162,Célibataire,Consulting,Consultant,7,5,2,3,2,3,4,3,3,Non,14.0,0,Aucun,3
+1472,53,16598,Célibataire,Consulting,Directeur Technique,35,9,8,4,4,2,2,2,3,Non,12.0,0,Occasionnel,8
+1473,49,6651,Marié(e),Consulting,Manager,20,3,2,1,3,3,2,2,3,Non,14.0,1,Occasionnel,2
+1474,40,2345,Divorcé(e),Consulting,Assistant de Direction,8,3,1,3,3,3,3,4,3,Non,14.0,1,Occasionnel,2
+1475,44,3420,Célibataire,Consulting,Assistant de Direction,6,5,2,4,3,2,3,2,3,Non,13.0,0,Occasionnel,3
+1477,33,4373,Marié(e),Commercial,Cadre Commercial,5,4,3,4,3,1,1,3,3,Non,14.0,2,Frequent,3
+1478,34,4759,Célibataire,Commercial,Cadre Commercial,15,13,9,4,1,1,4,3,3,Non,18.0,0,Occasionnel,12
+1479,30,5301,Marié(e),Commercial,Cadre Commercial,4,2,1,4,3,3,3,2,3,Non,15.0,2,Occasionnel,2
+1480,42,3673,Célibataire,Consulting,Consultant,12,12,9,1,3,4,3,3,3,Non,13.0,0,Frequent,8
+1481,44,4768,Marié(e),Commercial,Cadre Commercial,11,1,0,1,3,3,3,2,3,Non,12.0,1,Frequent,0
+1482,30,1274,Divorcé(e),Consulting,Assistant de Direction,1,1,0,3,3,3,2,2,3,Non,13.0,2,Aucun,0
+1483,57,4900,Marié(e),Consulting,Assistant de Direction,13,12,9,2,4,3,1,2,4,Non,24.0,1,Occasionnel,8
+1484,49,10466,Divorcé(e),Consulting,Manager,29,8,7,3,3,2,2,3,3,Non,14.0,2,Occasionnel,7
+1485,34,17007,Divorcé(e),Consulting,Directeur Technique,16,14,8,2,3,1,4,2,3,Non,14.0,2,Frequent,9
+1486,28,2909,Marié(e),Commercial,Représentant Commercial,5,3,2,1,3,3,4,4,3,Non,15.0,1,Frequent,2
+1487,29,5765,Célibataire,Commercial,Cadre Commercial,7,5,3,1,3,2,1,1,3,Non,11.0,0,Frequent,0
+1489,34,4599,Célibataire,Commercial,Cadre Commercial,16,15,9,1,2,2,3,4,4,Oui,23.0,0,Occasionnel,10
+1492,35,2404,Marié(e),Commercial,Représentant Commercial,1,1,0,4,3,3,1,3,3,Non,13.0,1,Occasionnel,0
+1494,24,3172,Célibataire,Consulting,Consultant,4,0,0,2,3,1,3,2,3,Oui,11.0,0,Frequent,0
+1495,24,2033,Marié(e),Commercial,Représentant Commercial,1,1,0,4,3,2,3,3,3,Non,13.0,1,Aucun,0
+1496,44,10209,Célibataire,Consulting,Tech Lead,16,2,2,2,3,3,2,2,3,Oui,18.0,0,Frequent,2
+1497,29,8620,Divorcé(e),Commercial,Cadre Commercial,10,10,7,3,2,3,3,3,3,Non,14.0,2,Occasionnel,4
+1499,30,2064,Divorcé(e),Ressources Humaines,Ressources Humaines,6,5,3,3,3,3,1,4,4,Non,21.0,1,Occasionnel,3
+1501,55,4035,Marié(e),Consulting,Manager,4,3,2,4,3,3,2,3,3,Oui,16.0,0,Occasionnel,2
+1502,33,3838,Marié(e),Consulting,Consultant,8,5,4,1,2,2,4,3,3,Non,11.0,0,Occasionnel,2
+1503,47,4591,Marié(e),Commercial,Cadre Commercial,11,5,4,3,3,3,3,2,3,Oui,17.0,1,Occasionnel,2
+1504,28,2561,Célibataire,Consulting,Consultant,8,0,0,3,2,1,3,2,3,Non,11.0,0,Frequent,0
+1506,28,1563,Divorcé(e),Consulting,Assistant de Direction,1,1,0,1,2,3,4,1,3,Non,14.0,1,Occasionnel,0
+1507,28,4898,Célibataire,Commercial,Cadre Commercial,5,4,2,3,3,1,4,3,3,Non,14.0,0,Frequent,3
+1509,49,4789,Marié(e),Consulting,Consultant,10,3,2,3,2,1,1,3,4,Non,25.0,1,Occasionnel,2
+1513,29,3180,Marié(e),Consulting,Consultant,4,3,2,4,3,2,3,3,3,Non,13.0,3,Frequent,2
+1514,28,6549,Marié(e),Consulting,Tech Lead,8,8,6,3,1,2,2,2,3,Non,14.0,2,Occasionnel,7
+1515,33,6388,Célibataire,Consulting,Manager,14,0,0,4,3,3,1,3,3,Oui,17.0,0,Occasionnel,0
+1516,32,11244,Célibataire,Consulting,Senior Manager,10,5,2,3,3,4,2,4,4,Non,25.0,0,Occasionnel,0
+1520,54,16032,Divorcé(e),Consulting,Senior Manager,26,14,9,2,3,4,1,3,4,Non,20.0,1,Frequent,12
+1522,29,2362,Célibataire,Consulting,Assistant de Direction,11,9,7,1,2,1,3,1,3,Non,13.0,0,Occasionnel,7
+1523,44,16328,Marié(e),Consulting,Directeur Technique,24,20,6,4,3,1,3,4,3,Non,13.0,1,Occasionnel,17
+1525,39,8376,Célibataire,Consulting,Tech Lead,9,2,0,2,3,2,4,3,3,Non,18.0,0,Occasionnel,2
+1527,46,16606,Marié(e),Commercial,Senior Manager,23,13,12,3,3,2,4,4,3,Non,12.0,1,Occasionnel,1
+1529,35,8606,Célibataire,Consulting,Manager,11,11,8,4,2,2,4,1,3,Non,19.0,0,Occasionnel,3
+1533,23,2272,Célibataire,Consulting,Consultant,5,4,3,1,3,3,2,3,3,Non,14.0,0,Occasionnel,2
+1534,40,2018,Célibataire,Consulting,Consultant,15,5,4,4,3,1,2,1,3,Non,14.0,0,Occasionnel,0
+1535,34,7083,Marié(e),Commercial,Cadre Commercial,10,10,9,4,2,3,4,3,3,Oui,14.0,0,Occasionnel,6
+1537,31,4084,Célibataire,Consulting,Assistant de Direction,7,7,2,4,3,3,1,1,3,Non,12.0,0,Frequent,7
+1539,50,14411,Célibataire,Consulting,Directeur Technique,32,32,6,3,1,4,4,3,3,Oui,13.0,0,Frequent,9
+1541,34,2308,Marié(e),Commercial,Représentant Commercial,12,11,10,2,3,3,2,3,4,Oui,25.0,1,Occasionnel,7
+1542,42,4841,Marié(e),Consulting,Consultant,4,1,0,3,2,2,2,3,3,Non,14.0,1,Occasionnel,0
+1543,37,4285,Marié(e),Consulting,Assistant de Direction,10,10,8,1,3,4,1,3,3,Non,17.0,0,Occasionnel,7
+1544,29,9715,Marié(e),Consulting,Manager,9,7,7,3,1,1,3,3,3,Non,13.0,1,Occasionnel,7
+1545,33,4320,Célibataire,Consulting,Tech Lead,5,5,3,4,2,2,4,3,3,Non,13.0,0,Occasionnel,2
+1546,45,2132,Marié(e),Consulting,Assistant de Direction,8,5,4,4,3,4,4,3,4,Non,20.0,1,Occasionnel,3
+1547,42,10124,Marié(e),Consulting,Manager,24,20,8,4,3,4,3,1,3,Oui,14.0,1,Frequent,9
+1548,40,5473,Marié(e),Commercial,Cadre Commercial,9,8,4,1,3,1,4,4,3,Non,12.0,0,Occasionnel,1
+1549,33,5207,Marié(e),Consulting,Consultant,15,15,14,2,3,3,2,3,3,Oui,12.0,1,Occasionnel,7
+1550,40,16437,Célibataire,Ressources Humaines,Senior Manager,21,21,7,3,3,4,4,3,4,Oui,21.0,0,Occasionnel,7
+1551,24,2296,Divorcé(e),Consulting,Consultant,2,1,1,3,2,1,2,3,3,Non,14.0,3,Occasionnel,0
+1552,40,4069,Divorcé(e),Consulting,Manager,8,2,2,4,3,4,3,3,3,Oui,18.0,0,Aucun,2
+1553,45,7441,Divorcé(e),Consulting,Manager,10,10,8,1,3,2,1,3,3,Non,12.0,3,Occasionnel,7
+1554,35,2430,Marié(e),Commercial,Représentant Commercial,6,5,3,2,2,3,1,3,4,Non,23.0,2,Occasionnel,2
+1555,32,5878,Marié(e),Consulting,Assistant de Direction,12,7,1,4,2,2,1,3,3,Non,12.0,1,Occasionnel,5
+1556,36,2644,Célibataire,Commercial,Représentant Commercial,7,3,2,3,3,4,4,2,4,Oui,21.0,0,Occasionnel,2
+1557,48,6439,Divorcé(e),Commercial,Cadre Commercial,18,8,7,3,3,3,3,3,3,Non,14.0,1,Occasionnel,7
+1558,29,2451,Marié(e),Consulting,Assistant de Direction,5,1,0,3,4,3,1,2,3,Non,18.0,2,Occasionnel,0
+1560,33,6392,Marié(e),Commercial,Cadre Commercial,8,2,2,1,3,1,4,1,3,Non,13.0,1,Occasionnel,2
+1562,30,9714,Marié(e),Commercial,Cadre Commercial,10,10,8,2,2,1,4,3,3,Non,11.0,1,Occasionnel,7
+1563,38,6077,Marié(e),Ressources Humaines,Ressources Humaines,10,6,3,3,3,3,3,3,3,Non,11.0,0,Frequent,2
+1564,35,2450,Célibataire,Consulting,Consultant,3,3,0,4,2,1,2,3,3,Non,19.0,0,Occasionnel,2
+1568,30,9250,Marié(e),Commercial,Cadre Commercial,9,4,2,3,3,2,2,3,3,Non,12.0,1,Occasionnel,3
+1569,35,2074,Divorcé(e),Consulting,Consultant,1,1,0,1,3,1,4,3,3,Oui,12.0,1,Occasionnel,0
+1572,53,10169,Marié(e),Consulting,Tech Lead,34,33,7,3,2,4,2,3,3,Non,16.0,1,Occasionnel,9
+1573,38,4855,Marié(e),Consulting,Tech Lead,7,5,2,3,3,2,1,3,3,Non,11.0,2,Occasionnel,4
+1574,32,4087,Marié(e),Consulting,Assistant de Direction,9,6,5,4,3,1,2,2,3,Non,14.0,1,Aucun,2
+1576,48,2367,Marié(e),Consulting,Assistant de Direction,10,8,2,3,3,1,4,2,3,Non,12.0,1,Occasionnel,6
+1577,34,2972,Célibataire,Consulting,Assistant de Direction,1,1,0,1,3,4,3,1,3,Non,13.0,0,Occasionnel,0
+1578,55,19586,Marié(e),Commercial,Senior Manager,36,36,6,3,2,4,3,3,4,Non,21.0,1,Occasionnel,13
+1580,34,5484,Marié(e),Consulting,Assistant de Direction,9,2,2,2,3,4,2,2,3,Non,17.0,1,Occasionnel,1
+1581,26,2061,Marié(e),Consulting,Assistant de Direction,1,1,0,1,3,4,1,3,4,Non,21.0,0,Occasionnel,0
+1582,38,9924,Marié(e),Commercial,Cadre Commercial,10,9,8,3,3,2,4,3,3,Non,11.0,1,Occasionnel,7
+1583,38,4198,Célibataire,Commercial,Cadre Commercial,8,3,2,2,3,2,2,4,3,Non,12.0,0,Occasionnel,2
+1585,36,6815,Célibataire,Commercial,Cadre Commercial,15,1,0,2,3,3,1,3,3,Non,13.0,0,Occasionnel,0
+1586,29,4723,Célibataire,Consulting,Consultant,10,10,9,2,3,1,4,3,3,Oui,18.0,0,Occasionnel,5
+1587,35,6142,Célibataire,Consulting,Manager,10,5,2,1,3,3,3,3,3,Oui,16.0,0,Occasionnel,4
+1588,39,8237,Marié(e),Commercial,Cadre Commercial,11,7,6,4,4,3,1,3,3,Non,11.0,1,Occasionnel,6
+1590,29,8853,Divorcé(e),Consulting,Manager,6,6,4,1,3,4,4,4,3,Non,19.0,1,Frequent,3
+1591,50,19331,Marié(e),Commercial,Senior Manager,27,1,0,3,3,3,3,3,3,Oui,16.0,1,Occasionnel,0
+1592,23,2073,Marié(e),Consulting,Assistant de Direction,4,2,2,4,4,3,4,3,3,Non,16.0,1,Occasionnel,2
+1594,36,5562,Marié(e),Consulting,Consultant,9,3,2,1,4,1,4,3,3,Oui,13.0,1,Frequent,2
+1595,42,19613,Célibataire,Consulting,Senior Manager,24,1,0,4,2,4,4,3,4,Non,22.0,0,Occasionnel,1
+1596,35,3407,Marié(e),Consulting,Consultant,10,10,9,2,4,3,4,2,3,Non,17.0,2,Occasionnel,8
+1597,34,5063,Marié(e),Consulting,Manager,8,8,2,4,2,3,2,2,3,Non,14.0,1,Frequent,7
+1598,40,4639,Marié(e),Commercial,Cadre Commercial,5,5,4,4,3,1,3,3,3,Non,15.0,1,Occasionnel,2
+1599,43,4876,Divorcé(e),Consulting,Consultant,8,6,4,4,4,2,3,3,3,Non,12.0,1,Occasionnel,2
+1601,35,2690,Marié(e),Consulting,Consultant,1,1,0,3,2,4,4,2,3,Non,18.0,1,Occasionnel,1
+1602,46,17567,Célibataire,Commercial,Senior Manager,27,26,0,4,4,1,2,1,3,Non,15.0,0,Occasionnel,12
+1604,28,2408,Marié(e),Consulting,Consultant,1,1,1,3,3,2,3,3,3,Oui,17.0,3,Occasionnel,0
+1605,22,2814,Marié(e),Consulting,Assistant de Direction,4,4,2,2,2,3,2,2,3,Oui,14.0,0,Aucun,3
+1606,50,11245,Marié(e),Consulting,Manager,32,30,8,2,3,3,3,3,3,Oui,15.0,1,Frequent,13
+1607,32,3312,Marié(e),Consulting,Assistant de Direction,6,3,2,2,4,4,4,3,3,Non,17.0,2,Occasionnel,2
+1608,44,19049,Divorcé(e),Consulting,Directeur Technique,23,22,7,2,3,4,4,2,3,Oui,14.0,1,Occasionnel,10
+1609,30,2141,Marié(e),Consulting,Assistant de Direction,6,6,4,2,2,2,2,2,3,Non,12.0,1,Occasionnel,1
+1611,45,5769,Célibataire,Consulting,Consultant,10,10,7,3,1,1,1,3,3,Oui,14.0,0,Occasionnel,4
+1612,45,4385,Marié(e),Commercial,Cadre Commercial,10,10,7,1,2,1,1,3,3,Non,15.0,1,Aucun,5
+1613,31,5332,Célibataire,Commercial,Cadre Commercial,10,5,2,4,3,1,4,3,3,Non,13.0,0,Frequent,3
+1614,36,4663,Marié(e),Consulting,Tech Lead,7,3,2,3,3,3,2,3,3,Oui,12.0,2,Occasionnel,1
+1615,34,4724,Divorcé(e),Consulting,Tech Lead,9,9,7,3,4,4,1,3,3,Non,13.0,1,Frequent,2
+1617,49,3211,Marié(e),Consulting,Consultant,10,9,6,3,3,1,4,2,3,Non,14.0,1,Occasionnel,4
+1618,39,5377,Marié(e),Consulting,Tech Lead,10,7,7,2,3,1,4,3,3,Non,13.0,3,Occasionnel,7
+1619,27,4066,Divorcé(e),Consulting,Consultant,7,7,7,4,2,1,1,3,3,Non,11.0,2,Occasionnel,7
+1621,35,5208,Marié(e),Consulting,Assistant de Direction,16,16,15,2,4,1,4,3,3,Non,11.0,0,Occasionnel,10
+1622,28,4877,Divorcé(e),Consulting,Tech Lead,6,5,3,2,1,1,2,2,4,Non,21.0,1,Occasionnel,0
+1623,21,3117,Célibataire,Consulting,Assistant de Direction,3,2,2,3,3,4,3,3,3,Non,18.0,0,Occasionnel,2
+1624,18,1569,Célibataire,Commercial,Représentant Commercial,0,0,0,2,3,4,3,4,3,Oui,12.0,0,Frequent,0
+1625,47,19658,Marié(e),Ressources Humaines,Senior Manager,27,5,2,4,3,3,3,3,3,Non,11.0,1,Occasionnel,0
+1627,39,3069,Divorcé(e),Consulting,Consultant,11,10,8,3,2,3,4,3,3,Non,15.0,1,Occasionnel,7
+1628,40,10435,Marié(e),Consulting,Tech Lead,18,18,15,1,2,3,4,3,3,Non,13.0,2,Occasionnel,12
+1630,35,4148,Marié(e),Consulting,Manager,15,14,11,3,3,3,4,3,3,Non,12.0,1,Aucun,9
+1631,37,5768,Marié(e),Consulting,Tech Lead,9,4,3,3,3,3,1,2,3,Non,17.0,3,Occasionnel,2
+1633,39,5042,Célibataire,Consulting,Tech Lead,10,9,2,1,3,3,4,1,3,Non,13.0,0,Frequent,8
+1635,45,5770,Divorcé(e),Consulting,Tech Lead,10,10,7,4,2,4,1,3,3,Non,19.0,2,Occasionnel,9
+1638,38,7756,Marié(e),Consulting,Tech Lead,10,5,4,4,2,3,4,4,3,Oui,19.0,1,Occasionnel,2
+1639,35,10306,Marié(e),Commercial,Cadre Commercial,15,13,12,4,2,1,3,3,3,Non,17.0,0,Occasionnel,0
+1640,37,3936,Marié(e),Consulting,Assistant de Direction,8,8,4,2,3,2,1,1,3,Non,11.0,1,Occasionnel,7
+1641,40,7945,Célibataire,Consulting,Tech Lead,18,4,2,3,3,4,4,2,3,Oui,15.0,0,Occasionnel,3
+1642,44,5743,Marié(e),Ressources Humaines,Ressources Humaines,14,10,7,1,3,4,3,3,3,Oui,11.0,0,Frequent,2
+1644,48,15202,Marié(e),Consulting,Senior Manager,23,2,2,3,2,4,2,3,4,Non,25.0,1,Frequent,2
+1645,35,5440,Divorcé(e),Commercial,Cadre Commercial,7,2,2,1,1,4,4,2,3,Oui,14.0,2,Occasionnel,2
+1646,24,3760,Célibataire,Consulting,Assistant de Direction,6,6,3,1,3,4,3,3,3,Oui,13.0,0,Frequent,3
+1647,27,3517,Marié(e),Consulting,Assistant de Direction,5,3,2,2,4,3,1,3,3,Non,17.0,0,Occasionnel,2
+1648,27,2580,Célibataire,Consulting,Assistant de Direction,6,4,2,4,3,4,3,2,3,Non,13.0,0,Frequent,2
+1649,40,2166,Célibataire,Consulting,Consultant,10,4,2,1,3,1,2,1,3,Oui,14.0,0,Occasionnel,3
+1650,29,5869,Célibataire,Commercial,Cadre Commercial,8,5,2,3,2,3,3,3,3,Non,11.0,0,Occasionnel,4
+1651,36,8008,Marié(e),Consulting,Manager,9,3,2,2,3,1,3,3,3,Non,12.0,2,Occasionnel,2
+1653,25,5206,Divorcé(e),Consulting,Tech Lead,7,7,7,4,4,3,3,3,3,Non,17.0,2,Frequent,7
+1654,39,5295,Marié(e),Consulting,Tech Lead,7,5,4,4,3,2,3,3,4,Non,21.0,0,Occasionnel,0
+1655,49,16413,Marié(e),Consulting,Directeur Technique,27,4,2,1,3,2,2,3,3,Non,16.0,2,Occasionnel,2
+1656,50,13269,Divorcé(e),Consulting,Directeur Technique,19,14,11,4,2,1,3,3,3,Non,15.0,3,Occasionnel,11
+1657,20,2783,Célibataire,Commercial,Représentant Commercial,2,2,2,3,3,3,1,3,3,Non,19.0,0,Occasionnel,2
+1658,34,5433,Divorcé(e),Consulting,Assistant de Direction,11,11,8,4,3,2,3,3,3,Non,12.0,1,Occasionnel,9
+1659,36,2013,Célibataire,Consulting,Consultant,15,4,3,1,3,2,3,3,3,Non,11.0,0,Occasionnel,3
+1661,49,13966,Marié(e),Consulting,Manager,30,15,11,3,2,3,2,3,3,Oui,19.0,1,Occasionnel,12
+1662,36,4374,Marié(e),Consulting,Tech Lead,4,3,2,4,2,3,3,3,3,Non,15.0,0,Aucun,2
+1664,36,6842,Divorcé(e),Consulting,Manager,13,5,4,4,4,1,1,3,4,Non,20.0,1,Occasionnel,4
+1665,54,17426,Marié(e),Consulting,Senior Manager,36,10,8,2,3,3,3,3,4,Non,25.0,1,Occasionnel,7
+1666,43,17603,Marié(e),Consulting,Directeur Technique,14,14,10,3,2,3,1,3,4,Non,24.0,1,Occasionnel,11
+1667,35,4581,Célibataire,Commercial,Cadre Commercial,13,11,9,4,3,4,1,4,4,Oui,24.0,0,Frequent,7
+1668,38,4735,Marié(e),Consulting,Assistant de Direction,19,13,11,4,3,4,4,4,3,Non,15.0,2,Frequent,9
+1669,29,4187,Divorcé(e),Commercial,Cadre Commercial,10,10,0,1,2,2,2,2,3,Oui,13.0,1,Occasionnel,9
+1670,33,5505,Divorcé(e),Commercial,Cadre Commercial,6,6,2,4,3,4,3,3,3,Non,14.0,2,Occasionnel,4
+1671,32,5470,Divorcé(e),Consulting,Assistant de Direction,10,9,5,4,3,2,3,2,3,Non,13.0,2,Occasionnel,6
+1673,31,5476,Marié(e),Commercial,Cadre Commercial,10,10,0,1,3,4,1,3,3,Non,11.0,2,Occasionnel,2
+1674,49,2587,Divorcé(e),Consulting,Consultant,17,2,2,4,3,1,2,2,3,Oui,16.0,1,Occasionnel,2
+1675,38,2440,Célibataire,Consulting,Consultant,4,4,3,4,2,2,2,3,4,Non,22.0,0,Frequent,3
+1676,47,15972,Divorcé(e),Commercial,Senior Manager,29,3,2,2,4,2,3,3,3,Non,14.0,3,Occasionnel,2
+1677,49,15379,Célibataire,Consulting,Senior Manager,23,8,7,3,3,3,1,3,3,Non,14.0,0,Occasionnel,0
+1678,41,7082,Célibataire,Commercial,Cadre Commercial,21,2,0,4,3,3,4,3,3,Oui,16.0,0,Occasionnel,2
+1680,20,2728,Célibataire,Commercial,Représentant Commercial,2,2,2,4,3,1,1,3,3,Non,11.0,0,Occasionnel,2
+1681,33,5368,Divorcé(e),Commercial,Cadre Commercial,7,6,5,3,3,4,3,3,4,Oui,25.0,1,Aucun,2
+1682,36,5347,Marié(e),Consulting,Manager,10,3,2,1,3,3,2,2,3,Non,14.0,2,Occasionnel,2
+1683,44,3195,Divorcé(e),Ressources Humaines,Ressources Humaines,8,2,2,3,3,4,1,3,3,Oui,18.0,3,Occasionnel,2
+1684,23,3989,Célibataire,Consulting,Consultant,5,5,4,4,2,3,1,3,3,Oui,11.0,0,Occasionnel,2
+1687,38,3306,Marié(e),Consulting,Consultant,7,0,0,4,3,3,4,2,3,Non,19.0,1,Occasionnel,0
+1689,53,7005,Marié(e),Consulting,Manager,11,4,3,2,4,4,3,3,3,Non,15.0,0,Occasionnel,2
+1691,48,2655,Marié(e),Commercial,Représentant Commercial,19,9,7,4,3,3,3,3,3,Oui,11.0,2,Frequent,7
+1692,32,1393,Célibataire,Consulting,Consultant,1,1,0,4,3,2,1,3,3,Non,12.0,0,Occasionnel,0
+1693,26,2570,Célibataire,Consulting,Consultant,7,7,7,4,3,4,3,3,4,Non,20.0,0,Aucun,7
+1694,55,3537,Divorcé(e),Consulting,Assistant de Direction,8,4,2,1,2,2,4,3,3,Non,12.0,1,Occasionnel,2
+1696,34,3986,Marié(e),Consulting,Consultant,15,15,10,2,2,4,3,4,3,Non,14.0,1,Occasionnel,13
+1697,60,10883,Divorcé(e),Consulting,Manager,19,1,0,3,1,4,3,4,4,Non,20.0,1,Occasionnel,0
+1698,33,2028,Marié(e),Consulting,Consultant,14,14,11,2,4,2,4,3,3,Non,18.0,3,Occasionnel,13
+1700,37,9525,Divorcé(e),Commercial,Cadre Commercial,6,6,3,3,1,4,3,2,3,Non,14.0,2,Frequent,3
+1701,34,2929,Marié(e),Consulting,Assistant de Direction,10,10,9,2,2,4,2,3,3,Non,12.0,0,Occasionnel,7
+1702,23,2275,Divorcé(e),Commercial,Représentant Commercial,3,3,2,3,3,4,2,3,4,Oui,21.0,1,Occasionnel,2
+1703,44,7879,Marié(e),Consulting,Manager,9,8,7,3,4,4,2,3,3,Oui,19.0,1,Occasionnel,7
+1704,35,4930,Célibataire,Consulting,Assistant de Direction,6,5,4,1,2,4,3,4,3,Oui,14.0,0,Frequent,4
+1706,43,7847,Marié(e),Commercial,Cadre Commercial,10,10,9,4,3,4,1,3,3,Oui,17.0,1,Occasionnel,8
+1707,24,4401,Marié(e),Consulting,Assistant de Direction,5,5,3,3,4,3,4,3,3,Non,16.0,1,Occasionnel,4
+1708,41,9241,Célibataire,Commercial,Cadre Commercial,10,10,8,4,3,3,2,3,3,Non,12.0,0,Occasionnel,7
+1709,29,2974,Marié(e),Consulting,Consultant,9,5,3,4,3,3,3,3,3,Non,17.0,1,Occasionnel,2
+1710,36,4502,Célibataire,Commercial,Représentant Commercial,17,13,7,3,3,4,3,2,3,Non,15.0,0,Occasionnel,7
+1712,45,10748,Marié(e),Consulting,Manager,25,23,15,3,2,3,4,2,4,Non,23.0,1,Aucun,4
+1714,24,1555,Marié(e),Ressources Humaines,Ressources Humaines,1,1,0,4,1,3,3,3,3,Non,11.0,1,Occasionnel,0
+1716,47,12936,Marié(e),Commercial,Cadre Commercial,25,23,5,3,1,3,3,1,3,Non,11.0,0,Frequent,10
+1718,26,2305,Marié(e),Consulting,Consultant,3,3,2,4,1,3,3,4,3,Non,15.0,3,Occasionnel,2
+1719,45,16704,Célibataire,Consulting,Directeur Technique,21,21,6,4,2,2,3,3,3,Non,11.0,0,Occasionnel,6
+1720,32,3433,Marié(e),Consulting,Assistant de Direction,10,5,2,1,3,3,1,2,3,Non,13.0,1,Frequent,3
+1721,31,3477,Marié(e),Consulting,Consultant,6,5,2,2,3,3,4,4,3,Non,14.0,1,Occasionnel,3
+1722,41,6430,Marié(e),Ressources Humaines,Ressources Humaines,10,3,2,3,1,2,2,3,3,Non,19.0,1,Aucun,2
+1724,40,6516,Marié(e),Consulting,Tech Lead,18,1,0,2,3,1,2,3,3,Oui,16.0,1,Occasionnel,0
+1725,24,3907,Divorcé(e),Consulting,Consultant,6,6,2,2,3,1,2,4,3,Non,13.0,3,Occasionnel,2
+1727,46,5562,Célibataire,Consulting,Manager,19,10,7,3,3,2,4,3,3,Non,14.0,0,Occasionnel,9
+1728,35,6883,Marié(e),Consulting,Tech Lead,17,7,7,4,3,3,2,3,3,Non,16.0,1,Occasionnel,7
+1729,30,2862,Marié(e),Consulting,Assistant de Direction,10,10,0,2,3,4,2,2,3,Non,12.0,1,Occasionnel,8
+1731,47,4978,Marié(e),Commercial,Cadre Commercial,4,1,0,3,3,2,4,1,3,Non,11.0,1,Aucun,0
+1732,46,10368,Divorcé(e),Commercial,Cadre Commercial,13,10,6,3,3,4,2,2,3,Oui,12.0,1,Occasionnel,3
+1733,36,6134,Divorcé(e),Commercial,Cadre Commercial,16,2,2,2,2,1,2,3,3,Oui,13.0,3,Occasionnel,2
+1734,32,6735,Célibataire,Commercial,Cadre Commercial,10,0,0,1,1,2,2,3,3,Non,15.0,0,Occasionnel,0
+1735,23,3295,Célibataire,Consulting,Consultant,3,3,2,3,3,2,3,1,3,Non,13.0,0,Occasionnel,2
+1736,31,5238,Célibataire,Consulting,Tech Lead,9,5,4,4,3,4,4,2,4,Non,20.0,0,Frequent,4
+1737,39,6472,Marié(e),Consulting,Consultant,9,9,8,4,3,4,4,3,3,Oui,15.0,1,Aucun,8
+1739,32,9610,Marié(e),Commercial,Cadre Commercial,10,4,3,4,1,3,3,1,3,Non,13.0,1,Occasionnel,2
+1740,40,19833,Célibataire,Commercial,Senior Manager,21,21,8,2,3,2,2,2,3,Non,14.0,0,Occasionnel,8
+1744,45,9756,Marié(e),Ressources Humaines,Ressources Humaines,9,5,0,3,1,3,3,4,4,Non,21.0,2,Occasionnel,3
+1745,30,4968,Célibataire,Consulting,Assistant de Direction,10,9,7,4,2,1,4,3,3,Non,16.0,0,Frequent,7
+1746,24,2145,Marié(e),Ressources Humaines,Ressources Humaines,3,2,2,1,3,4,4,3,3,Non,14.0,1,Frequent,1
+1747,30,2180,Divorcé(e),Ressources Humaines,Ressources Humaines,6,4,2,3,2,4,3,2,3,Non,11.0,1,Frequent,2
+1749,31,8346,Marié(e),Commercial,Cadre Commercial,6,5,2,1,3,3,3,3,3,Non,19.0,1,Occasionnel,2
+1751,27,3445,Célibataire,Consulting,Assistant de Direction,6,6,2,3,3,4,3,2,3,Non,11.0,0,Occasionnel,4
+1752,29,2760,Célibataire,Commercial,Représentant Commercial,2,2,2,2,1,2,3,3,3,Non,13.0,0,Occasionnel,2
+1753,29,6294,Célibataire,Consulting,Manager,10,3,2,4,4,3,4,4,3,Oui,12.0,0,Frequent,2
+1754,30,7140,Divorcé(e),Commercial,Cadre Commercial,12,7,7,3,2,1,1,3,3,Non,11.0,1,Occasionnel,7
+1755,34,2932,Marié(e),Consulting,Assistant de Direction,6,5,0,4,4,4,1,3,3,Oui,14.0,3,Occasionnel,2
+1756,33,5147,Célibataire,Commercial,Cadre Commercial,13,11,7,4,3,2,4,2,3,Non,15.0,0,Aucun,7
+1757,49,4507,Célibataire,Commercial,Cadre Commercial,8,5,1,4,3,4,3,4,3,Non,12.0,0,Occasionnel,4
+1758,33,8564,Célibataire,Commercial,Cadre Commercial,11,0,0,1,3,1,3,2,4,Oui,20.0,0,Occasionnel,0
+1760,38,2468,Marié(e),Consulting,Consultant,9,6,1,3,2,2,2,2,3,Non,14.0,1,Frequent,5
+1761,31,8161,Marié(e),Commercial,Cadre Commercial,10,1,0,1,3,3,1,3,3,Non,13.0,3,Occasionnel,0
+1762,29,2109,Divorcé(e),Consulting,Assistant de Direction,1,1,0,4,2,1,3,3,3,Non,13.0,1,Occasionnel,0
+1763,30,5294,Marié(e),Consulting,Manager,10,7,0,3,4,3,3,3,3,Non,16.0,1,Occasionnel,7
+1764,32,2718,Célibataire,Consulting,Assistant de Direction,12,7,7,2,3,2,2,3,3,Non,14.0,0,Aucun,7
+1766,38,5811,Marié(e),Consulting,Manager,15,1,0,2,1,4,3,3,3,Oui,16.0,1,Occasionnel,0
+1767,43,2437,Marié(e),Consulting,Assistant de Direction,6,1,0,3,2,3,4,3,3,Oui,16.0,1,Frequent,0
+1768,42,2766,Divorcé(e),Consulting,Consultant,7,5,3,2,3,2,2,2,4,Non,22.0,3,Occasionnel,4
+1770,55,19038,Marié(e),Consulting,Directeur Technique,34,1,0,3,2,1,2,3,3,Non,12.0,3,Occasionnel,0
+1771,33,3055,Divorcé(e),Consulting,Assistant de Direction,11,9,8,4,3,2,4,2,3,Non,15.0,2,Aucun,7
+1772,41,2289,Divorcé(e),Consulting,Consultant,5,5,3,3,3,1,2,3,4,Non,20.0,2,Occasionnel,4
+1774,34,4001,Divorcé(e),Commercial,Cadre Commercial,15,15,14,4,3,3,3,3,3,Oui,14.0,1,Aucun,7
+1775,53,12965,Marié(e),Consulting,Tech Lead,27,3,2,1,2,3,4,2,4,Oui,20.0,3,Aucun,2
+1778,43,3539,Célibataire,Ressources Humaines,Ressources Humaines,10,9,7,2,3,4,2,3,3,Non,13.0,0,Occasionnel,8
+1779,34,6029,Célibataire,Commercial,Cadre Commercial,6,2,2,4,1,4,1,3,3,Non,12.0,0,Occasionnel,2
+1780,21,2679,Célibataire,Commercial,Représentant Commercial,1,1,0,2,3,2,2,3,3,Non,13.0,0,Occasionnel,0
+1782,38,3702,Marié(e),Consulting,Consultant,5,5,4,4,2,3,2,3,3,Non,11.0,1,Occasionnel,4
+1783,22,2398,Marié(e),Consulting,Consultant,1,1,0,3,3,1,3,3,3,Oui,17.0,0,Occasionnel,0
+1784,31,5468,Marié(e),Commercial,Cadre Commercial,13,12,7,1,2,4,1,3,3,Non,14.0,2,Occasionnel,7
+1786,51,13116,Marié(e),Consulting,Senior Manager,15,2,2,1,3,3,4,3,3,Non,11.0,0,Occasionnel,2
+1787,37,4189,Marié(e),Commercial,Cadre Commercial,5,5,2,2,2,2,1,3,3,Non,14.0,2,Occasionnel,3
+1789,46,19328,Divorcé(e),Consulting,Directeur Technique,24,2,1,3,3,4,3,3,3,Oui,17.0,1,Occasionnel,2
+1790,36,8321,Marié(e),Consulting,Manager,15,12,8,4,3,1,4,3,3,Oui,13.0,1,Occasionnel,7
+1792,44,2342,Divorcé(e),Consulting,Assistant de Direction,6,5,3,3,3,2,3,2,3,Oui,12.0,3,Frequent,3
+1794,37,4071,Divorcé(e),Ressources Humaines,Ressources Humaines,19,10,0,3,3,2,3,2,3,Non,13.0,0,Occasionnel,7
+1797,35,5813,Célibataire,Commercial,Cadre Commercial,10,10,7,3,3,4,4,3,3,Oui,18.0,0,Occasionnel,7
+1798,33,3143,Marié(e),Consulting,Assistant de Direction,14,10,8,4,4,1,2,3,3,Non,19.0,1,Occasionnel,6
+1799,28,2044,Marié(e),Consulting,Assistant de Direction,5,5,3,3,3,4,3,4,3,Non,11.0,1,Occasionnel,3
+1800,39,13464,Célibataire,Consulting,Directeur Technique,9,4,3,3,3,3,3,3,4,Non,21.0,0,Occasionnel,2
+1801,46,7991,Célibataire,Commercial,Cadre Commercial,6,2,2,2,2,2,3,3,3,Non,15.0,0,Aucun,2
+1802,40,3377,Marié(e),Consulting,Consultant,7,4,3,3,3,1,4,2,3,Non,17.0,1,Occasionnel,2
+1803,42,5538,Marié(e),Consulting,Manager,10,0,0,2,4,1,3,2,3,Non,18.0,2,Occasionnel,0
+1804,35,5762,Divorcé(e),Consulting,Tech Lead,15,7,7,2,3,4,3,3,3,Non,14.0,1,Aucun,7
+1805,38,2592,Divorcé(e),Ressources Humaines,Ressources Humaines,13,11,10,1,3,2,4,3,3,Non,13.0,3,Aucun,8
+1807,34,5346,Marié(e),Consulting,Consultant,11,7,1,4,3,1,3,2,3,Non,17.0,1,Frequent,7
+1809,37,4213,Célibataire,Consulting,Tech Lead,10,10,3,4,3,1,2,1,3,Non,15.0,0,Occasionnel,8
+1812,39,4127,Divorcé(e),Commercial,Cadre Commercial,7,2,1,3,3,4,4,3,3,Non,18.0,1,Frequent,2
+1813,43,2438,Célibataire,Consulting,Assistant de Direction,7,3,2,1,3,3,3,2,3,Non,13.0,0,Aucun,2
+1814,41,6870,Célibataire,Consulting,Manager,11,3,2,2,4,2,1,1,3,Non,12.0,0,Occasionnel,2
+1815,41,10447,Divorcé(e),Commercial,Cadre Commercial,23,22,14,3,3,3,4,4,3,Oui,13.0,1,Occasionnel,5
+1816,30,9667,Célibataire,Consulting,Tech Lead,9,7,7,1,3,3,2,3,3,Non,14.0,0,Occasionnel,2
+1818,26,2148,Marié(e),Ressources Humaines,Ressources Humaines,6,5,1,4,3,2,3,3,3,Oui,11.0,0,Occasionnel,4
+1821,46,8926,Marié(e),Consulting,Manager,13,9,7,4,3,2,4,4,4,Non,22.0,1,Occasionnel,7
+1822,40,6513,Divorcé(e),Consulting,Manager,12,5,3,3,3,4,4,3,3,Non,17.0,1,Occasionnel,3
+1823,34,6799,Marié(e),Commercial,Cadre Commercial,10,10,8,2,4,3,3,3,4,Non,21.0,2,Occasionnel,8
+1824,58,16291,Divorcé(e),Commercial,Senior Manager,37,16,9,2,3,2,4,2,4,Non,22.0,1,Aucun,14
+1826,35,2705,Marié(e),Consulting,Consultant,6,5,4,2,1,3,2,4,3,Non,16.0,1,Occasionnel,3
+1827,47,10333,Divorcé(e),Consulting,Tech Lead,28,22,11,3,2,2,3,3,3,Oui,12.0,1,Occasionnel,10
+1829,40,4448,Divorcé(e),Consulting,Manager,15,7,4,2,3,1,2,3,3,Non,12.0,1,Occasionnel,7
+1830,54,6854,Marié(e),Consulting,Assistant de Direction,14,7,1,4,3,4,2,2,3,Non,15.0,1,Occasionnel,7
+1833,31,9637,Marié(e),Commercial,Cadre Commercial,9,3,2,1,3,1,4,3,3,Non,14.0,2,Frequent,2
+1834,28,3591,Marié(e),Consulting,Assistant de Direction,3,3,2,3,3,1,3,3,4,Non,25.0,1,Occasionnel,2
+1835,38,5405,Marié(e),Commercial,Représentant Commercial,20,4,2,2,1,4,1,2,4,Oui,20.0,2,Occasionnel,3
+1836,26,4684,Célibataire,Commercial,Cadre Commercial,5,5,3,3,3,4,1,3,3,Non,13.0,0,Occasionnel,2
+1837,58,15787,Marié(e),Consulting,Directeur Technique,23,2,2,1,3,3,2,3,3,Oui,14.0,0,Frequent,2
+1839,18,1514,Célibataire,Consulting,Assistant de Direction,0,0,0,2,3,3,3,1,3,Non,16.0,0,Aucun,0
+1842,31,2956,Marié(e),Ressources Humaines,Ressources Humaines,2,1,0,4,4,1,3,3,3,Non,17.0,0,Occasionnel,0
+1844,29,2335,Divorcé(e),Ressources Humaines,Ressources Humaines,4,2,2,1,2,1,4,3,3,Oui,15.0,3,Occasionnel,0
+1845,45,5154,Marié(e),Commercial,Cadre Commercial,10,8,7,3,3,3,2,4,4,Non,22.0,2,Aucun,7
+1847,36,6962,Marié(e),Consulting,Assistant de Direction,15,1,0,4,3,2,4,3,4,Oui,22.0,1,Occasionnel,0
+1849,43,5675,Marié(e),Commercial,Cadre Commercial,7,7,7,1,3,4,3,3,4,Non,20.0,1,Frequent,7
+1850,27,2379,Célibataire,Consulting,Consultant,6,5,4,4,3,4,3,2,3,Oui,14.0,0,Frequent,2
+1852,29,3812,Marié(e),Consulting,Consultant,11,11,8,4,3,4,2,4,3,Non,13.0,0,Frequent,10
+1853,32,4648,Célibataire,Commercial,Cadre Commercial,4,0,0,4,3,4,3,4,3,Non,13.0,0,Frequent,0
+1854,42,2936,Marié(e),Consulting,Assistant de Direction,10,6,3,3,3,3,2,2,4,Non,22.0,2,Aucun,3
+1856,47,2105,Célibataire,Consulting,Consultant,7,2,2,2,3,3,3,3,3,Non,12.0,0,Occasionnel,0
+1857,46,8578,Divorcé(e),Consulting,Tech Lead,12,9,8,4,3,4,3,2,3,Non,14.0,1,Occasionnel,7
+1858,28,2706,Divorcé(e),Ressources Humaines,Ressources Humaines,3,3,2,3,3,4,2,3,3,Non,15.0,1,Aucun,2
+1859,29,6384,Divorcé(e),Consulting,Manager,11,7,0,4,1,3,4,3,3,Non,17.0,2,Occasionnel,6
+1860,42,3968,Célibataire,Consulting,Consultant,8,0,0,4,3,3,4,3,3,Non,13.0,0,Occasionnel,0
+1862,32,9907,Célibataire,Commercial,Cadre Commercial,7,2,2,3,2,2,3,2,3,Oui,12.0,0,Occasionnel,2
+1863,46,13225,Divorcé(e),Commercial,Cadre Commercial,25,19,17,1,4,1,4,3,3,Non,12.0,1,Occasionnel,8
+1864,27,3540,Marié(e),Commercial,Représentant Commercial,9,9,8,2,2,3,4,3,4,Non,21.0,1,Occasionnel,8
+1865,29,2804,Marié(e),Ressources Humaines,Ressources Humaines,1,1,0,4,2,2,4,3,3,Non,11.0,0,Occasionnel,0
+1866,43,19392,Marié(e),Consulting,Senior Manager,21,16,12,1,2,3,4,3,3,Non,13.0,0,Occasionnel,14
+1867,48,19665,Marié(e),Consulting,Directeur Technique,29,22,10,4,2,2,4,3,3,Non,12.0,0,Occasionnel,9
+1868,29,2439,Célibataire,Consulting,Assistant de Direction,1,1,0,4,2,4,2,2,4,Oui,24.0,0,Frequent,0
+1869,46,7314,Marié(e),Commercial,Cadre Commercial,14,8,7,3,3,2,3,3,4,Non,21.0,3,Occasionnel,7
+1870,27,4774,Marié(e),Consulting,Assistant de Direction,8,7,6,4,2,1,4,2,3,Non,19.0,1,Frequent,3
+1871,39,3902,Divorcé(e),Consulting,Assistant de Direction,7,2,2,4,3,4,2,3,3,Non,14.0,3,Occasionnel,2
+1873,55,2662,Marié(e),Consulting,Assistant de Direction,19,5,2,2,2,4,2,4,4,Non,20.0,1,Occasionnel,4
+1875,28,2856,Marié(e),Commercial,Représentant Commercial,1,1,0,2,3,2,4,3,3,Non,19.0,1,Occasionnel,0
+1876,30,1081,Célibataire,Commercial,Représentant Commercial,1,1,0,2,3,4,3,2,3,Non,13.0,0,Occasionnel,0
+1878,22,2472,Célibataire,Consulting,Assistant de Direction,1,1,0,4,3,2,1,3,4,Oui,23.0,0,Occasionnel,0
+1880,36,5673,Marié(e),Commercial,Cadre Commercial,10,10,9,2,2,3,1,3,3,Oui,13.0,1,Occasionnel,7
+1881,31,4197,Divorcé(e),Consulting,Consultant,10,10,8,2,3,3,1,3,3,Non,11.0,1,Occasionnel,2
+1882,34,9713,Marié(e),Commercial,Cadre Commercial,9,5,3,3,3,4,4,3,3,Oui,13.0,3,Occasionnel,0
+1883,29,2062,Célibataire,Consulting,Consultant,11,3,2,4,3,1,2,3,3,Non,14.0,0,Occasionnel,2
+1885,37,4284,Marié(e),Consulting,Assistant de Direction,16,5,3,4,3,1,3,3,4,Oui,22.0,1,Occasionnel,4
+1886,35,4788,Marié(e),Consulting,Tech Lead,4,3,2,4,2,2,4,3,3,Oui,11.0,0,Occasionnel,2
+1888,45,5906,Marié(e),Consulting,Tech Lead,10,9,8,2,2,4,4,2,3,Non,13.0,2,Occasionnel,8
+1890,36,3886,Célibataire,Ressources Humaines,Ressources Humaines,10,10,1,2,2,4,4,2,4,Non,21.0,0,Frequent,8
+1892,40,16823,Divorcé(e),Consulting,Senior Manager,22,19,7,1,3,1,1,3,3,Non,11.0,1,Occasionnel,16
+1893,26,2933,Marié(e),Consulting,Assistant de Direction,1,1,0,2,2,3,3,2,3,Oui,13.0,1,Occasionnel,0
+1898,27,6500,Célibataire,Commercial,Cadre Commercial,9,8,7,1,4,3,2,2,3,Non,14.0,0,Occasionnel,7
+1900,48,17174,Divorcé(e),Consulting,Senior Manager,24,22,17,4,3,4,2,3,3,Non,11.0,1,Frequent,7
+1903,44,5033,Marié(e),Consulting,Manager,10,2,0,2,4,1,4,3,3,Non,15.0,1,Occasionnel,2
+1905,34,2307,Marié(e),Consulting,Assistant de Direction,5,5,2,4,1,1,2,3,4,Oui,23.0,1,Aucun,0
+1907,56,2587,Célibataire,Consulting,Consultant,5,4,2,1,3,4,4,3,3,Non,16.0,0,Occasionnel,0
+1908,36,5507,Marié(e),Commercial,Cadre Commercial,12,4,2,3,2,2,3,1,3,Non,16.0,2,Occasionnel,3
+1909,41,4393,Marié(e),Commercial,Cadre Commercial,14,5,4,3,3,2,3,3,4,Non,21.0,1,Occasionnel,4
+1911,42,13348,Marié(e),Consulting,Directeur Technique,18,13,7,3,3,1,2,4,3,Non,13.0,1,Occasionnel,7
+1912,31,6583,Divorcé(e),Commercial,Cadre Commercial,8,5,2,3,3,4,4,3,3,Oui,11.0,1,Occasionnel,4
+1915,34,8103,Marié(e),Commercial,Cadre Commercial,9,4,2,4,2,4,3,2,3,Oui,12.0,0,Occasionnel,1
+1916,31,3978,Divorcé(e),Consulting,Consultant,4,2,2,1,4,3,2,2,3,Non,12.0,1,Occasionnel,2
+1918,26,2544,Marié(e),Consulting,Consultant,8,7,7,3,4,4,1,3,3,Non,18.0,1,Frequent,7
+1922,45,5399,Célibataire,Consulting,Manager,12,4,2,2,3,3,3,3,3,Non,12.0,0,Frequent,3
+1924,33,5487,Célibataire,Commercial,Cadre Commercial,10,10,4,2,3,3,2,2,3,Non,14.0,0,Occasionnel,9
+1927,28,6834,Marié(e),Commercial,Cadre Commercial,7,7,7,3,2,4,3,3,3,Oui,12.0,1,Frequent,7
+1928,29,1091,Célibataire,Commercial,Représentant Commercial,1,1,0,3,4,1,4,3,3,Non,17.0,0,Frequent,0
+1929,39,5736,Marié(e),Commercial,Cadre Commercial,10,3,2,1,1,3,3,3,3,Non,19.0,1,Aucun,2
+1931,27,2226,Marié(e),Consulting,Assistant de Direction,6,5,3,2,3,2,3,2,3,Non,11.0,1,Occasionnel,2
+1932,34,5747,Marié(e),Consulting,Assistant de Direction,16,15,10,3,2,4,2,3,3,Oui,15.0,0,Frequent,11
+1933,28,9854,Célibataire,Commercial,Cadre Commercial,6,2,0,4,3,3,4,3,3,Oui,11.0,0,Occasionnel,2
+1934,47,5467,Marié(e),Consulting,Assistant de Direction,16,8,7,3,3,2,3,4,3,Non,18.0,1,Aucun,7
+1935,56,5380,Marié(e),Commercial,Cadre Commercial,6,0,0,4,2,1,3,3,3,Non,16.0,1,Occasionnel,0
+1936,39,5151,Marié(e),Consulting,Tech Lead,10,10,0,1,3,1,4,3,4,Non,25.0,1,Occasionnel,9
+1937,38,2133,Divorcé(e),Consulting,Assistant de Direction,20,20,11,4,2,2,3,3,3,Oui,16.0,1,Frequent,7
+1938,58,17875,Marié(e),Commercial,Senior Manager,29,1,0,4,3,4,3,2,3,Oui,13.0,1,Occasionnel,0
+1939,32,2432,Célibataire,Consulting,Assistant de Direction,8,4,1,1,4,3,1,3,3,Oui,14.0,0,Frequent,3
+1940,38,4771,Divorcé(e),Consulting,Assistant de Direction,10,5,2,2,3,4,4,4,3,Non,19.0,2,Occasionnel,3
+1941,49,19161,Marié(e),Consulting,Directeur Technique,28,5,4,2,3,4,4,3,3,Non,15.0,0,Frequent,3
+1943,42,5087,Divorcé(e),Commercial,Cadre Commercial,14,0,0,2,3,4,3,3,3,Oui,12.0,2,Occasionnel,0
+1944,27,2863,Marié(e),Ressources Humaines,Ressources Humaines,1,1,0,1,2,2,1,3,3,Non,12.0,0,Frequent,0
+1945,35,5561,Marié(e),Commercial,Cadre Commercial,6,5,3,2,3,1,4,1,3,Non,16.0,1,Occasionnel,4
+1947,28,2144,Célibataire,Consulting,Assistant de Direction,5,5,3,3,3,3,3,2,3,Non,14.0,0,Aucun,4
+1948,31,3065,Divorcé(e),Consulting,Assistant de Direction,4,4,2,3,3,1,4,4,3,Oui,13.0,1,Aucun,3
+1949,36,2810,Marié(e),Consulting,Consultant,5,5,4,1,4,2,2,3,4,Non,22.0,0,Aucun,2
+1950,34,9888,Célibataire,Commercial,Cadre Commercial,14,14,8,1,3,4,1,2,4,Non,21.0,0,Occasionnel,1
+1951,34,8628,Divorcé(e),Commercial,Cadre Commercial,9,8,7,4,3,3,3,2,3,Non,18.0,1,Occasionnel,1
+1952,26,2867,Célibataire,Consulting,Consultant,8,7,7,3,3,1,4,2,3,Non,13.0,0,Occasionnel,6
+1954,29,5373,Marié(e),Consulting,Manager,6,5,3,1,3,1,1,2,3,Non,12.0,1,Occasionnel,2
+1955,32,6667,Divorcé(e),Consulting,Manager,9,5,1,3,3,4,2,3,3,Non,18.0,1,Aucun,2
+1956,31,5003,Marié(e),Consulting,Assistant de Direction,10,10,8,4,1,1,2,3,4,Non,21.0,0,Frequent,7
+1960,28,2367,Divorcé(e),Consulting,Consultant,6,4,1,3,2,4,1,2,3,Non,12.0,1,Occasionnel,3
+1961,38,2858,Célibataire,Commercial,Représentant Commercial,20,1,0,1,2,1,1,2,3,Non,14.0,0,Occasionnel,0
+1962,35,5204,Marié(e),Commercial,Cadre Commercial,10,10,8,3,3,4,4,3,3,Oui,11.0,0,Occasionnel,9
+1965,27,4105,Célibataire,Commercial,Cadre Commercial,7,7,7,4,3,4,1,3,3,Non,14.0,0,Occasionnel,7
+1966,32,9679,Célibataire,Consulting,Tech Lead,8,1,0,4,2,4,2,3,4,Non,24.0,0,Occasionnel,0
+1967,31,5617,Marié(e),Commercial,Cadre Commercial,10,10,7,1,3,4,3,3,3,Oui,11.0,0,Frequent,8
+1968,53,10448,Célibataire,Commercial,Cadre Commercial,15,2,2,1,3,1,2,2,3,Oui,13.0,0,Occasionnel,2
+1969,54,2897,Marié(e),Consulting,Assistant de Direction,9,4,3,1,3,3,3,2,3,Non,11.0,2,Occasionnel,3
+1970,33,5968,Divorcé(e),Consulting,Manager,9,9,7,4,3,3,3,3,4,Non,20.0,3,Frequent,8
+1971,43,7510,Marié(e),Consulting,Manager,10,10,9,1,3,3,2,3,3,Non,17.0,1,Occasionnel,9
+1972,38,2991,Marié(e),Ressources Humaines,Ressources Humaines,7,6,2,4,3,2,2,3,3,Oui,11.0,1,Frequent,2
+1973,55,19636,Marié(e),Ressources Humaines,Senior Manager,35,10,9,3,4,2,1,3,3,Oui,18.0,1,Occasionnel,4
+1974,31,1129,Divorcé(e),Consulting,Consultant,1,1,0,4,1,4,3,3,3,Oui,11.0,3,Occasionnel,0
+1975,39,13341,Célibataire,Commercial,Cadre Commercial,21,20,8,2,3,1,1,3,3,Non,12.0,0,Occasionnel,10
+1976,42,4332,Célibataire,Consulting,Assistant de Direction,20,20,9,4,2,3,4,3,3,Non,12.0,0,Aucun,7
+1979,31,11031,Marié(e),Consulting,Directeur Technique,13,11,7,3,3,3,3,4,4,Non,20.0,1,Aucun,8
+1980,54,4440,Célibataire,Consulting,Tech Lead,9,5,2,3,3,1,4,3,3,Oui,19.0,0,Occasionnel,4
+1981,24,4617,Célibataire,Consulting,Manager,4,4,3,2,2,3,2,2,3,Non,12.0,0,Occasionnel,2
+1982,23,2647,Célibataire,Consulting,Consultant,5,5,2,4,3,4,3,4,3,Non,13.0,0,Occasionnel,4
+1985,40,6323,Marié(e),Consulting,Consultant,10,10,9,4,3,3,1,4,3,Non,11.0,1,Frequent,4
+1986,40,5677,Marié(e),Commercial,Cadre Commercial,15,11,8,2,3,2,3,3,3,Non,14.0,1,Occasionnel,10
+1987,25,2187,Marié(e),Ressources Humaines,Ressources Humaines,6,2,0,3,3,2,3,3,3,Non,14.0,0,Occasionnel,2
+1989,30,3748,Marié(e),Consulting,Consultant,12,12,8,4,3,2,3,2,3,Non,13.0,0,Occasionnel,7
+1992,25,3977,Divorcé(e),Consulting,Consultant,7,2,2,4,3,3,3,2,3,Oui,19.0,1,Occasionnel,2
+1993,47,8633,Célibataire,Consulting,Manager,25,17,14,1,3,3,2,3,4,Non,23.0,0,Occasionnel,11
+1994,33,2008,Divorcé(e),Consulting,Consultant,1,1,1,2,2,3,3,2,3,Non,12.0,3,Aucun,0
+1995,38,4440,Marié(e),Commercial,Cadre Commercial,16,15,13,4,3,2,1,3,3,Non,15.0,2,Occasionnel,8
+1996,31,3067,Marié(e),Commercial,Représentant Commercial,3,2,2,1,3,3,3,3,3,Non,19.0,1,Occasionnel,2
+1997,38,5321,Marié(e),Consulting,Tech Lead,10,8,3,1,2,3,4,3,3,Non,11.0,1,Frequent,7
+1998,42,5410,Divorcé(e),Consulting,Assistant de Direction,9,4,3,4,3,1,3,2,3,Oui,17.0,1,Occasionnel,2
+1999,41,2782,Marié(e),Consulting,Assistant de Direction,12,5,3,4,3,4,1,3,4,Non,22.0,1,Occasionnel,0
+2000,47,11957,Marié(e),Consulting,Directeur Technique,14,13,8,3,3,2,1,1,3,Non,18.0,2,Aucun,12
+2003,35,2660,Marié(e),Consulting,Consultant,5,2,2,4,3,3,3,3,3,Oui,11.0,1,Occasionnel,2
+2007,22,3375,Célibataire,Consulting,Assistant de Direction,4,3,2,4,3,3,4,4,3,Non,12.0,0,Occasionnel,2
+2008,35,5098,Célibataire,Consulting,Assistant de Direction,10,10,7,2,3,3,2,3,3,Non,19.0,0,Occasionnel,8
+2009,33,4878,Marié(e),Consulting,Manager,10,9,7,2,3,4,1,3,3,Oui,13.0,1,Occasionnel,1
+2010,32,2837,Célibataire,Consulting,Consultant,6,6,2,3,2,2,3,3,3,Non,13.0,0,Occasionnel,1
+2012,40,2406,Marié(e),Consulting,Consultant,8,1,0,1,3,4,3,2,3,Non,19.0,2,Occasionnel,0
+2013,32,2269,Marié(e),Commercial,Représentant Commercial,3,2,2,2,2,2,2,3,3,Non,14.0,1,Occasionnel,2
+2014,39,4108,Célibataire,Consulting,Assistant de Direction,18,7,7,1,3,4,1,3,3,Non,13.0,0,Occasionnel,7
+2015,38,13206,Marié(e),Consulting,Directeur Technique,20,18,16,2,1,3,1,3,3,Non,12.0,1,Occasionnel,11
+2016,32,10422,Marié(e),Commercial,Cadre Commercial,14,14,10,3,3,4,3,3,3,Non,19.0,2,Occasionnel,7
+2017,37,13744,Marié(e),Consulting,Directeur Technique,16,16,11,3,4,4,1,3,4,Oui,25.0,1,Occasionnel,8
+2018,25,4907,Divorcé(e),Commercial,Cadre Commercial,6,5,3,1,3,3,2,2,4,Oui,22.0,1,Occasionnel,4
+2019,52,3482,Divorcé(e),Commercial,Représentant Commercial,16,9,8,1,3,4,2,2,3,Non,15.0,2,Aucun,0
+2020,44,2436,Célibataire,Consulting,Assistant de Direction,6,4,3,2,3,4,3,3,3,Oui,12.0,0,Occasionnel,2
+2021,21,2380,Célibataire,Commercial,Représentant Commercial,2,2,2,3,3,1,4,3,3,Oui,11.0,0,Occasionnel,2
+2022,39,19431,Célibataire,Consulting,Senior Manager,21,6,0,4,3,4,3,2,3,Non,13.0,0,Aucun,3
+2023,23,1790,Marié(e),Commercial,Représentant Commercial,1,1,0,4,3,1,1,2,3,Non,19.0,1,Frequent,0
+2024,36,7644,Marié(e),Commercial,Cadre Commercial,10,9,7,1,2,4,3,3,3,Non,19.0,2,Occasionnel,4
+2025,36,5131,Divorcé(e),Consulting,Tech Lead,18,4,2,4,3,2,2,3,3,Non,13.0,3,Frequent,2
+2026,56,6306,Divorcé(e),Consulting,Manager,13,13,12,3,3,3,1,2,4,Non,21.0,1,Aucun,9
+2027,29,4787,Marié(e),Consulting,Assistant de Direction,4,2,2,1,3,4,2,4,3,Oui,14.0,3,Occasionnel,2
+2031,42,18880,Marié(e),Consulting,Senior Manager,24,22,6,1,3,3,1,2,3,Non,11.0,0,Occasionnel,14
+2032,56,2339,Marié(e),Consulting,Consultant,14,10,9,4,3,3,4,1,3,Non,11.0,1,Occasionnel,8
+2034,41,13570,Marié(e),Consulting,Tech Lead,21,20,7,1,2,2,3,3,4,Non,23.0,1,Occasionnel,10
+2035,34,6712,Marié(e),Commercial,Cadre Commercial,8,8,7,4,2,3,4,3,4,Non,21.0,2,Occasionnel,7
+2036,36,5406,Divorcé(e),Commercial,Cadre Commercial,15,15,12,4,1,4,1,2,4,Non,24.0,1,Aucun,11
+2037,41,8938,Divorcé(e),Commercial,Cadre Commercial,14,5,4,3,2,2,3,3,3,Non,11.0,1,Occasionnel,4
+2038,32,2439,Célibataire,Consulting,Assistant de Direction,4,4,2,4,3,1,4,3,3,Non,14.0,0,Occasionnel,2
+2040,35,8837,Célibataire,Ressources Humaines,Ressources Humaines,9,9,0,3,3,4,3,3,3,Oui,16.0,0,Occasionnel,7
+2041,38,5343,Marié(e),Commercial,Cadre Commercial,10,10,7,1,3,4,3,3,3,Non,11.0,1,Occasionnel,9
+2044,50,6728,Divorcé(e),Commercial,Cadre Commercial,12,6,3,2,3,3,4,3,3,Non,12.0,2,Frequent,1
+2045,36,6652,Marié(e),Commercial,Cadre Commercial,8,6,3,2,2,4,1,2,3,Non,13.0,1,Occasionnel,0
+2046,45,4850,Célibataire,Commercial,Cadre Commercial,8,5,3,4,3,3,3,3,3,Non,15.0,0,Occasionnel,1
+2048,40,2809,Célibataire,Consulting,Assistant de Direction,8,2,2,3,2,3,4,3,3,Non,14.0,0,Occasionnel,2
+2049,35,5689,Marié(e),Consulting,Manager,10,10,2,3,3,3,4,4,3,Oui,14.0,2,Frequent,2
+2051,40,2001,Marié(e),Consulting,Assistant de Direction,20,5,3,3,3,3,2,3,3,Non,14.0,3,Occasionnel,2
+2052,35,2977,Marié(e),Consulting,Assistant de Direction,4,4,3,3,1,4,4,3,3,Non,12.0,1,Occasionnel,1
+2053,29,4025,Marié(e),Consulting,Consultant,10,4,3,4,2,2,1,3,3,Oui,13.0,1,Occasionnel,3
+2054,29,3785,Célibataire,Consulting,Assistant de Direction,5,5,4,4,2,1,2,1,3,Non,14.0,0,Occasionnel,4
+2055,50,10854,Divorcé(e),Commercial,Cadre Commercial,20,3,2,4,2,1,2,3,3,Oui,13.0,1,Occasionnel,0
+2056,39,12031,Marié(e),Commercial,Cadre Commercial,21,20,9,2,2,4,1,2,3,Non,11.0,1,Occasionnel,6
+2057,31,9936,Célibataire,Consulting,Tech Lead,10,9,4,2,3,1,2,3,3,Non,19.0,0,Aucun,7
+2060,26,2966,Célibataire,Commercial,Représentant Commercial,5,4,2,4,2,3,4,3,3,Non,18.0,0,Occasionnel,0
+2061,36,2571,Marié(e),Consulting,Consultant,17,5,2,3,4,4,3,3,3,Non,17.0,1,Frequent,3
+2062,39,9991,Marié(e),Consulting,Manager,9,7,7,4,2,1,1,3,3,Non,15.0,1,Occasionnel,7
+2064,27,6142,Marié(e),Consulting,Tech Lead,6,6,2,2,4,2,2,3,4,Oui,20.0,1,Occasionnel,3
+2065,49,5390,Marié(e),Commercial,Cadre Commercial,17,9,6,4,2,2,4,2,3,Non,14.0,0,Frequent,8
+2068,34,4404,Marié(e),Consulting,Consultant,6,4,3,2,4,3,1,4,3,Non,12.0,0,Occasionnel,2

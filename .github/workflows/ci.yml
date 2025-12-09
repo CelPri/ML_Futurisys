@@ -21,13 +21,19 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install uv and sync dependencies
+      - name: Run tests with coverage (terminal)
         run: |
-          pip install uv
-          uv sync --frozen
-      
-      - name: Run tests
-        run: uv run pytest
+          uv run pytest --cov=app --cov-report=term-missing
+
+      - name: Generate HTML coverage report
+        run: |
+          uv run pytest --cov=app --cov-report=html
+
+      - name: Upload coverage HTML report
+        uses: actions/upload-artifact@v3
+        with:
+          name: coverage-report
+          path: htmlcov/
 
 
       - name: Check Python syntax
