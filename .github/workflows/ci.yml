@@ -23,11 +23,14 @@ jobs:
 
       - name: Run tests with coverage (terminal)
         run: |
+          pip install uv
           uv run pytest --cov=app --cov-report=term-missing
 
       - name: Generate HTML coverage report
         run: |
+          pip install uv
           uv run pytest --cov=app --cov-report=html
+
 
       - name: Upload coverage HTML report
         uses: actions/upload-artifact@v4
